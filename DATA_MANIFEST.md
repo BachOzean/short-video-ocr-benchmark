@@ -5,7 +5,7 @@ This repository packages the code and data used for the short-video OCR benchmar
 Included:
 
 - `data/formal_testset/`: 25 formal test videos with non-empty OCR ground truth, subtitle TXT/JSON files, metadata, and manifest.
-- `data/frame_predictions/`: external 0.5s/frame raw prediction CSVs for RapidOCR, Paddle/PPOCR, and GLM-OCR.
+- `data/frame_predictions/`: external 0.5s/frame raw prediction CSVs/JSONs for RapidOCR, Paddle/PPOCR, GLM-OCR, PPOCR v4, PPOCR v5, and PPOCR v6.
 - `data/gomatching_pp_bov/`: GoMatching++ raw XML/JSON outputs used by the unified evaluator.
 - `results/`: raw predictions, unified subtitle-level merge outputs, per-video CSVs, metrics JSON, status files, and analysis documents.
 - `configs/mmocr_sar_cn/`: MMOCR 1.x SAR_CN config and Chinese dictionary used in the local run.

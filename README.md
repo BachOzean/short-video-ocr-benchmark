@@ -34,8 +34,11 @@ The repository copy of the script uses repo-relative default paths.
 |---|---:|---:|---:|---:|
 | GoMatching++ | 0.5626 | 0.6409 | 0.7202 | 0.6782 |
 | RapidOCR | 0.7862 | 0.5520 | 0.8839 | 0.6796 |
+| PPOCR v4 | 0.9758 | 0.4986 | 0.9014 | 0.6420 |
+| PPOCR v5 | 1.0832 | 0.4686 | 0.8944 | 0.6150 |
 | EasyOCR | 1.0891 | 0.4418 | 0.8051 | 0.5705 |
 | Paddle-VL1.5 / PPOCR result | 1.1087 | 0.4624 | 0.8787 | 0.6060 |
+| PPOCR v6 | 1.1087 | 0.4624 | 0.8787 | 0.6060 |
 | GLM-OCR | 1.4825 | 0.3555 | 0.7363 | 0.4795 |
 | MMOCR PANet_IC15 + SAR_CN | 19.8879 | 0.0319 | 0.6560 | 0.0609 |
 | MMOCR DBNet++ / DBPP_r50 + SAR_CN | 25.3159 | 0.0231 | 0.5977 | 0.0444 |

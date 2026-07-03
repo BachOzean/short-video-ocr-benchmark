@@ -1,0 +1,37 @@
+{
+  "method": "ppocr_v5",
+  "status": "ok",
+  "source": "/home/derbach/code/ocr_eval/results/ppocr_v5_predictions.jsonl",
+  "merge": {
+    "type": "adjacent_conservative_fuzzy",
+    "sim_threshold": 0.88,
+    "short_threshold": 0.94,
+    "frame_interval": 0.5,
+    "max_blank_gap": 1.0
+  },
+  "videos": 25,
+  "micro": {
+    "cer": 1.0832254484926946,
+    "precision": 0.46855924813487065,
+    "recall": 0.8943961531348252,
+    "f1": 0.6149542217700916,
+    "substitutions": 199,
+    "deletions": 372,
+    "insertions": 5286,
+    "errors": 5857,
+    "correct": 4836,
+    "gt_chars": 5407,
+    "pred_chars": 10321
+  },
+  "macro": {
+    "cer": 1.998179222080638,
+    "precision": 0.5938213328236671,
+    "recall": 0.9217204168574693,
+    "f1": 0.6857350716277706
+  },
+  "files": {
+    "merged_predictions": "/home/derbach/code/ocr_eval/results/unified_subtitle_merge/ppocr_v5_merged_predictions.jsonl",
+    "per_video": "/home/derbach/code/ocr_eval/results/unified_subtitle_merge/ppocr_v5_per_video.csv",
+    "metrics": "/home/derbach/code/ocr_eval/results/unified_subtitle_merge/ppocr_v5_metrics.json"
+  }
+}

@@ -60,6 +60,21 @@ DEFAULT_SOURCES = [
         "path": str(REPO_ROOT / "data/frame_predictions/frame_predictions_glmocr_clean.csv"),
     },
     {
+        "method": "ppocr_v4",
+        "kind": "jsonl_frames",
+        "path": str(REPO_ROOT / "results/ppocr_v4_predictions.jsonl"),
+    },
+    {
+        "method": "ppocr_v5",
+        "kind": "jsonl_frames",
+        "path": str(REPO_ROOT / "results/ppocr_v5_predictions.jsonl"),
+    },
+    {
+        "method": "ppocr_v6",
+        "kind": "jsonl_frames",
+        "path": str(REPO_ROOT / "results/ppocr_v6_predictions.jsonl"),
+    },
+    {
         "method": "mmocr_quality_dbpp_sar_cn",
         "kind": "jsonl_frames",
         "path": str(REPO_ROOT / "results/mmocr_quality_dbpp_sar_cn_predictions.jsonl"),
