@@ -1,0 +1,14 @@
+# Minimal runtime requirements for evaluation/post-processing scripts.
+# For exact local environment, see environment/pip_freeze_ocr_eval_venv.txt.
+numpy
+opencv-python
+pandas
+Pillow
+rich
+mmengine==0.10.7
+mmdet==3.1.0
+mmocr==1.0.1
+# Full mmcv with CUDA ops is required for MMOCR detector inference.
+# In this local run mmcv==2.0.1 was built from source against Torch/CUDA.
+mmcv==2.0.1
+torch

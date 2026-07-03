@@ -1,0 +1,456 @@
+<?xml version="1.0" ?>
+<Frames>
+  <frame ID="1"/>
+  <frame ID="2">
+    <object ID="2" Transcription="加班这么晚赶回家">
+      <Point x="198" y="926"/>
+      <Point x="198" y="872"/>
+      <Point x="519" y="872"/>
+      <Point x="519" y="926"/>
+    </object>
+  </frame>
+  <frame ID="3">
+    <object ID="2" Transcription="加班这么晚赶回家">
+      <Point x="199" y="926"/>
+      <Point x="199" y="872"/>
+      <Point x="520" y="872"/>
+      <Point x="520" y="926"/>
+    </object>
+  </frame>
+  <frame ID="4">
+    <object ID="2" Transcription="加班这么晚赶回家">
+      <Point x="199" y="926"/>
+      <Point x="199" y="872"/>
+      <Point x="519" y="872"/>
+      <Point x="519" y="926"/>
+    </object>
+  </frame>
+  <frame ID="5"/>
+  <frame ID="6">
+    <object ID="2" Transcription="买点零食搞劳自己">
+      <Point x="199" y="925"/>
+      <Point x="199" y="873"/>
+      <Point x="518" y="873"/>
+      <Point x="518" y="925"/>
+    </object>
+  </frame>
+  <frame ID="7">
+    <object ID="2" Transcription="买点零食搞劳自己">
+      <Point x="200" y="926"/>
+      <Point x="200" y="873"/>
+      <Point x="518" y="873"/>
+      <Point x="518" y="926"/>
+    </object>
+  </frame>
+  <frame ID="8">
+    <object ID="2" Transcription="买点零食搞劳自己">
+      <Point x="518" y="926"/>
+      <Point x="199" y="926"/>
+      <Point x="199" y="872"/>
+      <Point x="518" y="872"/>
+    </object>
+  </frame>
+  <frame ID="9"/>
+  <frame ID="10"/>
+  <frame ID="11"/>
+  <frame ID="12">
+    <object ID="2" Transcription="小心">
+      <Point x="398" y="926"/>
+      <Point x="318" y="926"/>
+      <Point x="318" y="873"/>
+      <Point x="398" y="873"/>
+    </object>
+  </frame>
+  <frame ID="13"/>
+  <frame ID="14"/>
+  <frame ID="15"/>
+  <frame ID="16"/>
+  <frame ID="17">
+    <object ID="2" Transcription="没想到就交代在这了">
+      <Point x="179" y="928"/>
+      <Point x="178" y="873"/>
+      <Point x="535" y="873"/>
+      <Point x="536" y="927"/>
+    </object>
+  </frame>
+  <frame ID="18">
+    <object ID="2" Transcription="没想到就交代在这了">
+      <Point x="179" y="928"/>
+      <Point x="179" y="872"/>
+      <Point x="536" y="872"/>
+      <Point x="536" y="927"/>
+    </object>
+  </frame>
+  <frame ID="19">
+    <object ID="2" Transcription="没想到就交代在这了">
+      <Point x="178" y="927"/>
+      <Point x="178" y="872"/>
+      <Point x="536" y="872"/>
+      <Point x="536" y="927"/>
+    </object>
+  </frame>
+  <frame ID="20">
+    <object ID="2" Transcription="没想到就交代在这了">
+      <Point x="179" y="928"/>
+      <Point x="179" y="873"/>
+      <Point x="535" y="872"/>
+      <Point x="535" y="927"/>
+    </object>
+  </frame>
+  <frame ID="21"/>
+  <frame ID="22"/>
+  <frame ID="23"/>
+  <frame ID="24"/>
+  <frame ID="25"/>
+  <frame ID="26"/>
+  <frame ID="27"/>
+  <frame ID="28"/>
+  <frame ID="29"/>
+  <frame ID="30"/>
+  <frame ID="31"/>
+  <frame ID="32"/>
+  <frame ID="33"/>
+  <frame ID="34"/>
+  <frame ID="35"/>
+  <frame ID="36"/>
+  <frame ID="37"/>
+  <frame ID="38">
+    <object ID="5" Transcription="坐标锁定">
+      <Point x="171" y="255"/>
+      <Point x="171" y="175"/>
+      <Point x="415" y="175"/>
+      <Point x="415" y="255"/>
+    </object>
+  </frame>
+  <frame ID="39">
+    <object ID="5" Transcription="坐标锁定">
+      <Point x="178" y="248"/>
+      <Point x="178" y="184"/>
+      <Point x="414" y="184"/>
+      <Point x="414" y="248"/>
+    </object>
+    <object ID="6" Transcription="上古大荒山海界">
+      <Point x="179" y="307"/>
+      <Point x="179" y="241"/>
+      <Point x="602" y="241"/>
+      <Point x="602" y="307"/>
+    </object>
+  </frame>
+  <frame ID="40">
+    <object ID="5" Transcription="坐标锁定">
+      <Point x="178" y="248"/>
+      <Point x="178" y="183"/>
+      <Point x="416" y="183"/>
+      <Point x="416" y="248"/>
+    </object>
+    <object ID="6" Transcription="上古大荒山海界">
+      <Point x="179" y="307"/>
+      <Point x="179" y="241"/>
+      <Point x="601" y="241"/>
+      <Point x="601" y="307"/>
+    </object>
+  </frame>
+  <frame ID="41">
+    <object ID="5" Transcription="坐标锁定">
+      <Point x="178" y="248"/>
+      <Point x="178" y="184"/>
+      <Point x="414" y="184"/>
+      <Point x="414" y="248"/>
+    </object>
+    <object ID="6" Transcription="上古大荒山海界">
+      <Point x="180" y="307"/>
+      <Point x="180" y="241"/>
+      <Point x="602" y="241"/>
+      <Point x="602" y="307"/>
+    </object>
+  </frame>
+  <frame ID="42">
+    <object ID="6" Transcription="上古大荒山海界">
+      <Point x="601" y="308"/>
+      <Point x="178" y="308"/>
+      <Point x="178" y="242"/>
+      <Point x="601" y="242"/>
+    </object>
+    <object ID="5" Transcription="坐标锁定">
+      <Point x="179" y="248"/>
+      <Point x="179" y="184"/>
+      <Point x="415" y="184"/>
+      <Point x="415" y="248"/>
+    </object>
+  </frame>
+  <frame ID="43">
+    <object ID="5" Transcription="坐标锁定">
+      <Point x="179" y="249"/>
+      <Point x="179" y="184"/>
+      <Point x="414" y="184"/>
+      <Point x="414" y="249"/>
+    </object>
+    <object ID="6" Transcription="上古大荒山海界">
+      <Point x="179" y="308"/>
+      <Point x="179" y="242"/>
+      <Point x="601" y="242"/>
+      <Point x="601" y="308"/>
+    </object>
+  </frame>
+  <frame ID="44"/>
+  <frame ID="45"/>
+  <frame ID="46"/>
+  <frame ID="47"/>
+  <frame ID="48"/>
+  <frame ID="49"/>
+  <frame ID="50"/>
+  <frame ID="51"/>
+  <frame ID="52">
+    <object ID="7" Transcription="我没死">
+      <Point x="298" y="927"/>
+      <Point x="297" y="872"/>
+      <Point x="421" y="872"/>
+      <Point x="421" y="927"/>
+    </object>
+  </frame>
+  <frame ID="53">
+    <object ID="7" Transcription="我没死">
+      <Point x="297" y="927"/>
+      <Point x="297" y="873"/>
+      <Point x="421" y="872"/>
+      <Point x="421" y="926"/>
+    </object>
+  </frame>
+  <frame ID="54"/>
+  <frame ID="55">
+    <object ID="7" Transcription="这">
+      <Point x="378" y="922"/>
+      <Point x="338" y="922"/>
+      <Point x="339" y="875"/>
+      <Point x="379" y="875"/>
+    </object>
+  </frame>
+  <frame ID="56">
+    <object ID="7" Transcription="这是哪">
+      <Point x="420" y="926"/>
+      <Point x="297" y="926"/>
+      <Point x="297" y="874"/>
+      <Point x="420" y="874"/>
+    </object>
+  </frame>
+  <frame ID="57">
+    <object ID="7" Transcription="这是哪">
+      <Point x="419" y="926"/>
+      <Point x="297" y="926"/>
+      <Point x="297" y="874"/>
+      <Point x="419" y="874"/>
+    </object>
+  </frame>
+  <frame ID="58"/>
+  <frame ID="59"/>
+  <frame ID="60">
+    <object ID="7" Transcription="原主记忆装载中">
+      <Point x="498" y="927"/>
+      <Point x="218" y="927"/>
+      <Point x="218" y="871"/>
+      <Point x="498" y="871"/>
+    </object>
+  </frame>
+  <frame ID="61">
+    <object ID="7" Transcription="原主记忆装载中">
+      <Point x="218" y="927"/>
+      <Point x="218" y="871"/>
+      <Point x="498" y="871"/>
+      <Point x="498" y="927"/>
+    </object>
+  </frame>
+  <frame ID="62">
+    <object ID="7" Transcription="原主记忆装载中">
+      <Point x="218" y="927"/>
+      <Point x="218" y="871"/>
+      <Point x="498" y="871"/>
+      <Point x="498" y="927"/>
+    </object>
+  </frame>
+  <frame ID="63"/>
+  <frame ID="64"/>
+  <frame ID="65"/>
+  <frame ID="66">
+    <object ID="7" Transcription="弟弟把家里的粮食都偷了">
+      <Point x="138" y="927"/>
+      <Point x="138" y="872"/>
+      <Point x="576" y="872"/>
+      <Point x="576" y="927"/>
+    </object>
+  </frame>
+  <frame ID="67">
+    <object ID="7" Transcription="弟弟把家里的粮食都偷了">
+      <Point x="137" y="927"/>
+      <Point x="137" y="872"/>
+      <Point x="576" y="872"/>
+      <Point x="576" y="927"/>
+    </object>
+  </frame>
+  <frame ID="68">
+    <object ID="7" Transcription="弟弟把家里的粮食都偷了">
+      <Point x="576" y="927"/>
+      <Point x="137" y="927"/>
+      <Point x="137" y="872"/>
+      <Point x="576" y="872"/>
+    </object>
+  </frame>
+  <frame ID="69">
+    <object ID="7" Transcription="弟弟把家里的粮食都偷了">
+      <Point x="139" y="926"/>
+      <Point x="139" y="873"/>
+      <Point x="575" y="873"/>
+      <Point x="575" y="926"/>
+    </object>
+  </frame>
+  <frame ID="70">
+    <object ID="8" Transcription="混蛋">
+      <Point x="399" y="925"/>
+      <Point x="319" y="925"/>
+      <Point x="319" y="874"/>
+      <Point x="399" y="875"/>
+    </object>
+  </frame>
+  <frame ID="71">
+    <object ID="8" Transcription="混蛋">
+      <Point x="399" y="925"/>
+      <Point x="319" y="924"/>
+      <Point x="319" y="874"/>
+      <Point x="400" y="875"/>
+    </object>
+  </frame>
+  <frame ID="72"/>
+  <frame ID="73"/>
+  <frame ID="74"/>
+  <frame ID="75"/>
+  <frame ID="76">
+    <object ID="8" Transcription="这个世界是大荒年">
+      <Point x="198" y="926"/>
+      <Point x="198" y="874"/>
+      <Point x="520" y="873"/>
+      <Point x="520" y="926"/>
+    </object>
+  </frame>
+  <frame ID="77">
+    <object ID="8" Transcription="这个世界是大荒年">
+      <Point x="198" y="926"/>
+      <Point x="198" y="874"/>
+      <Point x="520" y="873"/>
+      <Point x="520" y="926"/>
+    </object>
+  </frame>
+  <frame ID="78">
+    <object ID="8" Transcription="这个世界是大荒年">
+      <Point x="198" y="926"/>
+      <Point x="198" y="874"/>
+      <Point x="520" y="873"/>
+      <Point x="520" y="926"/>
+    </object>
+  </frame>
+  <frame ID="79">
+    <object ID="8" Transcription="原来这具身体的原主">
+      <Point x="180" y="928"/>
+      <Point x="179" y="873"/>
+      <Point x="537" y="872"/>
+      <Point x="537" y="927"/>
+    </object>
+  </frame>
+  <frame ID="80">
+    <object ID="8" Transcription="原来这具身体的原主">
+      <Point x="179" y="927"/>
+      <Point x="179" y="873"/>
+      <Point x="537" y="872"/>
+      <Point x="537" y="926"/>
+    </object>
+  </frame>
+  <frame ID="81">
+    <object ID="8" Transcription="原来这具身体的原主">
+      <Point x="180" y="926"/>
+      <Point x="180" y="871"/>
+      <Point x="537" y="871"/>
+      <Point x="537" y="926"/>
+    </object>
+  </frame>
+  <frame ID="82">
+    <object ID="8" Transcription="原来这具身体的原主">
+      <Point x="179" y="928"/>
+      <Point x="179" y="873"/>
+      <Point x="537" y="871"/>
+      <Point x="537" y="926"/>
+    </object>
+  </frame>
+  <frame ID="83">
+    <object ID="8" Transcription="偷了家里口粮换酒">
+      <Point x="197" y="926"/>
+      <Point x="197" y="873"/>
+      <Point x="518" y="872"/>
+      <Point x="518" y="926"/>
+    </object>
+  </frame>
+  <frame ID="84">
+    <object ID="8" Transcription="偷了家里口粮换酒">
+      <Point x="198" y="926"/>
+      <Point x="198" y="872"/>
+      <Point x="518" y="872"/>
+      <Point x="518" y="926"/>
+    </object>
+  </frame>
+  <frame ID="85">
+    <object ID="8" Transcription="偷了家里口粮换酒">
+      <Point x="518" y="926"/>
+      <Point x="198" y="926"/>
+      <Point x="198" y="872"/>
+      <Point x="518" y="873"/>
+    </object>
+  </frame>
+  <frame ID="86">
+    <object ID="8" Transcription="结果醉死在了路上">
+      <Point x="199" y="926"/>
+      <Point x="199" y="873"/>
+      <Point x="519" y="872"/>
+      <Point x="519" y="925"/>
+    </object>
+  </frame>
+  <frame ID="87">
+    <object ID="8" Transcription="结果醉死在了路上">
+      <Point x="199" y="926"/>
+      <Point x="199" y="873"/>
+      <Point x="519" y="873"/>
+      <Point x="519" y="925"/>
+    </object>
+  </frame>
+  <frame ID="88">
+    <object ID="8" Transcription="结果醉死在了路上">
+      <Point x="200" y="925"/>
+      <Point x="200" y="873"/>
+      <Point x="519" y="873"/>
+      <Point x="519" y="924"/>
+    </object>
+  </frame>
+  <frame ID="89"/>
+  <frame ID="90"/>
+  <frame ID="91"/>
+  <frame ID="92"/>
+  <frame ID="93"/>
+  <frame ID="94"/>
+  <frame ID="95"/>
+  <frame ID="96"/>
+  <frame ID="97"/>
+  <frame ID="98"/>
+  <frame ID="99"/>
+  <frame ID="100"/>
+  <frame ID="101"/>
+  <frame ID="102"/>
+  <frame ID="103"/>
+  <frame ID="104"/>
+  <frame ID="105"/>
+  <frame ID="106"/>
+  <frame ID="107"/>
+  <frame ID="108"/>
+  <frame ID="109"/>
+  <frame ID="110"/>
+  <frame ID="111"/>
+  <frame ID="112"/>
+  <frame ID="113"/>
+  <frame ID="114"/>
+  <frame ID="115"/>
+</Frames>

@@ -1,0 +1,37 @@
+{
+  "method": "easyocr",
+  "status": "ok",
+  "source": "/home/derbach/code/ocr_eval/results/easyocr_predictions.jsonl",
+  "merge": {
+    "type": "adjacent_conservative_fuzzy",
+    "sim_threshold": 0.88,
+    "short_threshold": 0.94,
+    "frame_interval": 0.5,
+    "max_blank_gap": 1.0
+  },
+  "videos": 25,
+  "micro": {
+    "cer": 1.0891437026077306,
+    "precision": 0.4417943773470009,
+    "recall": 0.8050675050859997,
+    "f1": 0.5705111402359109,
+    "substitutions": 665,
+    "deletions": 389,
+    "insertions": 4835,
+    "errors": 5889,
+    "correct": 4353,
+    "gt_chars": 5407,
+    "pred_chars": 9853
+  },
+  "macro": {
+    "cer": 2.3923677786435915,
+    "precision": 0.6230829555813204,
+    "recall": 0.8493993829452279,
+    "f1": 0.6811480550984463
+  },
+  "files": {
+    "merged_predictions": "/home/derbach/code/ocr_eval/results/unified_subtitle_merge/easyocr_merged_predictions.jsonl",
+    "per_video": "/home/derbach/code/ocr_eval/results/unified_subtitle_merge/easyocr_per_video.csv",
+    "metrics": "/home/derbach/code/ocr_eval/results/unified_subtitle_merge/easyocr_metrics.json"
+  }
+}

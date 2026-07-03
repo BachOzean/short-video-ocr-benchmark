@@ -1,0 +1,36 @@
+{
+  "status": "resolved",
+  "resolved_at": "2026-07-03T18:56:00+08:00",
+  "environment_fixes": [
+    "Built and installed full mmcv==2.0.1 with CUDA ops for the local Torch/CUDA environment, replacing the previous mmcv-lite-only state.",
+    "Created an MMOCR 1.x-compatible SAR_CN config using the official Chinese SAR dictionary.",
+    "Downloaded SAR_CN, DBNet++ and PANet checkpoints locally.",
+    "Generated a SAR_CN MMOCR 1.x compatibility checkpoint by padding decoder.prediction to match the current Dictionary output shape.",
+    "Added runtime compatibility shims for NumPy 2.x imgaug np.sctypes and Torch weights_only checkpoint loading.",
+    "Added per-frame fallback for PANet empty-crop OpenCV resize failures. Failed frames are emitted as empty OCR results instead of aborting the whole run."
+  ],
+  "outputs": {
+    "quality_raw": "/home/derbach/code/ocr_eval/results/mmocr_quality_dbpp_sar_cn_predictions.jsonl",
+    "engineering_raw": "/home/derbach/code/ocr_eval/results/mmocr_engineering_panet_sar_cn_predictions.jsonl",
+    "quality_metrics": "/home/derbach/code/ocr_eval/results/unified_subtitle_merge/mmocr_quality_dbpp_sar_cn_metrics.json",
+    "engineering_metrics": "/home/derbach/code/ocr_eval/results/unified_subtitle_merge/mmocr_engineering_panet_sar_cn_metrics.json"
+  },
+  "micro_metrics": {
+    "mmocr_quality_dbpp_sar_cn": {
+      "cer": 25.31588681339005,
+      "precision": 0.02306676658459123,
+      "recall": 0.5977436656186425,
+      "f1": 0.04441940050301672
+    },
+    "mmocr_engineering_panet_sar_cn": {
+      "cer": 19.887923062696505,
+      "precision": 0.03193165347809256,
+      "recall": 0.6560014795635287,
+      "f1": 0.06089897671863197
+    }
+  },
+  "notes": [
+    "MMOCR now reports scores, but both configurations over-generate massive amounts of text on full-frame inputs, producing very high insertion counts and poor CER/precision.",
+    "PANet had several invalid empty crops; the runner records only those failed frames as empty outputs."
+  ]
+}

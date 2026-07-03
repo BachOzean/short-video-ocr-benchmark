@@ -1,0 +1,1713 @@
+<?xml version="1.0" ?>
+<Frames>
+  <frame ID="1"/>
+  <frame ID="2"/>
+  <frame ID="3"/>
+  <frame ID="4"/>
+  <frame ID="5"/>
+  <frame ID="6"/>
+  <frame ID="7"/>
+  <frame ID="8"/>
+  <frame ID="9"/>
+  <frame ID="10"/>
+  <frame ID="11">
+    <object ID="2" Transcription="给谁做就说给谁做的">
+      <Point x="337" y="646"/>
+      <Point x="337" y="611"/>
+      <Point x="623" y="611"/>
+      <Point x="623" y="645"/>
+    </object>
+  </frame>
+  <frame ID="12">
+    <object ID="2" Transcription="给谁做就说给谁做的">
+      <Point x="336" y="646"/>
+      <Point x="336" y="611"/>
+      <Point x="623" y="611"/>
+      <Point x="624" y="645"/>
+    </object>
+  </frame>
+  <frame ID="13">
+    <object ID="2" Transcription="给谁做就说给谁做的">
+      <Point x="336" y="645"/>
+      <Point x="336" y="611"/>
+      <Point x="623" y="611"/>
+      <Point x="623" y="645"/>
+    </object>
+    <object ID="3" Transcription="人任漠">
+      <Point x="108" y="111"/>
+      <Point x="26" y="105"/>
+      <Point x="28" y="70"/>
+      <Point x="111" y="76"/>
+    </object>
+  </frame>
+  <frame ID="14">
+    <object ID="3" Transcription="人保演">
+      <Point x="110" y="107"/>
+      <Point x="28" y="102"/>
+      <Point x="30" y="73"/>
+      <Point x="112" y="79"/>
+    </object>
+    <object ID="2" Transcription="起来">
+      <Point x="447" y="648"/>
+      <Point x="447" y="608"/>
+      <Point x="511" y="608"/>
+      <Point x="511" y="648"/>
+    </object>
+  </frame>
+  <frame ID="15">
+    <object ID="3" Transcription="人保演">
+      <Point x="110" y="106"/>
+      <Point x="28" y="103"/>
+      <Point x="30" y="75"/>
+      <Point x="111" y="79"/>
+    </object>
+    <object ID="2" Transcription="起来">
+      <Point x="447" y="649"/>
+      <Point x="447" y="608"/>
+      <Point x="511" y="608"/>
+      <Point x="511" y="649"/>
+    </object>
+  </frame>
+  <frame ID="16">
+    <object ID="3" Transcription="人保演">
+      <Point x="110" y="105"/>
+      <Point x="29" y="103"/>
+      <Point x="29" y="76"/>
+      <Point x="111" y="79"/>
+    </object>
+  </frame>
+  <frame ID="17">
+    <object ID="3" Transcription="人保演">
+      <Point x="110" y="105"/>
+      <Point x="29" y="103"/>
+      <Point x="30" y="76"/>
+      <Point x="111" y="79"/>
+    </object>
+  </frame>
+  <frame ID="18">
+    <object ID="3" Transcription="人保演">
+      <Point x="110" y="107"/>
+      <Point x="28" y="102"/>
+      <Point x="30" y="75"/>
+      <Point x="112" y="79"/>
+    </object>
+  </frame>
+  <frame ID="19">
+    <object ID="3" Transcription="人保演">
+      <Point x="110" y="107"/>
+      <Point x="28" y="102"/>
+      <Point x="30" y="74"/>
+      <Point x="112" y="79"/>
+    </object>
+  </frame>
+  <frame ID="20">
+    <object ID="3" Transcription="人保演">
+      <Point x="110" y="107"/>
+      <Point x="28" y="102"/>
+      <Point x="30" y="74"/>
+      <Point x="112" y="80"/>
+    </object>
+  </frame>
+  <frame ID="21">
+    <object ID="3" Transcription="人保">
+      <Point x="109" y="105"/>
+      <Point x="29" y="102"/>
+      <Point x="30" y="76"/>
+      <Point x="110" y="80"/>
+    </object>
+    <object ID="4" Transcription="小影利">
+      <Point x="30" y="61"/>
+      <Point x="30" y="31"/>
+      <Point x="110" y="31"/>
+      <Point x="110" y="61"/>
+    </object>
+  </frame>
+  <frame ID="22">
+    <object ID="3" Transcription="人保">
+      <Point x="109" y="104"/>
+      <Point x="29" y="102"/>
+      <Point x="30" y="78"/>
+      <Point x="109" y="80"/>
+    </object>
+    <object ID="4" Transcription="影">
+      <Point x="31" y="60"/>
+      <Point x="31" y="32"/>
+      <Point x="109" y="32"/>
+      <Point x="109" y="60"/>
+    </object>
+    <object ID="5" Transcription="涉哥经">
+      <Point x="110" y="123"/>
+      <Point x="36" y="121"/>
+      <Point x="37" y="100"/>
+      <Point x="110" y="102"/>
+    </object>
+  </frame>
+  <frame ID="23">
+    <object ID="3" Transcription="人保视">
+      <Point x="109" y="104"/>
+      <Point x="29" y="103"/>
+      <Point x="30" y="78"/>
+      <Point x="109" y="79"/>
+    </object>
+    <object ID="4" Transcription="影">
+      <Point x="31" y="60"/>
+      <Point x="31" y="32"/>
+      <Point x="109" y="32"/>
+      <Point x="109" y="60"/>
+    </object>
+    <object ID="5" Transcription="哥经">
+      <Point x="109" y="122"/>
+      <Point x="36" y="122"/>
+      <Point x="36" y="101"/>
+      <Point x="110" y="101"/>
+    </object>
+    <object ID="6" Transcription="人致和人禁上模仿">
+      <Point x="30" y="309"/>
+      <Point x="29" y="79"/>
+      <Point x="57" y="79"/>
+      <Point x="58" y="309"/>
+    </object>
+  </frame>
+  <frame ID="24">
+    <object ID="3" Transcription="人保视">
+      <Point x="109" y="104"/>
+      <Point x="29" y="103"/>
+      <Point x="30" y="78"/>
+      <Point x="109" y="79"/>
+    </object>
+    <object ID="4" Transcription="影">
+      <Point x="31" y="60"/>
+      <Point x="31" y="32"/>
+      <Point x="109" y="32"/>
+      <Point x="109" y="60"/>
+    </object>
+    <object ID="6" Transcription="人致天人禁上模仿">
+      <Point x="30" y="311"/>
+      <Point x="29" y="81"/>
+      <Point x="57" y="81"/>
+      <Point x="58" y="311"/>
+    </object>
+    <object ID="5" Transcription="正经">
+      <Point x="109" y="123"/>
+      <Point x="36" y="121"/>
+      <Point x="36" y="100"/>
+      <Point x="110" y="101"/>
+    </object>
+  </frame>
+  <frame ID="25">
+    <object ID="3" Transcription="人保">
+      <Point x="109" y="104"/>
+      <Point x="29" y="102"/>
+      <Point x="30" y="78"/>
+      <Point x="110" y="79"/>
+    </object>
+    <object ID="4" Transcription="影">
+      <Point x="31" y="60"/>
+      <Point x="31" y="32"/>
+      <Point x="109" y="32"/>
+      <Point x="109" y="60"/>
+    </object>
+    <object ID="5" Transcription="哥经">
+      <Point x="109" y="123"/>
+      <Point x="35" y="120"/>
+      <Point x="36" y="99"/>
+      <Point x="110" y="102"/>
+    </object>
+    <object ID="6" Transcription="一人天人禁上模仿">
+      <Point x="55" y="311"/>
+      <Point x="25" y="311"/>
+      <Point x="29" y="73"/>
+      <Point x="59" y="74"/>
+    </object>
+  </frame>
+  <frame ID="26">
+    <object ID="3" Transcription="人保视">
+      <Point x="109" y="104"/>
+      <Point x="29" y="103"/>
+      <Point x="29" y="78"/>
+      <Point x="109" y="79"/>
+    </object>
+    <object ID="4" Transcription="影">
+      <Point x="31" y="60"/>
+      <Point x="31" y="32"/>
+      <Point x="109" y="32"/>
+      <Point x="109" y="60"/>
+    </object>
+    <object ID="6" Transcription="人风平人禁上模仿">
+      <Point x="31" y="310"/>
+      <Point x="27" y="79"/>
+      <Point x="56" y="79"/>
+      <Point x="60" y="310"/>
+    </object>
+  </frame>
+  <frame ID="27">
+    <object ID="3" Transcription="人保视">
+      <Point x="109" y="103"/>
+      <Point x="29" y="103"/>
+      <Point x="29" y="79"/>
+      <Point x="109" y="79"/>
+    </object>
+    <object ID="4" Transcription="影利">
+      <Point x="32" y="60"/>
+      <Point x="32" y="32"/>
+      <Point x="109" y="32"/>
+      <Point x="109" y="60"/>
+    </object>
+    <object ID="6" Transcription="人风和人禁上模仿">
+      <Point x="29" y="311"/>
+      <Point x="28" y="79"/>
+      <Point x="55" y="79"/>
+      <Point x="56" y="310"/>
+    </object>
+    <object ID="5" Transcription="作正经">
+      <Point x="108" y="122"/>
+      <Point x="35" y="120"/>
+      <Point x="36" y="100"/>
+      <Point x="109" y="102"/>
+    </object>
+  </frame>
+  <frame ID="28">
+    <object ID="3" Transcription="人保视">
+      <Point x="109" y="103"/>
+      <Point x="29" y="103"/>
+      <Point x="29" y="79"/>
+      <Point x="109" y="79"/>
+    </object>
+    <object ID="4" Transcription="影">
+      <Point x="31" y="60"/>
+      <Point x="31" y="32"/>
+      <Point x="109" y="32"/>
+      <Point x="109" y="60"/>
+    </object>
+    <object ID="6" Transcription="人风天人禁上模仿">
+      <Point x="33" y="311"/>
+      <Point x="27" y="78"/>
+      <Point x="55" y="78"/>
+      <Point x="60" y="311"/>
+    </object>
+    <object ID="5" Transcription="作正经">
+      <Point x="108" y="122"/>
+      <Point x="35" y="121"/>
+      <Point x="36" y="100"/>
+      <Point x="109" y="102"/>
+    </object>
+  </frame>
+  <frame ID="29">
+    <object ID="3" Transcription="人保">
+      <Point x="109" y="104"/>
+      <Point x="29" y="103"/>
+      <Point x="30" y="78"/>
+      <Point x="110" y="79"/>
+    </object>
+    <object ID="4" Transcription="内影利">
+      <Point x="31" y="61"/>
+      <Point x="31" y="32"/>
+      <Point x="109" y="32"/>
+      <Point x="109" y="61"/>
+    </object>
+    <object ID="6" Transcription="人新致天人禁上模仿">
+      <Point x="33" y="312"/>
+      <Point x="26" y="69"/>
+      <Point x="55" y="69"/>
+      <Point x="62" y="311"/>
+    </object>
+  </frame>
+  <frame ID="30">
+    <object ID="3" Transcription="人保视">
+      <Point x="108" y="105"/>
+      <Point x="30" y="103"/>
+      <Point x="30" y="78"/>
+      <Point x="109" y="80"/>
+    </object>
+    <object ID="4" Transcription="庆影剧">
+      <Point x="33" y="60"/>
+      <Point x="33" y="32"/>
+      <Point x="109" y="32"/>
+      <Point x="109" y="60"/>
+    </object>
+    <object ID="5" Transcription="正经">
+      <Point x="108" y="124"/>
+      <Point x="35" y="122"/>
+      <Point x="35" y="100"/>
+      <Point x="109" y="101"/>
+    </object>
+    <object ID="6" Transcription="人成车人带上模仿">
+      <Point x="31" y="310"/>
+      <Point x="29" y="81"/>
+      <Point x="56" y="81"/>
+      <Point x="58" y="309"/>
+    </object>
+  </frame>
+  <frame ID="31">
+    <object ID="3" Transcription="人保视">
+      <Point x="108" y="105"/>
+      <Point x="29" y="103"/>
+      <Point x="30" y="78"/>
+      <Point x="109" y="80"/>
+    </object>
+    <object ID="4" Transcription="康影剧">
+      <Point x="33" y="60"/>
+      <Point x="33" y="33"/>
+      <Point x="109" y="33"/>
+      <Point x="109" y="60"/>
+    </object>
+    <object ID="5" Transcription="正经">
+      <Point x="35" y="124"/>
+      <Point x="35" y="100"/>
+      <Point x="108" y="100"/>
+      <Point x="108" y="124"/>
+    </object>
+    <object ID="6" Transcription="人风车人带上模仿">
+      <Point x="30" y="309"/>
+      <Point x="30" y="83"/>
+      <Point x="56" y="83"/>
+      <Point x="56" y="309"/>
+    </object>
+  </frame>
+  <frame ID="32">
+    <object ID="3" Transcription="人保视">
+      <Point x="108" y="104"/>
+      <Point x="30" y="103"/>
+      <Point x="30" y="79"/>
+      <Point x="109" y="79"/>
+    </object>
+    <object ID="4" Transcription="庆影利">
+      <Point x="33" y="60"/>
+      <Point x="33" y="32"/>
+      <Point x="110" y="32"/>
+      <Point x="110" y="60"/>
+    </object>
+    <object ID="5" Transcription="正经">
+      <Point x="35" y="124"/>
+      <Point x="35" y="99"/>
+      <Point x="109" y="99"/>
+      <Point x="109" y="124"/>
+    </object>
+  </frame>
+  <frame ID="33">
+    <object ID="3" Transcription="人保视">
+      <Point x="108" y="104"/>
+      <Point x="29" y="103"/>
+      <Point x="30" y="79"/>
+      <Point x="108" y="80"/>
+    </object>
+    <object ID="4" Transcription="成影利">
+      <Point x="32" y="60"/>
+      <Point x="32" y="32"/>
+      <Point x="109" y="32"/>
+      <Point x="109" y="60"/>
+    </object>
+    <object ID="8" Transcription="手视情">
+      <Point x="107" y="82"/>
+      <Point x="29" y="79"/>
+      <Point x="30" y="51"/>
+      <Point x="108" y="55"/>
+    </object>
+    <object ID="5" Transcription="正经">
+      <Point x="36" y="124"/>
+      <Point x="36" y="100"/>
+      <Point x="109" y="99"/>
+      <Point x="109" y="124"/>
+    </object>
+    <object ID="6" Transcription="一人成年人学上模仿">
+      <Point x="33" y="308"/>
+      <Point x="28" y="67"/>
+      <Point x="56" y="66"/>
+      <Point x="61" y="308"/>
+    </object>
+  </frame>
+  <frame ID="34">
+    <object ID="3" Transcription="人保视">
+      <Point x="108" y="104"/>
+      <Point x="29" y="103"/>
+      <Point x="30" y="79"/>
+      <Point x="108" y="80"/>
+    </object>
+    <object ID="4" Transcription="成影利">
+      <Point x="32" y="60"/>
+      <Point x="32" y="32"/>
+      <Point x="110" y="32"/>
+      <Point x="110" y="60"/>
+    </object>
+    <object ID="8" Transcription="手视馆">
+      <Point x="107" y="82"/>
+      <Point x="29" y="81"/>
+      <Point x="29" y="54"/>
+      <Point x="107" y="55"/>
+    </object>
+    <object ID="5" Transcription="正经">
+      <Point x="109" y="125"/>
+      <Point x="35" y="124"/>
+      <Point x="35" y="100"/>
+      <Point x="109" y="100"/>
+    </object>
+    <object ID="6" Transcription="人成车人学止模仿">
+      <Point x="32" y="308"/>
+      <Point x="30" y="79"/>
+      <Point x="56" y="79"/>
+      <Point x="59" y="308"/>
+    </object>
+  </frame>
+  <frame ID="35">
+    <object ID="3" Transcription="人保视">
+      <Point x="108" y="104"/>
+      <Point x="29" y="103"/>
+      <Point x="29" y="79"/>
+      <Point x="109" y="80"/>
+    </object>
+    <object ID="4" Transcription="成影利">
+      <Point x="32" y="60"/>
+      <Point x="32" y="32"/>
+      <Point x="109" y="32"/>
+      <Point x="109" y="60"/>
+    </object>
+    <object ID="5" Transcription="及哥等">
+      <Point x="32" y="125"/>
+      <Point x="32" y="100"/>
+      <Point x="109" y="100"/>
+      <Point x="109" y="125"/>
+    </object>
+    <object ID="8" Transcription="手视价">
+      <Point x="107" y="82"/>
+      <Point x="30" y="79"/>
+      <Point x="31" y="53"/>
+      <Point x="108" y="55"/>
+    </object>
+  </frame>
+  <frame ID="36">
+    <object ID="3" Transcription="人保视">
+      <Point x="108" y="104"/>
+      <Point x="29" y="103"/>
+      <Point x="29" y="79"/>
+      <Point x="109" y="80"/>
+    </object>
+    <object ID="4" Transcription="成影利">
+      <Point x="33" y="60"/>
+      <Point x="33" y="32"/>
+      <Point x="109" y="32"/>
+      <Point x="109" y="60"/>
+    </object>
+    <object ID="5" Transcription="哥等">
+      <Point x="33" y="126"/>
+      <Point x="33" y="100"/>
+      <Point x="109" y="100"/>
+      <Point x="109" y="126"/>
+    </object>
+    <object ID="8" Transcription="手视价">
+      <Point x="107" y="82"/>
+      <Point x="30" y="79"/>
+      <Point x="31" y="53"/>
+      <Point x="108" y="55"/>
+    </object>
+  </frame>
+  <frame ID="37">
+    <object ID="3" Transcription="人保视">
+      <Point x="108" y="104"/>
+      <Point x="29" y="103"/>
+      <Point x="29" y="79"/>
+      <Point x="109" y="80"/>
+    </object>
+    <object ID="4" Transcription="庆影利">
+      <Point x="33" y="59"/>
+      <Point x="33" y="33"/>
+      <Point x="109" y="33"/>
+      <Point x="109" y="59"/>
+    </object>
+    <object ID="5" Transcription="及哥等">
+      <Point x="33" y="126"/>
+      <Point x="33" y="100"/>
+      <Point x="109" y="100"/>
+      <Point x="109" y="126"/>
+    </object>
+    <object ID="8" Transcription="手视价">
+      <Point x="108" y="81"/>
+      <Point x="30" y="81"/>
+      <Point x="30" y="55"/>
+      <Point x="108" y="55"/>
+    </object>
+  </frame>
+  <frame ID="38">
+    <object ID="3" Transcription="人保视">
+      <Point x="108" y="104"/>
+      <Point x="28" y="103"/>
+      <Point x="29" y="79"/>
+      <Point x="109" y="80"/>
+    </object>
+    <object ID="4" Transcription="成影利">
+      <Point x="33" y="59"/>
+      <Point x="33" y="32"/>
+      <Point x="109" y="32"/>
+      <Point x="109" y="59"/>
+    </object>
+    <object ID="5" Transcription="及哥等">
+      <Point x="32" y="126"/>
+      <Point x="32" y="100"/>
+      <Point x="109" y="100"/>
+      <Point x="109" y="126"/>
+    </object>
+    <object ID="8" Transcription="手视价">
+      <Point x="108" y="82"/>
+      <Point x="30" y="81"/>
+      <Point x="30" y="54"/>
+      <Point x="108" y="55"/>
+    </object>
+  </frame>
+  <frame ID="39">
+    <object ID="3" Transcription="人保视">
+      <Point x="108" y="104"/>
+      <Point x="29" y="103"/>
+      <Point x="29" y="79"/>
+      <Point x="109" y="80"/>
+    </object>
+    <object ID="4" Transcription="成影利">
+      <Point x="32" y="59"/>
+      <Point x="32" y="32"/>
+      <Point x="109" y="32"/>
+      <Point x="109" y="59"/>
+    </object>
+    <object ID="5" Transcription="及哥等">
+      <Point x="32" y="126"/>
+      <Point x="32" y="100"/>
+      <Point x="109" y="100"/>
+      <Point x="109" y="126"/>
+    </object>
+    <object ID="8" Transcription="手视价">
+      <Point x="108" y="82"/>
+      <Point x="30" y="81"/>
+      <Point x="30" y="54"/>
+      <Point x="108" y="55"/>
+    </object>
+  </frame>
+  <frame ID="40">
+    <object ID="3" Transcription="人保视">
+      <Point x="108" y="104"/>
+      <Point x="28" y="103"/>
+      <Point x="29" y="79"/>
+      <Point x="108" y="80"/>
+    </object>
+    <object ID="4" Transcription="成影">
+      <Point x="32" y="59"/>
+      <Point x="32" y="33"/>
+      <Point x="109" y="33"/>
+      <Point x="109" y="59"/>
+    </object>
+    <object ID="5" Transcription="及正等">
+      <Point x="107" y="128"/>
+      <Point x="31" y="126"/>
+      <Point x="32" y="100"/>
+      <Point x="107" y="102"/>
+    </object>
+    <object ID="9" Transcription="人不庆车人禁止模仿">
+      <Point x="33" y="305"/>
+      <Point x="28" y="92"/>
+      <Point x="54" y="91"/>
+      <Point x="58" y="304"/>
+    </object>
+  </frame>
+  <frame ID="41">
+    <object ID="3" Transcription="人保视">
+      <Point x="108" y="104"/>
+      <Point x="28" y="102"/>
+      <Point x="29" y="79"/>
+      <Point x="108" y="80"/>
+    </object>
+    <object ID="4" Transcription="成影剧">
+      <Point x="32" y="59"/>
+      <Point x="32" y="33"/>
+      <Point x="109" y="33"/>
+      <Point x="109" y="59"/>
+    </object>
+    <object ID="5" Transcription="及正等">
+      <Point x="107" y="128"/>
+      <Point x="31" y="127"/>
+      <Point x="32" y="100"/>
+      <Point x="107" y="102"/>
+    </object>
+    <object ID="9" Transcription="人不庆年人禁止模仿">
+      <Point x="32" y="305"/>
+      <Point x="27" y="101"/>
+      <Point x="55" y="101"/>
+      <Point x="59" y="304"/>
+    </object>
+  </frame>
+  <frame ID="42">
+    <object ID="3" Transcription="人保视">
+      <Point x="108" y="104"/>
+      <Point x="28" y="103"/>
+      <Point x="28" y="78"/>
+      <Point x="109" y="80"/>
+    </object>
+    <object ID="4" Transcription="成影剧">
+      <Point x="32" y="59"/>
+      <Point x="32" y="33"/>
+      <Point x="109" y="33"/>
+      <Point x="109" y="59"/>
+    </object>
+    <object ID="5" Transcription="及正等">
+      <Point x="107" y="128"/>
+      <Point x="32" y="125"/>
+      <Point x="33" y="99"/>
+      <Point x="108" y="102"/>
+    </object>
+    <object ID="9" Transcription="人不庆车人禁止模仿">
+      <Point x="32" y="306"/>
+      <Point x="29" y="93"/>
+      <Point x="54" y="93"/>
+      <Point x="58" y="305"/>
+    </object>
+  </frame>
+  <frame ID="43">
+    <object ID="3" Transcription="人保视">
+      <Point x="108" y="103"/>
+      <Point x="28" y="102"/>
+      <Point x="28" y="79"/>
+      <Point x="109" y="80"/>
+    </object>
+    <object ID="4" Transcription="成影剧">
+      <Point x="30" y="58"/>
+      <Point x="30" y="33"/>
+      <Point x="109" y="33"/>
+      <Point x="109" y="58"/>
+    </object>
+    <object ID="5" Transcription="及正等">
+      <Point x="106" y="126"/>
+      <Point x="31" y="124"/>
+      <Point x="31" y="100"/>
+      <Point x="107" y="102"/>
+    </object>
+    <object ID="9" Transcription="人未皮车人球止上模仿">
+      <Point x="32" y="306"/>
+      <Point x="29" y="102"/>
+      <Point x="53" y="101"/>
+      <Point x="56" y="305"/>
+    </object>
+  </frame>
+  <frame ID="44">
+    <object ID="3" Transcription="人保视">
+      <Point x="108" y="104"/>
+      <Point x="28" y="102"/>
+      <Point x="28" y="79"/>
+      <Point x="109" y="80"/>
+    </object>
+    <object ID="4" Transcription="成影剧">
+      <Point x="30" y="59"/>
+      <Point x="30" y="33"/>
+      <Point x="109" y="33"/>
+      <Point x="109" y="59"/>
+    </object>
+    <object ID="9" Transcription="人不皮车人装上模仿">
+      <Point x="33" y="304"/>
+      <Point x="30" y="96"/>
+      <Point x="54" y="95"/>
+      <Point x="57" y="303"/>
+    </object>
+    <object ID="5" Transcription="及正等">
+      <Point x="106" y="127"/>
+      <Point x="31" y="124"/>
+      <Point x="32" y="100"/>
+      <Point x="107" y="102"/>
+    </object>
+    <object ID="8" Transcription="年视情">
+      <Point x="106" y="80"/>
+      <Point x="31" y="79"/>
+      <Point x="32" y="53"/>
+      <Point x="107" y="55"/>
+    </object>
+  </frame>
+  <frame ID="45">
+    <object ID="3" Transcription="人保视">
+      <Point x="108" y="104"/>
+      <Point x="27" y="102"/>
+      <Point x="28" y="79"/>
+      <Point x="109" y="80"/>
+    </object>
+    <object ID="4" Transcription="成影剧">
+      <Point x="30" y="59"/>
+      <Point x="30" y="33"/>
+      <Point x="109" y="33"/>
+      <Point x="109" y="59"/>
+    </object>
+    <object ID="9" Transcription="人不成年人球上模仿">
+      <Point x="33" y="304"/>
+      <Point x="28" y="93"/>
+      <Point x="54" y="92"/>
+      <Point x="59" y="303"/>
+    </object>
+    <object ID="5" Transcription="及正等">
+      <Point x="106" y="127"/>
+      <Point x="31" y="125"/>
+      <Point x="32" y="100"/>
+      <Point x="107" y="102"/>
+    </object>
+  </frame>
+  <frame ID="46">
+    <object ID="3" Transcription="人保视">
+      <Point x="108" y="104"/>
+      <Point x="27" y="102"/>
+      <Point x="28" y="79"/>
+      <Point x="109" y="81"/>
+    </object>
+    <object ID="4" Transcription="成影剧">
+      <Point x="30" y="59"/>
+      <Point x="30" y="33"/>
+      <Point x="109" y="33"/>
+      <Point x="109" y="59"/>
+    </object>
+    <object ID="9" Transcription="人不成年人装上模仿">
+      <Point x="32" y="305"/>
+      <Point x="29" y="92"/>
+      <Point x="54" y="92"/>
+      <Point x="57" y="304"/>
+    </object>
+    <object ID="5" Transcription="及正等">
+      <Point x="106" y="127"/>
+      <Point x="31" y="125"/>
+      <Point x="32" y="100"/>
+      <Point x="107" y="102"/>
+    </object>
+    <object ID="8" Transcription="与作情">
+      <Point x="106" y="81"/>
+      <Point x="32" y="80"/>
+      <Point x="33" y="53"/>
+      <Point x="107" y="54"/>
+    </object>
+  </frame>
+  <frame ID="47">
+    <object ID="3" Transcription="人保视">
+      <Point x="108" y="104"/>
+      <Point x="27" y="102"/>
+      <Point x="28" y="79"/>
+      <Point x="109" y="81"/>
+    </object>
+    <object ID="4" Transcription="成影剧">
+      <Point x="30" y="59"/>
+      <Point x="30" y="33"/>
+      <Point x="109" y="33"/>
+      <Point x="109" y="59"/>
+    </object>
+    <object ID="9" Transcription="人木成年人禁上模仿">
+      <Point x="32" y="304"/>
+      <Point x="28" y="95"/>
+      <Point x="54" y="94"/>
+      <Point x="58" y="304"/>
+    </object>
+    <object ID="5" Transcription="及正等">
+      <Point x="106" y="127"/>
+      <Point x="31" y="126"/>
+      <Point x="32" y="100"/>
+      <Point x="107" y="102"/>
+    </object>
+    <object ID="8" Transcription="一作情">
+      <Point x="107" y="80"/>
+      <Point x="31" y="80"/>
+      <Point x="32" y="54"/>
+      <Point x="107" y="54"/>
+    </object>
+  </frame>
+  <frame ID="48">
+    <object ID="3" Transcription="人保视">
+      <Point x="109" y="104"/>
+      <Point x="27" y="102"/>
+      <Point x="28" y="79"/>
+      <Point x="109" y="81"/>
+    </object>
+    <object ID="4" Transcription="成影剧">
+      <Point x="30" y="59"/>
+      <Point x="30" y="33"/>
+      <Point x="109" y="33"/>
+      <Point x="109" y="59"/>
+    </object>
+    <object ID="9" Transcription="人不成年人上模仿">
+      <Point x="32" y="305"/>
+      <Point x="29" y="93"/>
+      <Point x="54" y="93"/>
+      <Point x="57" y="304"/>
+    </object>
+    <object ID="5" Transcription="及正等">
+      <Point x="107" y="127"/>
+      <Point x="31" y="125"/>
+      <Point x="32" y="100"/>
+      <Point x="107" y="102"/>
+    </object>
+    <object ID="8" Transcription="手作情">
+      <Point x="107" y="80"/>
+      <Point x="31" y="79"/>
+      <Point x="31" y="53"/>
+      <Point x="107" y="54"/>
+    </object>
+  </frame>
+  <frame ID="49">
+    <object ID="3" Transcription="人保演">
+      <Point x="108" y="104"/>
+      <Point x="28" y="102"/>
+      <Point x="28" y="79"/>
+      <Point x="108" y="80"/>
+    </object>
+    <object ID="4" Transcription="成影剧">
+      <Point x="30" y="59"/>
+      <Point x="30" y="32"/>
+      <Point x="109" y="32"/>
+      <Point x="109" y="59"/>
+    </object>
+    <object ID="9" Transcription="人不成皮年人上模仿">
+      <Point x="32" y="305"/>
+      <Point x="29" y="102"/>
+      <Point x="52" y="102"/>
+      <Point x="56" y="304"/>
+    </object>
+    <object ID="5" Transcription="及正醉">
+      <Point x="106" y="126"/>
+      <Point x="32" y="125"/>
+      <Point x="32" y="101"/>
+      <Point x="107" y="102"/>
+    </object>
+    <object ID="8" Transcription="与作仿">
+      <Point x="106" y="80"/>
+      <Point x="31" y="78"/>
+      <Point x="32" y="52"/>
+      <Point x="107" y="54"/>
+    </object>
+  </frame>
+  <frame ID="50">
+    <object ID="3" Transcription="人保演">
+      <Point x="108" y="104"/>
+      <Point x="28" y="102"/>
+      <Point x="28" y="79"/>
+      <Point x="108" y="80"/>
+    </object>
+    <object ID="4" Transcription="成影剧">
+      <Point x="30" y="60"/>
+      <Point x="30" y="32"/>
+      <Point x="109" y="32"/>
+      <Point x="109" y="60"/>
+    </object>
+    <object ID="9" Transcription="及不成年人装上模仿">
+      <Point x="32" y="305"/>
+      <Point x="27" y="108"/>
+      <Point x="54" y="108"/>
+      <Point x="59" y="304"/>
+    </object>
+    <object ID="5" Transcription="及世醉">
+      <Point x="33" y="125"/>
+      <Point x="33" y="101"/>
+      <Point x="106" y="101"/>
+      <Point x="106" y="125"/>
+    </object>
+    <object ID="8" Transcription="年作物">
+      <Point x="106" y="80"/>
+      <Point x="29" y="77"/>
+      <Point x="30" y="52"/>
+      <Point x="107" y="55"/>
+    </object>
+  </frame>
+  <frame ID="51">
+    <object ID="3" Transcription="人保视">
+      <Point x="108" y="104"/>
+      <Point x="28" y="102"/>
+      <Point x="28" y="79"/>
+      <Point x="108" y="81"/>
+    </object>
+    <object ID="4" Transcription="成影剧">
+      <Point x="30" y="59"/>
+      <Point x="30" y="33"/>
+      <Point x="109" y="33"/>
+      <Point x="109" y="59"/>
+    </object>
+    <object ID="9" Transcription="万布成年人集上模仿">
+      <Point x="31" y="309"/>
+      <Point x="29" y="105"/>
+      <Point x="55" y="105"/>
+      <Point x="57" y="309"/>
+    </object>
+    <object ID="5" Transcription="及世醉">
+      <Point x="106" y="124"/>
+      <Point x="33" y="124"/>
+      <Point x="33" y="101"/>
+      <Point x="106" y="102"/>
+    </object>
+  </frame>
+  <frame ID="52">
+    <object ID="3" Transcription="人保视">
+      <Point x="108" y="104"/>
+      <Point x="28" y="102"/>
+      <Point x="28" y="79"/>
+      <Point x="108" y="81"/>
+    </object>
+    <object ID="4" Transcription="成影剧">
+      <Point x="30" y="59"/>
+      <Point x="30" y="33"/>
+      <Point x="109" y="33"/>
+      <Point x="109" y="59"/>
+    </object>
+    <object ID="9" Transcription="万布皮年人禁止上模仿">
+      <Point x="31" y="308"/>
+      <Point x="29" y="107"/>
+      <Point x="55" y="107"/>
+      <Point x="57" y="308"/>
+    </object>
+    <object ID="5" Transcription="及世醉">
+      <Point x="107" y="124"/>
+      <Point x="32" y="124"/>
+      <Point x="32" y="101"/>
+      <Point x="107" y="102"/>
+    </object>
+  </frame>
+  <frame ID="53">
+    <object ID="3" Transcription="人保视">
+      <Point x="108" y="104"/>
+      <Point x="27" y="102"/>
+      <Point x="28" y="79"/>
+      <Point x="108" y="81"/>
+    </object>
+    <object ID="4" Transcription="成影剧">
+      <Point x="30" y="59"/>
+      <Point x="30" y="33"/>
+      <Point x="109" y="33"/>
+      <Point x="109" y="59"/>
+    </object>
+    <object ID="9" Transcription="万不皮年人禁上模仿">
+      <Point x="30" y="309"/>
+      <Point x="29" y="107"/>
+      <Point x="55" y="106"/>
+      <Point x="57" y="309"/>
+    </object>
+    <object ID="5" Transcription="万世醉">
+      <Point x="106" y="125"/>
+      <Point x="32" y="124"/>
+      <Point x="32" y="101"/>
+      <Point x="106" y="101"/>
+    </object>
+  </frame>
+  <frame ID="54">
+    <object ID="3" Transcription="人保视">
+      <Point x="108" y="104"/>
+      <Point x="28" y="102"/>
+      <Point x="28" y="79"/>
+      <Point x="108" y="81"/>
+    </object>
+    <object ID="4" Transcription="成影剧">
+      <Point x="30" y="59"/>
+      <Point x="30" y="33"/>
+      <Point x="109" y="33"/>
+      <Point x="109" y="59"/>
+    </object>
+    <object ID="9" Transcription="布成年人禁上模仿">
+      <Point x="31" y="309"/>
+      <Point x="28" y="106"/>
+      <Point x="56" y="106"/>
+      <Point x="59" y="309"/>
+    </object>
+    <object ID="5" Transcription="及世醉">
+      <Point x="106" y="125"/>
+      <Point x="32" y="124"/>
+      <Point x="33" y="101"/>
+      <Point x="106" y="101"/>
+    </object>
+  </frame>
+  <frame ID="55">
+    <object ID="3" Transcription="人保视">
+      <Point x="108" y="104"/>
+      <Point x="28" y="102"/>
+      <Point x="28" y="79"/>
+      <Point x="108" y="81"/>
+    </object>
+    <object ID="9" Transcription="无者新成年人禁止上模仿">
+      <Point x="31" y="309"/>
+      <Point x="28" y="106"/>
+      <Point x="56" y="106"/>
+      <Point x="59" y="309"/>
+    </object>
+    <object ID="4" Transcription="成影剧">
+      <Point x="30" y="59"/>
+      <Point x="30" y="33"/>
+      <Point x="108" y="33"/>
+      <Point x="108" y="59"/>
+    </object>
+    <object ID="5" Transcription="及世醉">
+      <Point x="106" y="125"/>
+      <Point x="33" y="124"/>
+      <Point x="33" y="101"/>
+      <Point x="106" y="101"/>
+    </object>
+  </frame>
+  <frame ID="56">
+    <object ID="3" Transcription="人保视">
+      <Point x="108" y="104"/>
+      <Point x="28" y="102"/>
+      <Point x="28" y="79"/>
+      <Point x="108" y="81"/>
+    </object>
+    <object ID="9" Transcription="无者新成年人禁上模仿">
+      <Point x="30" y="309"/>
+      <Point x="28" y="107"/>
+      <Point x="56" y="106"/>
+      <Point x="59" y="309"/>
+    </object>
+    <object ID="4" Transcription="成影剧">
+      <Point x="30" y="59"/>
+      <Point x="30" y="33"/>
+      <Point x="108" y="33"/>
+      <Point x="108" y="59"/>
+    </object>
+    <object ID="5" Transcription="及世醉">
+      <Point x="106" y="125"/>
+      <Point x="33" y="124"/>
+      <Point x="33" y="101"/>
+      <Point x="106" y="101"/>
+    </object>
+  </frame>
+  <frame ID="57">
+    <object ID="3" Transcription="人保视">
+      <Point x="108" y="104"/>
+      <Point x="28" y="102"/>
+      <Point x="28" y="79"/>
+      <Point x="108" y="81"/>
+    </object>
+    <object ID="9" Transcription="无木皮年人禁上模仿">
+      <Point x="54" y="309"/>
+      <Point x="27" y="308"/>
+      <Point x="29" y="106"/>
+      <Point x="56" y="106"/>
+    </object>
+    <object ID="4" Transcription="成影剧">
+      <Point x="30" y="59"/>
+      <Point x="30" y="33"/>
+      <Point x="109" y="33"/>
+      <Point x="109" y="59"/>
+    </object>
+    <object ID="5" Transcription="及世醉">
+      <Point x="106" y="125"/>
+      <Point x="33" y="124"/>
+      <Point x="33" y="101"/>
+      <Point x="106" y="101"/>
+    </object>
+    <object ID="12" Transcription="不尺导">
+      <Point x="84" y="249"/>
+      <Point x="83" y="138"/>
+      <Point x="110" y="138"/>
+      <Point x="110" y="249"/>
+    </object>
+  </frame>
+  <frame ID="58">
+    <object ID="3" Transcription="人保视">
+      <Point x="108" y="104"/>
+      <Point x="28" y="102"/>
+      <Point x="28" y="79"/>
+      <Point x="108" y="81"/>
+    </object>
+    <object ID="9" Transcription="及木皮车人禁上模仿">
+      <Point x="31" y="309"/>
+      <Point x="29" y="106"/>
+      <Point x="54" y="105"/>
+      <Point x="57" y="308"/>
+    </object>
+    <object ID="4" Transcription="成影剧">
+      <Point x="30" y="59"/>
+      <Point x="30" y="33"/>
+      <Point x="108" y="33"/>
+      <Point x="108" y="59"/>
+    </object>
+    <object ID="5" Transcription="及证坏">
+      <Point x="106" y="126"/>
+      <Point x="32" y="125"/>
+      <Point x="32" y="101"/>
+      <Point x="107" y="102"/>
+    </object>
+  </frame>
+  <frame ID="59">
+    <object ID="3" Transcription="人保演">
+      <Point x="108" y="104"/>
+      <Point x="28" y="103"/>
+      <Point x="29" y="79"/>
+      <Point x="108" y="80"/>
+    </object>
+    <object ID="4" Transcription="成影剧">
+      <Point x="30" y="59"/>
+      <Point x="30" y="32"/>
+      <Point x="109" y="32"/>
+      <Point x="109" y="59"/>
+    </object>
+    <object ID="5" Transcription="及正终">
+      <Point x="106" y="128"/>
+      <Point x="33" y="124"/>
+      <Point x="34" y="99"/>
+      <Point x="107" y="103"/>
+    </object>
+    <object ID="9" Transcription="及布成年人集上模仿">
+      <Point x="29" y="304"/>
+      <Point x="29" y="106"/>
+      <Point x="56" y="106"/>
+      <Point x="57" y="304"/>
+    </object>
+    <object ID="12" Transcription="九不只导">
+      <Point x="83" y="252"/>
+      <Point x="82" y="139"/>
+      <Point x="111" y="139"/>
+      <Point x="112" y="252"/>
+    </object>
+  </frame>
+  <frame ID="60">
+    <object ID="3" Transcription="人保演">
+      <Point x="108" y="104"/>
+      <Point x="28" y="103"/>
+      <Point x="29" y="79"/>
+      <Point x="108" y="80"/>
+    </object>
+    <object ID="4" Transcription="成影剧">
+      <Point x="31" y="59"/>
+      <Point x="31" y="32"/>
+      <Point x="109" y="32"/>
+      <Point x="109" y="59"/>
+    </object>
+    <object ID="5" Transcription="及正终">
+      <Point x="104" y="127"/>
+      <Point x="32" y="124"/>
+      <Point x="34" y="99"/>
+      <Point x="106" y="103"/>
+    </object>
+    <object ID="9" Transcription="及布成一人集上模仿">
+      <Point x="56" y="305"/>
+      <Point x="29" y="305"/>
+      <Point x="30" y="106"/>
+      <Point x="57" y="106"/>
+    </object>
+    <object ID="12" Transcription="九不只导">
+      <Point x="83" y="252"/>
+      <Point x="82" y="141"/>
+      <Point x="111" y="140"/>
+      <Point x="112" y="252"/>
+    </object>
+  </frame>
+  <frame ID="61">
+    <object ID="3" Transcription="人保演">
+      <Point x="108" y="104"/>
+      <Point x="28" y="103"/>
+      <Point x="29" y="79"/>
+      <Point x="108" y="80"/>
+    </object>
+    <object ID="4" Transcription="成影剧">
+      <Point x="30" y="59"/>
+      <Point x="30" y="32"/>
+      <Point x="109" y="32"/>
+      <Point x="109" y="59"/>
+    </object>
+    <object ID="5" Transcription="及正终">
+      <Point x="105" y="126"/>
+      <Point x="33" y="125"/>
+      <Point x="34" y="101"/>
+      <Point x="106" y="102"/>
+    </object>
+    <object ID="9" Transcription="及布成一人集上模仿">
+      <Point x="30" y="305"/>
+      <Point x="28" y="107"/>
+      <Point x="56" y="107"/>
+      <Point x="58" y="305"/>
+    </object>
+    <object ID="12" Transcription="九不r导">
+      <Point x="83" y="253"/>
+      <Point x="82" y="140"/>
+      <Point x="112" y="140"/>
+      <Point x="112" y="253"/>
+    </object>
+    <object ID="13" Transcription="天鱼下的位拍摄">
+      <Point x="84" y="282"/>
+      <Point x="57" y="282"/>
+      <Point x="58" y="126"/>
+      <Point x="85" y="127"/>
+    </object>
+  </frame>
+  <frame ID="62">
+    <object ID="3" Transcription="人保演">
+      <Point x="108" y="104"/>
+      <Point x="28" y="102"/>
+      <Point x="29" y="79"/>
+      <Point x="108" y="80"/>
+    </object>
+    <object ID="4" Transcription="成影剧">
+      <Point x="30" y="59"/>
+      <Point x="30" y="33"/>
+      <Point x="109" y="33"/>
+      <Point x="109" y="59"/>
+    </object>
+    <object ID="5" Transcription="及正终">
+      <Point x="106" y="126"/>
+      <Point x="33" y="125"/>
+      <Point x="33" y="101"/>
+      <Point x="106" y="102"/>
+    </object>
+    <object ID="9" Transcription="及布成年人集上模仿">
+      <Point x="30" y="305"/>
+      <Point x="28" y="107"/>
+      <Point x="55" y="106"/>
+      <Point x="57" y="305"/>
+    </object>
+    <object ID="13" Transcription="鱼下价位拍摄">
+      <Point x="84" y="283"/>
+      <Point x="56" y="283"/>
+      <Point x="57" y="128"/>
+      <Point x="85" y="128"/>
+    </object>
+    <object ID="12" Transcription="九不只导">
+      <Point x="110" y="252"/>
+      <Point x="83" y="252"/>
+      <Point x="84" y="139"/>
+      <Point x="110" y="139"/>
+    </object>
+  </frame>
+  <frame ID="63">
+    <object ID="3" Transcription="人保演">
+      <Point x="108" y="104"/>
+      <Point x="28" y="103"/>
+      <Point x="29" y="79"/>
+      <Point x="108" y="80"/>
+    </object>
+    <object ID="4" Transcription="成影别">
+      <Point x="30" y="59"/>
+      <Point x="30" y="32"/>
+      <Point x="109" y="32"/>
+      <Point x="109" y="59"/>
+    </object>
+    <object ID="9" Transcription="及布成年一人集上模仿">
+      <Point x="32" y="304"/>
+      <Point x="29" y="107"/>
+      <Point x="55" y="107"/>
+      <Point x="57" y="304"/>
+    </object>
+    <object ID="5" Transcription="及正终">
+      <Point x="109" y="127"/>
+      <Point x="34" y="123"/>
+      <Point x="35" y="98"/>
+      <Point x="110" y="102"/>
+    </object>
+  </frame>
+  <frame ID="64">
+    <object ID="3" Transcription="人保演">
+      <Point x="108" y="104"/>
+      <Point x="29" y="102"/>
+      <Point x="29" y="79"/>
+      <Point x="108" y="80"/>
+    </object>
+    <object ID="4" Transcription="成影剧">
+      <Point x="30" y="59"/>
+      <Point x="30" y="33"/>
+      <Point x="110" y="33"/>
+      <Point x="110" y="59"/>
+    </object>
+    <object ID="5" Transcription="及正终">
+      <Point x="104" y="127"/>
+      <Point x="33" y="123"/>
+      <Point x="34" y="99"/>
+      <Point x="106" y="103"/>
+    </object>
+    <object ID="9" Transcription="及布成一人集上模仿">
+      <Point x="32" y="305"/>
+      <Point x="30" y="107"/>
+      <Point x="55" y="107"/>
+      <Point x="57" y="305"/>
+    </object>
+    <object ID="13" Transcription="天全下价经拍摄">
+      <Point x="86" y="282"/>
+      <Point x="54" y="282"/>
+      <Point x="55" y="129"/>
+      <Point x="87" y="129"/>
+    </object>
+  </frame>
+  <frame ID="65">
+    <object ID="3" Transcription="人保演">
+      <Point x="108" y="103"/>
+      <Point x="29" y="103"/>
+      <Point x="29" y="79"/>
+      <Point x="108" y="80"/>
+    </object>
+    <object ID="4" Transcription="成影别">
+      <Point x="30" y="59"/>
+      <Point x="30" y="33"/>
+      <Point x="109" y="33"/>
+      <Point x="109" y="59"/>
+    </object>
+    <object ID="5" Transcription="及正终">
+      <Point x="33" y="125"/>
+      <Point x="33" y="101"/>
+      <Point x="106" y="101"/>
+      <Point x="106" y="125"/>
+    </object>
+    <object ID="9" Transcription="及不布成一人集止上模仿">
+      <Point x="31" y="307"/>
+      <Point x="28" y="109"/>
+      <Point x="53" y="108"/>
+      <Point x="57" y="306"/>
+    </object>
+  </frame>
+  <frame ID="66">
+    <object ID="3" Transcription="人保演">
+      <Point x="108" y="103"/>
+      <Point x="29" y="102"/>
+      <Point x="29" y="80"/>
+      <Point x="108" y="80"/>
+    </object>
+    <object ID="4" Transcription="成影剧">
+      <Point x="30" y="59"/>
+      <Point x="30" y="33"/>
+      <Point x="110" y="33"/>
+      <Point x="110" y="59"/>
+    </object>
+    <object ID="5" Transcription="及正终">
+      <Point x="33" y="125"/>
+      <Point x="33" y="101"/>
+      <Point x="107" y="101"/>
+      <Point x="107" y="125"/>
+    </object>
+    <object ID="9" Transcription="及布成一人集止模仿">
+      <Point x="30" y="307"/>
+      <Point x="29" y="109"/>
+      <Point x="55" y="109"/>
+      <Point x="56" y="307"/>
+    </object>
+    <object ID="13" Transcription="全下桥位拍摄">
+      <Point x="81" y="285"/>
+      <Point x="52" y="284"/>
+      <Point x="57" y="127"/>
+      <Point x="86" y="128"/>
+    </object>
+  </frame>
+  <frame ID="67">
+    <object ID="3" Transcription="人保演">
+      <Point x="108" y="103"/>
+      <Point x="29" y="102"/>
+      <Point x="29" y="80"/>
+      <Point x="108" y="80"/>
+    </object>
+    <object ID="4" Transcription="成影哥">
+      <Point x="30" y="59"/>
+      <Point x="30" y="33"/>
+      <Point x="109" y="33"/>
+      <Point x="109" y="59"/>
+    </object>
+    <object ID="5" Transcription="及正终">
+      <Point x="33" y="125"/>
+      <Point x="33" y="101"/>
+      <Point x="107" y="101"/>
+      <Point x="107" y="125"/>
+    </object>
+    <object ID="9" Transcription="及布成一人集上模仿">
+      <Point x="32" y="305"/>
+      <Point x="29" y="108"/>
+      <Point x="55" y="108"/>
+      <Point x="57" y="305"/>
+    </object>
+    <object ID="13" Transcription="全下桥应拍摄">
+      <Point x="57" y="284"/>
+      <Point x="56" y="129"/>
+      <Point x="84" y="128"/>
+      <Point x="86" y="284"/>
+    </object>
+  </frame>
+  <frame ID="68">
+    <object ID="3" Transcription="人保现">
+      <Point x="108" y="104"/>
+      <Point x="29" y="103"/>
+      <Point x="29" y="80"/>
+      <Point x="108" y="81"/>
+    </object>
+    <object ID="4" Transcription="成影哥">
+      <Point x="30" y="59"/>
+      <Point x="30" y="33"/>
+      <Point x="110" y="33"/>
+      <Point x="110" y="59"/>
+    </object>
+    <object ID="5" Transcription="及正终">
+      <Point x="107" y="126"/>
+      <Point x="33" y="125"/>
+      <Point x="33" y="101"/>
+      <Point x="107" y="101"/>
+    </object>
+    <object ID="9" Transcription="及新成年人禁上模仿">
+      <Point x="32" y="303"/>
+      <Point x="31" y="101"/>
+      <Point x="55" y="101"/>
+      <Point x="57" y="303"/>
+    </object>
+  </frame>
+  <frame ID="69">
+    <object ID="3" Transcription="人保视">
+      <Point x="108" y="105"/>
+      <Point x="29" y="103"/>
+      <Point x="29" y="79"/>
+      <Point x="109" y="81"/>
+    </object>
+    <object ID="4" Transcription="成影剧">
+      <Point x="30" y="60"/>
+      <Point x="30" y="32"/>
+      <Point x="109" y="32"/>
+      <Point x="109" y="60"/>
+    </object>
+    <object ID="9" Transcription="万六成年人装上模仿">
+      <Point x="32" y="303"/>
+      <Point x="31" y="102"/>
+      <Point x="55" y="101"/>
+      <Point x="56" y="302"/>
+    </object>
+    <object ID="5" Transcription="历正经">
+      <Point x="33" y="126"/>
+      <Point x="33" y="101"/>
+      <Point x="107" y="101"/>
+      <Point x="108" y="126"/>
+    </object>
+    <object ID="13" Transcription="天全谢位拍摄">
+      <Point x="87" y="283"/>
+      <Point x="54" y="283"/>
+      <Point x="55" y="128"/>
+      <Point x="87" y="128"/>
+    </object>
+  </frame>
+  <frame ID="70">
+    <object ID="3" Transcription="人保视">
+      <Point x="108" y="105"/>
+      <Point x="29" y="103"/>
+      <Point x="29" y="79"/>
+      <Point x="109" y="81"/>
+    </object>
+    <object ID="4" Transcription="成影剧">
+      <Point x="30" y="60"/>
+      <Point x="30" y="32"/>
+      <Point x="109" y="32"/>
+      <Point x="109" y="60"/>
+    </object>
+    <object ID="5" Transcription="正经">
+      <Point x="34" y="126"/>
+      <Point x="34" y="101"/>
+      <Point x="108" y="101"/>
+      <Point x="108" y="126"/>
+    </object>
+    <object ID="9" Transcription="万六成年人集上模仿">
+      <Point x="32" y="302"/>
+      <Point x="31" y="102"/>
+      <Point x="54" y="102"/>
+      <Point x="56" y="302"/>
+    </object>
+    <object ID="13" Transcription="天全带位拍摄">
+      <Point x="84" y="285"/>
+      <Point x="52" y="284"/>
+      <Point x="55" y="126"/>
+      <Point x="86" y="126"/>
+    </object>
+  </frame>
+  <frame ID="71">
+    <object ID="3" Transcription="人保视">
+      <Point x="109" y="104"/>
+      <Point x="29" y="102"/>
+      <Point x="29" y="79"/>
+      <Point x="109" y="81"/>
+    </object>
+    <object ID="4" Transcription="成影哥">
+      <Point x="31" y="60"/>
+      <Point x="31" y="32"/>
+      <Point x="109" y="32"/>
+      <Point x="109" y="60"/>
+    </object>
+    <object ID="5" Transcription="勿正经">
+      <Point x="33" y="125"/>
+      <Point x="33" y="101"/>
+      <Point x="107" y="101"/>
+      <Point x="107" y="125"/>
+    </object>
+    <object ID="9" Transcription="新成干人集上模仿">
+      <Point x="32" y="303"/>
+      <Point x="30" y="105"/>
+      <Point x="55" y="105"/>
+      <Point x="57" y="303"/>
+    </object>
+    <object ID="13" Transcription="无不长导">
+      <Point x="83" y="252"/>
+      <Point x="80" y="137"/>
+      <Point x="111" y="136"/>
+      <Point x="114" y="251"/>
+    </object>
+  </frame>
+  <frame ID="72">
+    <object ID="3" Transcription="人保视">
+      <Point x="109" y="104"/>
+      <Point x="28" y="102"/>
+      <Point x="29" y="78"/>
+      <Point x="110" y="81"/>
+    </object>
+    <object ID="4" Transcription="成影哥">
+      <Point x="31" y="60"/>
+      <Point x="31" y="32"/>
+      <Point x="109" y="32"/>
+      <Point x="109" y="60"/>
+    </object>
+    <object ID="5" Transcription="爱正经">
+      <Point x="33" y="125"/>
+      <Point x="33" y="101"/>
+      <Point x="107" y="101"/>
+      <Point x="107" y="125"/>
+    </object>
+    <object ID="9" Transcription="新浪年人集止模仿">
+      <Point x="32" y="302"/>
+      <Point x="31" y="106"/>
+      <Point x="55" y="106"/>
+      <Point x="57" y="302"/>
+    </object>
+    <object ID="13" Transcription="会全三桥位拍摄">
+      <Point x="82" y="285"/>
+      <Point x="51" y="284"/>
+      <Point x="56" y="123"/>
+      <Point x="87" y="124"/>
+    </object>
+  </frame>
+  <frame ID="73">
+    <object ID="3" Transcription="人保视">
+      <Point x="109" y="104"/>
+      <Point x="29" y="102"/>
+      <Point x="29" y="79"/>
+      <Point x="109" y="81"/>
+    </object>
+    <object ID="4" Transcription="成影哥">
+      <Point x="31" y="60"/>
+      <Point x="31" y="32"/>
+      <Point x="109" y="32"/>
+      <Point x="109" y="60"/>
+    </object>
+    <object ID="5" Transcription="从正经">
+      <Point x="33" y="125"/>
+      <Point x="33" y="101"/>
+      <Point x="107" y="101"/>
+      <Point x="107" y="125"/>
+    </object>
+    <object ID="9" Transcription="海成年干人集止士模仿">
+      <Point x="31" y="303"/>
+      <Point x="30" y="108"/>
+      <Point x="55" y="107"/>
+      <Point x="56" y="303"/>
+    </object>
+    <object ID="13" Transcription="无不快导">
+      <Point x="84" y="250"/>
+      <Point x="80" y="137"/>
+      <Point x="110" y="137"/>
+      <Point x="113" y="249"/>
+    </object>
+  </frame>
+  <frame ID="74">
+    <object ID="3" Transcription="人保视">
+      <Point x="109" y="105"/>
+      <Point x="28" y="102"/>
+      <Point x="28" y="79"/>
+      <Point x="110" y="82"/>
+    </object>
+    <object ID="4" Transcription="成影哥">
+      <Point x="31" y="59"/>
+      <Point x="31" y="33"/>
+      <Point x="109" y="33"/>
+      <Point x="109" y="59"/>
+    </object>
+    <object ID="5" Transcription="从正经">
+      <Point x="32" y="125"/>
+      <Point x="32" y="101"/>
+      <Point x="107" y="100"/>
+      <Point x="107" y="124"/>
+    </object>
+    <object ID="9" Transcription="从表成年人些止模仿">
+      <Point x="30" y="302"/>
+      <Point x="30" y="108"/>
+      <Point x="55" y="108"/>
+      <Point x="56" y="302"/>
+    </object>
+    <object ID="13" Transcription="元不快导">
+      <Point x="84" y="253"/>
+      <Point x="82" y="135"/>
+      <Point x="110" y="135"/>
+      <Point x="111" y="252"/>
+    </object>
+  </frame>
+  <frame ID="75">
+    <object ID="3" Transcription="人保视">
+      <Point x="109" y="105"/>
+      <Point x="27" y="102"/>
+      <Point x="28" y="78"/>
+      <Point x="110" y="82"/>
+    </object>
+    <object ID="4" Transcription="成影卧">
+      <Point x="31" y="59"/>
+      <Point x="31" y="32"/>
+      <Point x="109" y="32"/>
+      <Point x="109" y="59"/>
+    </object>
+    <object ID="5" Transcription="从正经">
+      <Point x="105" y="127"/>
+      <Point x="33" y="124"/>
+      <Point x="34" y="98"/>
+      <Point x="106" y="101"/>
+    </object>
+    <object ID="9" Transcription="万成年人集止模仿">
+      <Point x="55" y="304"/>
+      <Point x="29" y="303"/>
+      <Point x="31" y="105"/>
+      <Point x="57" y="105"/>
+    </object>
+  </frame>
+  <frame ID="76">
+    <object ID="4" Transcription="成影哥">
+      <Point x="30" y="59"/>
+      <Point x="30" y="32"/>
+      <Point x="109" y="32"/>
+      <Point x="109" y="59"/>
+    </object>
+    <object ID="3" Transcription="人保">
+      <Point x="109" y="105"/>
+      <Point x="27" y="102"/>
+      <Point x="28" y="78"/>
+      <Point x="110" y="81"/>
+    </object>
+    <object ID="5" Transcription="及正经">
+      <Point x="107" y="126"/>
+      <Point x="32" y="125"/>
+      <Point x="32" y="100"/>
+      <Point x="107" y="100"/>
+    </object>
+    <object ID="9" Transcription="万成年人舞上模仿">
+      <Point x="56" y="304"/>
+      <Point x="29" y="303"/>
+      <Point x="31" y="108"/>
+      <Point x="57" y="108"/>
+    </object>
+    <object ID="13" Transcription="元不快引导">
+      <Point x="84" y="250"/>
+      <Point x="81" y="136"/>
+      <Point x="109" y="135"/>
+      <Point x="112" y="250"/>
+    </object>
+  </frame>
+  <frame ID="77">
+    <object ID="3" Transcription="人保演">
+      <Point x="109" y="104"/>
+      <Point x="27" y="102"/>
+      <Point x="28" y="78"/>
+      <Point x="110" y="81"/>
+    </object>
+    <object ID="4" Transcription="成影剧">
+      <Point x="30" y="59"/>
+      <Point x="30" y="32"/>
+      <Point x="110" y="32"/>
+      <Point x="110" y="59"/>
+    </object>
+    <object ID="5" Transcription="从正经">
+      <Point x="107" y="126"/>
+      <Point x="32" y="125"/>
+      <Point x="32" y="100"/>
+      <Point x="107" y="101"/>
+    </object>
+    <object ID="9" Transcription="万成年人舞上模仿">
+      <Point x="56" y="304"/>
+      <Point x="29" y="304"/>
+      <Point x="30" y="107"/>
+      <Point x="57" y="107"/>
+    </object>
+    <object ID="13" Transcription="无不快引导">
+      <Point x="85" y="250"/>
+      <Point x="81" y="136"/>
+      <Point x="109" y="135"/>
+      <Point x="112" y="249"/>
+    </object>
+  </frame>
+</Frames>

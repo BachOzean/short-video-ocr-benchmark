@@ -1,0 +1,480 @@
+<?xml version="1.0" ?>
+<Frames>
+  <frame ID="1">
+    <object ID="1" Transcription="你">
+      <Point x="633" y="707"/>
+      <Point x="622" y="675"/>
+      <Point x="647" y="666"/>
+      <Point x="658" y="698"/>
+    </object>
+  </frame>
+  <frame ID="2">
+    <object ID="1" Transcription="你休要胡言乱语">
+      <Point x="518" y="707"/>
+      <Point x="518" y="667"/>
+      <Point x="761" y="666"/>
+      <Point x="761" y="706"/>
+    </object>
+  </frame>
+  <frame ID="3">
+    <object ID="1" Transcription="你休要胡言乱语">
+      <Point x="518" y="707"/>
+      <Point x="518" y="667"/>
+      <Point x="761" y="666"/>
+      <Point x="761" y="706"/>
+    </object>
+  </frame>
+  <frame ID="4">
+    <object ID="1" Transcription="你休要胡言乱语">
+      <Point x="518" y="707"/>
+      <Point x="518" y="667"/>
+      <Point x="761" y="666"/>
+      <Point x="761" y="706"/>
+    </object>
+  </frame>
+  <frame ID="5"/>
+  <frame ID="6">
+    <object ID="1" Transcription="我的道心坚不可">
+      <Point x="782" y="708"/>
+      <Point x="502" y="707"/>
+      <Point x="502" y="667"/>
+      <Point x="782" y="667"/>
+    </object>
+  </frame>
+  <frame ID="7">
+    <object ID="1" Transcription="我的道心坚不可">
+      <Point x="780" y="708"/>
+      <Point x="501" y="708"/>
+      <Point x="501" y="667"/>
+      <Point x="780" y="667"/>
+    </object>
+  </frame>
+  <frame ID="8"/>
+  <frame ID="9"/>
+  <frame ID="10"/>
+  <frame ID="11">
+    <object ID="1" Transcription="倒是你">
+      <Point x="587" y="706"/>
+      <Point x="587" y="666"/>
+      <Point x="691" y="666"/>
+      <Point x="691" y="706"/>
+    </object>
+  </frame>
+  <frame ID="12"/>
+  <frame ID="13">
+    <object ID="1" Transcription="你一个合欢宗弟子">
+      <Point x="500" y="707"/>
+      <Point x="500" y="667"/>
+      <Point x="774" y="666"/>
+      <Point x="774" y="706"/>
+    </object>
+  </frame>
+  <frame ID="14">
+    <object ID="1" Transcription="你一个合欢宗弟子">
+      <Point x="499" y="707"/>
+      <Point x="498" y="667"/>
+      <Point x="777" y="666"/>
+      <Point x="777" y="706"/>
+    </object>
+  </frame>
+  <frame ID="15">
+    <object ID="1" Transcription="你一个合欢宗弟子">
+      <Point x="777" y="707"/>
+      <Point x="500" y="707"/>
+      <Point x="500" y="667"/>
+      <Point x="777" y="667"/>
+    </object>
+  </frame>
+  <frame ID="16">
+    <object ID="1" Transcription="不在宗门好好修行">
+      <Point x="500" y="707"/>
+      <Point x="500" y="667"/>
+      <Point x="776" y="667"/>
+      <Point x="777" y="707"/>
+    </object>
+  </frame>
+  <frame ID="17">
+    <object ID="1" Transcription="不在宗门好好修行">
+      <Point x="501" y="707"/>
+      <Point x="501" y="668"/>
+      <Point x="778" y="667"/>
+      <Point x="778" y="707"/>
+    </object>
+  </frame>
+  <frame ID="18"/>
+  <frame ID="19">
+    <object ID="1" Transcription="为何总跟着我一个无情道弟子">
+      <Point x="862" y="708"/>
+      <Point x="415" y="707"/>
+      <Point x="415" y="666"/>
+      <Point x="862" y="667"/>
+    </object>
+  </frame>
+  <frame ID="20">
+    <object ID="1" Transcription="为何总跟着我一个无情道弟子">
+      <Point x="861" y="708"/>
+      <Point x="414" y="707"/>
+      <Point x="415" y="666"/>
+      <Point x="861" y="666"/>
+    </object>
+  </frame>
+  <frame ID="21">
+    <object ID="1" Transcription="为何总跟着我一个无情道弟子">
+      <Point x="860" y="709"/>
+      <Point x="415" y="708"/>
+      <Point x="415" y="665"/>
+      <Point x="860" y="666"/>
+    </object>
+  </frame>
+  <frame ID="22">
+    <object ID="1" Transcription="为何总跟着我一个无情道弟子">
+      <Point x="415" y="708"/>
+      <Point x="415" y="666"/>
+      <Point x="862" y="665"/>
+      <Point x="862" y="707"/>
+    </object>
+  </frame>
+  <frame ID="23"/>
+  <frame ID="24"/>
+  <frame ID="25"/>
+  <frame ID="26"/>
+  <frame ID="27"/>
+  <frame ID="28"/>
+  <frame ID="29"/>
+  <frame ID="30">
+    <object ID="7" Transcription="还不是那日道友不肯接住我">
+      <Point x="435" y="707"/>
+      <Point x="435" y="668"/>
+      <Point x="845" y="667"/>
+      <Point x="845" y="707"/>
+    </object>
+  </frame>
+  <frame ID="31">
+    <object ID="7" Transcription="还不是那日道友不肯接住我">
+      <Point x="435" y="707"/>
+      <Point x="435" y="667"/>
+      <Point x="844" y="667"/>
+      <Point x="844" y="707"/>
+    </object>
+  </frame>
+  <frame ID="32">
+    <object ID="7" Transcription="还不是那日道友不肯接住我">
+      <Point x="436" y="709"/>
+      <Point x="435" y="668"/>
+      <Point x="843" y="666"/>
+      <Point x="843" y="707"/>
+    </object>
+  </frame>
+  <frame ID="33">
+    <object ID="7" Transcription="还不是那日道友不肯接住我">
+      <Point x="436" y="707"/>
+      <Point x="435" y="668"/>
+      <Point x="843" y="667"/>
+      <Point x="844" y="706"/>
+    </object>
+  </frame>
+  <frame ID="34">
+    <object ID="7" Transcription="还不是那日道友不肯接住我">
+      <Point x="435" y="707"/>
+      <Point x="435" y="667"/>
+      <Point x="843" y="667"/>
+      <Point x="843" y="706"/>
+    </object>
+  </frame>
+  <frame ID="35">
+    <object ID="7" Transcription="让我结结实实摔在那地上">
+      <Point x="448" y="706"/>
+      <Point x="448" y="667"/>
+      <Point x="829" y="667"/>
+      <Point x="829" y="706"/>
+    </object>
+  </frame>
+  <frame ID="36">
+    <object ID="7" Transcription="让我结结实实摔在那地上">
+      <Point x="829" y="707"/>
+      <Point x="447" y="706"/>
+      <Point x="447" y="668"/>
+      <Point x="829" y="669"/>
+    </object>
+  </frame>
+  <frame ID="37">
+    <object ID="7" Transcription="让我结结实实摔在那地上">
+      <Point x="828" y="706"/>
+      <Point x="448" y="706"/>
+      <Point x="448" y="669"/>
+      <Point x="828" y="669"/>
+    </object>
+  </frame>
+  <frame ID="38">
+    <object ID="7" Transcription="让我结结实实摔在那地上">
+      <Point x="829" y="707"/>
+      <Point x="448" y="706"/>
+      <Point x="448" y="668"/>
+      <Point x="829" y="670"/>
+    </object>
+  </frame>
+  <frame ID="39">
+    <object ID="7" Transcription="让我结结实实摔在那地上">
+      <Point x="828" y="706"/>
+      <Point x="448" y="706"/>
+      <Point x="448" y="669"/>
+      <Point x="829" y="670"/>
+    </object>
+  </frame>
+  <frame ID="40">
+    <object ID="7" Transcription="伤了手臂">
+      <Point x="570" y="707"/>
+      <Point x="570" y="667"/>
+      <Point x="706" y="667"/>
+      <Point x="707" y="706"/>
+    </object>
+  </frame>
+  <frame ID="41">
+    <object ID="7" Transcription="伤了手臂">
+      <Point x="570" y="708"/>
+      <Point x="570" y="667"/>
+      <Point x="706" y="666"/>
+      <Point x="706" y="707"/>
+    </object>
+  </frame>
+  <frame ID="42">
+    <object ID="7" Transcription="伤了手臂">
+      <Point x="569" y="707"/>
+      <Point x="569" y="667"/>
+      <Point x="706" y="667"/>
+      <Point x="706" y="706"/>
+    </object>
+  </frame>
+  <frame ID="43">
+    <object ID="7" Transcription="现在还隐隐作痛呢">
+      <Point x="500" y="706"/>
+      <Point x="500" y="668"/>
+      <Point x="778" y="667"/>
+      <Point x="778" y="705"/>
+    </object>
+  </frame>
+  <frame ID="44">
+    <object ID="7" Transcription="现在还隐隐作痛呢">
+      <Point x="501" y="706"/>
+      <Point x="501" y="668"/>
+      <Point x="780" y="668"/>
+      <Point x="780" y="705"/>
+    </object>
+  </frame>
+  <frame ID="45">
+    <object ID="7" Transcription="现在还隐隐作痛呢">
+      <Point x="501" y="705"/>
+      <Point x="501" y="668"/>
+      <Point x="778" y="668"/>
+      <Point x="778" y="705"/>
+    </object>
+  </frame>
+  <frame ID="46"/>
+  <frame ID="47"/>
+  <frame ID="48"/>
+  <frame ID="49"/>
+  <frame ID="50">
+    <object ID="7" Transcription="我受了伤">
+      <Point x="572" y="707"/>
+      <Point x="572" y="668"/>
+      <Point x="709" y="667"/>
+      <Point x="709" y="707"/>
+    </object>
+  </frame>
+  <frame ID="51">
+    <object ID="7" Transcription="我受了伤">
+      <Point x="571" y="708"/>
+      <Point x="571" y="668"/>
+      <Point x="709" y="668"/>
+      <Point x="709" y="707"/>
+    </object>
+  </frame>
+  <frame ID="52">
+    <object ID="7" Transcription="我受了伤">
+      <Point x="571" y="707"/>
+      <Point x="571" y="668"/>
+      <Point x="709" y="667"/>
+      <Point x="709" y="707"/>
+    </object>
+  </frame>
+  <frame ID="53">
+    <object ID="7" Transcription="无人照料">
+      <Point x="569" y="707"/>
+      <Point x="569" y="669"/>
+      <Point x="706" y="668"/>
+      <Point x="706" y="706"/>
+    </object>
+  </frame>
+  <frame ID="54">
+    <object ID="7" Transcription="无人照料">
+      <Point x="569" y="706"/>
+      <Point x="569" y="669"/>
+      <Point x="706" y="667"/>
+      <Point x="707" y="705"/>
+    </object>
+  </frame>
+  <frame ID="55">
+    <object ID="7" Transcription="无人照料">
+      <Point x="570" y="706"/>
+      <Point x="569" y="668"/>
+      <Point x="707" y="667"/>
+      <Point x="707" y="705"/>
+    </object>
+  </frame>
+  <frame ID="56">
+    <object ID="7" Transcription="自然得怪在你头上">
+      <Point x="778" y="706"/>
+      <Point x="505" y="705"/>
+      <Point x="505" y="667"/>
+      <Point x="778" y="668"/>
+    </object>
+  </frame>
+  <frame ID="57">
+    <object ID="7" Transcription="自然得怪在你头上">
+      <Point x="778" y="705"/>
+      <Point x="505" y="705"/>
+      <Point x="505" y="668"/>
+      <Point x="778" y="668"/>
+    </object>
+  </frame>
+  <frame ID="58">
+    <object ID="7" Transcription="自然得怪在你头上">
+      <Point x="779" y="706"/>
+      <Point x="505" y="705"/>
+      <Point x="505" y="667"/>
+      <Point x="779" y="668"/>
+    </object>
+  </frame>
+  <frame ID="59">
+    <object ID="7" Transcription="自然得怪在你头上">
+      <Point x="778" y="706"/>
+      <Point x="505" y="705"/>
+      <Point x="505" y="666"/>
+      <Point x="778" y="667"/>
+    </object>
+  </frame>
+  <frame ID="60">
+    <object ID="7" Transcription="自然得怪在你头上">
+      <Point x="779" y="706"/>
+      <Point x="505" y="705"/>
+      <Point x="505" y="667"/>
+      <Point x="779" y="668"/>
+    </object>
+  </frame>
+  <frame ID="61">
+    <object ID="7" Transcription="小道友不会始乱终弃吧">
+      <Point x="466" y="708"/>
+      <Point x="466" y="666"/>
+      <Point x="812" y="665"/>
+      <Point x="812" y="707"/>
+    </object>
+  </frame>
+  <frame ID="62">
+    <object ID="7" Transcription="小道友不会始乱终弃吧">
+      <Point x="466" y="708"/>
+      <Point x="466" y="666"/>
+      <Point x="812" y="665"/>
+      <Point x="812" y="707"/>
+    </object>
+  </frame>
+  <frame ID="63">
+    <object ID="7" Transcription="小道友不会始乱终弃吧">
+      <Point x="467" y="708"/>
+      <Point x="466" y="665"/>
+      <Point x="812" y="665"/>
+      <Point x="812" y="707"/>
+    </object>
+  </frame>
+  <frame ID="64">
+    <object ID="7" Transcription="小道友不会始乱终弃吧">
+      <Point x="466" y="708"/>
+      <Point x="466" y="666"/>
+      <Point x="812" y="665"/>
+      <Point x="812" y="707"/>
+    </object>
+  </frame>
+  <frame ID="65"/>
+  <frame ID="66"/>
+  <frame ID="67"/>
+  <frame ID="68"/>
+  <frame ID="69"/>
+  <frame ID="70"/>
+  <frame ID="71"/>
+  <frame ID="72"/>
+  <frame ID="73"/>
+  <frame ID="74"/>
+  <frame ID="75"/>
+  <frame ID="76"/>
+  <frame ID="77"/>
+  <frame ID="78">
+    <object ID="9" Transcription="那你跟着我">
+      <Point x="552" y="708"/>
+      <Point x="552" y="667"/>
+      <Point x="727" y="667"/>
+      <Point x="727" y="708"/>
+    </object>
+  </frame>
+  <frame ID="79"/>
+  <frame ID="80">
+    <object ID="9" Transcription="不要走丢了">
+      <Point x="552" y="707"/>
+      <Point x="552" y="668"/>
+      <Point x="724" y="668"/>
+      <Point x="725" y="706"/>
+    </object>
+  </frame>
+  <frame ID="81">
+    <object ID="9" Transcription="不要走丢了">
+      <Point x="553" y="708"/>
+      <Point x="553" y="668"/>
+      <Point x="724" y="667"/>
+      <Point x="724" y="707"/>
+    </object>
+  </frame>
+  <frame ID="82"/>
+  <frame ID="83">
+    <object ID="9" Transcription="免得再受了伤">
+      <Point x="535" y="707"/>
+      <Point x="535" y="667"/>
+      <Point x="744" y="667"/>
+      <Point x="744" y="706"/>
+    </object>
+  </frame>
+  <frame ID="84">
+    <object ID="9" Transcription="免得再受了伤">
+      <Point x="535" y="707"/>
+      <Point x="535" y="667"/>
+      <Point x="743" y="667"/>
+      <Point x="743" y="706"/>
+    </object>
+  </frame>
+  <frame ID="85"/>
+  <frame ID="86">
+    <object ID="9" Transcription="这还差不多">
+      <Point x="553" y="708"/>
+      <Point x="553" y="667"/>
+      <Point x="725" y="666"/>
+      <Point x="725" y="708"/>
+    </object>
+  </frame>
+  <frame ID="87">
+    <object ID="9" Transcription="这还差不多">
+      <Point x="553" y="707"/>
+      <Point x="553" y="667"/>
+      <Point x="725" y="667"/>
+      <Point x="725" y="707"/>
+    </object>
+  </frame>
+  <frame ID="88">
+    <object ID="9" Transcription="这还差不多">
+      <Point x="552" y="708"/>
+      <Point x="552" y="667"/>
+      <Point x="724" y="666"/>
+      <Point x="724" y="707"/>
+    </object>
+  </frame>
+  <frame ID="89"/>
+  <frame ID="90"/>
+  <frame ID="91"/>
+  <frame ID="92"/>
+</Frames>

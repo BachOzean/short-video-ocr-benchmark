@@ -1,0 +1,254 @@
+<?xml version="1.0" ?>
+<Frames>
+  <frame ID="1"/>
+  <frame ID="2"/>
+  <frame ID="3"/>
+  <frame ID="4"/>
+  <frame ID="5">
+    <object ID="2" Transcription="小月亮">
+      <Point x="428" y="933"/>
+      <Point x="288" y="932"/>
+      <Point x="289" y="881"/>
+      <Point x="429" y="882"/>
+    </object>
+  </frame>
+  <frame ID="6">
+    <object ID="2" Transcription="小月亮">
+      <Point x="297" y="931"/>
+      <Point x="297" y="883"/>
+      <Point x="422" y="883"/>
+      <Point x="422" y="931"/>
+    </object>
+  </frame>
+  <frame ID="7">
+    <object ID="2" Transcription="小月亮">
+      <Point x="298" y="931"/>
+      <Point x="298" y="883"/>
+      <Point x="422" y="882"/>
+      <Point x="422" y="931"/>
+    </object>
+  </frame>
+  <frame ID="8"/>
+  <frame ID="9"/>
+  <frame ID="10">
+    <object ID="2" Transcription="程亦">
+      <Point x="316" y="929"/>
+      <Point x="316" y="884"/>
+      <Point x="401" y="884"/>
+      <Point x="401" y="929"/>
+    </object>
+  </frame>
+  <frame ID="11">
+    <object ID="2" Transcription="程亦">
+      <Point x="317" y="928"/>
+      <Point x="317" y="886"/>
+      <Point x="399" y="885"/>
+      <Point x="399" y="928"/>
+    </object>
+  </frame>
+  <frame ID="12">
+    <object ID="2" Transcription="程亦">
+      <Point x="399" y="928"/>
+      <Point x="318" y="928"/>
+      <Point x="318" y="886"/>
+      <Point x="399" y="886"/>
+    </object>
+  </frame>
+  <frame ID="13"/>
+  <frame ID="14"/>
+  <frame ID="15"/>
+  <frame ID="16"/>
+  <frame ID="17"/>
+  <frame ID="18">
+    <object ID="3" Transcription="谁都好吗">
+      <Point x="444" y="931"/>
+      <Point x="271" y="931"/>
+      <Point x="271" y="883"/>
+      <Point x="444" y="884"/>
+    </object>
+  </frame>
+  <frame ID="19">
+    <object ID="3" Transcription="谁都好吗">
+      <Point x="439" y="930"/>
+      <Point x="277" y="929"/>
+      <Point x="277" y="886"/>
+      <Point x="439" y="886"/>
+    </object>
+  </frame>
+  <frame ID="20">
+    <object ID="3" Transcription="谁都好吗">
+      <Point x="440" y="930"/>
+      <Point x="275" y="930"/>
+      <Point x="275" y="886"/>
+      <Point x="440" y="886"/>
+    </object>
+  </frame>
+  <frame ID="21"/>
+  <frame ID="22"/>
+  <frame ID="23"/>
+  <frame ID="24">
+    <object ID="3" Transcription="除了你">
+      <Point x="297" y="928"/>
+      <Point x="297" y="886"/>
+      <Point x="421" y="886"/>
+      <Point x="421" y="928"/>
+    </object>
+  </frame>
+  <frame ID="25">
+    <object ID="3" Transcription="除了你">
+      <Point x="421" y="928"/>
+      <Point x="298" y="928"/>
+      <Point x="298" y="886"/>
+      <Point x="422" y="887"/>
+    </object>
+  </frame>
+  <frame ID="26">
+    <object ID="3" Transcription="除了你">
+      <Point x="423" y="928"/>
+      <Point x="298" y="928"/>
+      <Point x="298" y="886"/>
+      <Point x="423" y="886"/>
+    </object>
+  </frame>
+  <frame ID="27"/>
+  <frame ID="28"/>
+  <frame ID="29"/>
+  <frame ID="30"/>
+  <frame ID="31"/>
+  <frame ID="32"/>
+  <frame ID="33">
+    <object ID="4" Transcription="我明明记得她爱过我的">
+      <Point x="113" y="934"/>
+      <Point x="113" y="878"/>
+      <Point x="604" y="877"/>
+      <Point x="604" y="934"/>
+    </object>
+  </frame>
+  <frame ID="34">
+    <object ID="4" Transcription="我明明记得她爱过我的">
+      <Point x="153" y="930"/>
+      <Point x="153" y="883"/>
+      <Point x="563" y="883"/>
+      <Point x="563" y="930"/>
+    </object>
+  </frame>
+  <frame ID="35">
+    <object ID="4" Transcription="我明明记得她爱过我的">
+      <Point x="564" y="930"/>
+      <Point x="153" y="929"/>
+      <Point x="153" y="884"/>
+      <Point x="564" y="884"/>
+    </object>
+  </frame>
+  <frame ID="36">
+    <object ID="4" Transcription="我明明记得她爱过我的">
+      <Point x="152" y="930"/>
+      <Point x="152" y="884"/>
+      <Point x="563" y="884"/>
+      <Point x="563" y="930"/>
+    </object>
+  </frame>
+  <frame ID="37">
+    <object ID="4" Transcription="我明明记得她爱过我的">
+      <Point x="563" y="930"/>
+      <Point x="153" y="929"/>
+      <Point x="153" y="884"/>
+      <Point x="563" y="885"/>
+    </object>
+  </frame>
+  <frame ID="38">
+    <object ID="4" Transcription="我明明记得她爱过我的">
+      <Point x="563" y="929"/>
+      <Point x="152" y="929"/>
+      <Point x="152" y="884"/>
+      <Point x="563" y="884"/>
+    </object>
+  </frame>
+  <frame ID="39">
+    <object ID="4" Transcription="我明明记得她爱过我的">
+      <Point x="564" y="929"/>
+      <Point x="153" y="929"/>
+      <Point x="153" y="883"/>
+      <Point x="564" y="884"/>
+    </object>
+  </frame>
+  <frame ID="40"/>
+  <frame ID="41"/>
+  <frame ID="42"/>
+  <frame ID="43"/>
+  <frame ID="44"/>
+  <frame ID="45">
+    <object ID="5" Transcription="小月亮">
+      <Point x="298" y="931"/>
+      <Point x="298" y="884"/>
+      <Point x="421" y="884"/>
+      <Point x="421" y="931"/>
+    </object>
+  </frame>
+  <frame ID="46"/>
+  <frame ID="47">
+    <object ID="5" Transcription="我把你从天上社下来">
+      <Point x="564" y="934"/>
+      <Point x="125" y="934"/>
+      <Point x="125" y="878"/>
+      <Point x="564" y="878"/>
+    </object>
+  </frame>
+  <frame ID="48">
+    <object ID="5" Transcription="我把你从天上扯下来">
+      <Point x="163" y="930"/>
+      <Point x="163" y="884"/>
+      <Point x="536" y="884"/>
+      <Point x="536" y="930"/>
+    </object>
+  </frame>
+  <frame ID="49">
+    <object ID="5" Transcription="我把你从天上扯下来">
+      <Point x="163" y="929"/>
+      <Point x="163" y="884"/>
+      <Point x="536" y="884"/>
+      <Point x="536" y="929"/>
+    </object>
+  </frame>
+  <frame ID="50">
+    <object ID="5" Transcription="我把你从天上扯下来">
+      <Point x="535" y="930"/>
+      <Point x="162" y="929"/>
+      <Point x="163" y="884"/>
+      <Point x="535" y="885"/>
+    </object>
+  </frame>
+  <frame ID="51">
+    <object ID="5" Transcription="好不好">
+      <Point x="424" y="930"/>
+      <Point x="291" y="930"/>
+      <Point x="291" y="883"/>
+      <Point x="424" y="883"/>
+    </object>
+  </frame>
+  <frame ID="52">
+    <object ID="5" Transcription="好不好">
+      <Point x="421" y="929"/>
+      <Point x="296" y="929"/>
+      <Point x="296" y="885"/>
+      <Point x="421" y="885"/>
+    </object>
+  </frame>
+  <frame ID="53">
+    <object ID="5" Transcription="好不好">
+      <Point x="421" y="929"/>
+      <Point x="296" y="929"/>
+      <Point x="296" y="885"/>
+      <Point x="422" y="885"/>
+    </object>
+  </frame>
+  <frame ID="54"/>
+  <frame ID="55"/>
+  <frame ID="56"/>
+  <frame ID="57"/>
+  <frame ID="58"/>
+  <frame ID="59"/>
+  <frame ID="60"/>
+  <frame ID="61"/>
+  <frame ID="62"/>
+</Frames>

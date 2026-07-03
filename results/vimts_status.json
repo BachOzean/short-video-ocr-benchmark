@@ -1,0 +1,11 @@
+{
+  "status": "unavailable",
+  "requested": "VimTS original configuration",
+  "environment": {
+    "venv": "/home/derbach/code/ocr_eval_venv",
+    "python": "3.12",
+    "gpu": "NVIDIA GeForce RTX 5070 / CUDA 13 stack"
+  },
+  "reason": "No local VimTS prediction file or runnable original VimTS deployment is available. The original VimTS stack is tied to an older Python/PyTorch/CUDA/Detectron2/custom-op environment and is not directly compatible with the current Python 3.12 + RTX 5070 CUDA 13 environment without porting.",
+  "decision": "No score reported for VimTS until a compatible deployment or 0.5s/frame prediction file is available."
+}

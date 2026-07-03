@@ -1,0 +1,228 @@
+{
+  "statuses": [
+    {
+      "engine": "easyocr",
+      "status": "complete",
+      "prediction_file": "/home/derbach/code/ocr_eval/results/easyocr_predictions.jsonl",
+      "elapsed_seconds": 157.828,
+      "metrics": {
+        "macro_acc_norm_edit": 0.5359101741479703,
+        "corpus_acc_norm_edit": 0.38231956423059466,
+        "macro_gt_line_recall": 0.6416306029143667,
+        "videos": 25,
+        "per_video": [
+          {
+            "video_id": "7624633114488433990",
+            "acc_norm_edit": 0.3264840182648402,
+            "gt_line_recall": 0.0,
+            "gt_chars": 358,
+            "pred_chars": 438,
+            "frames": 109
+          },
+          {
+            "video_id": "7624701545757957766",
+            "acc_norm_edit": 0.448339483394834,
+            "gt_line_recall": 0.6730769230769231,
+            "gt_chars": 267,
+            "pred_chars": 542,
+            "frames": 156
+          },
+          {
+            "video_id": "7625472985927237489",
+            "acc_norm_edit": 0.5,
+            "gt_line_recall": 0.3333333333333333,
+            "gt_chars": 28,
+            "pred_chars": 32,
+            "frames": 77
+          },
+          {
+            "video_id": "7625261726909372089",
+            "acc_norm_edit": 0.6839080459770115,
+            "gt_line_recall": 0.9117647058823529,
+            "gt_chars": 145,
+            "pred_chars": 174,
+            "frames": 95
+          },
+          {
+            "video_id": "7625248139076178405",
+            "acc_norm_edit": 0.2663043478260869,
+            "gt_line_recall": 0.2916666666666667,
+            "gt_chars": 146,
+            "pred_chars": 368,
+            "frames": 121
+          },
+          {
+            "video_id": "7625060323589901610",
+            "acc_norm_edit": 0.5975609756097561,
+            "gt_line_recall": 0.375,
+            "gt_chars": 82,
+            "pred_chars": 50,
+            "frames": 21
+          },
+          {
+            "video_id": "7624835939831155313",
+            "acc_norm_edit": 0.013903743315508033,
+            "gt_line_recall": 0.0,
+            "gt_chars": 21,
+            "pred_chars": 935,
+            "frames": 82
+          },
+          {
+            "video_id": "7624158707772886307",
+            "acc_norm_edit": 0.1748896911351785,
+            "gt_line_recall": 0.037037037037037035,
+            "gt_chars": 1426,
+            "pred_chars": 2493,
+            "frames": 61
+          },
+          {
+            "video_id": "7625859506869685510",
+            "acc_norm_edit": 0.1694915254237288,
+            "gt_line_recall": 0.4090909090909091,
+            "gt_chars": 118,
+            "pred_chars": 104,
+            "frames": 164
+          },
+          {
+            "video_id": "7624978356999556392",
+            "acc_norm_edit": 0.71875,
+            "gt_line_recall": 1.0,
+            "gt_chars": 23,
+            "pred_chars": 32,
+            "frames": 30
+          },
+          {
+            "video_id": "7625645779021057343",
+            "acc_norm_edit": 0.4873096446700508,
+            "gt_line_recall": 0.5294117647058824,
+            "gt_chars": 108,
+            "pred_chars": 197,
+            "frames": 87
+          },
+          {
+            "video_id": "7624365247414963496",
+            "acc_norm_edit": 0.20664206642066418,
+            "gt_line_recall": 0.2909090909090909,
+            "gt_chars": 271,
+            "pred_chars": 56,
+            "frames": 35
+          },
+          {
+            "video_id": "7625253704698556297",
+            "acc_norm_edit": 0.625,
+            "gt_line_recall": 0.3333333333333333,
+            "gt_chars": 22,
+            "pred_chars": 32,
+            "frames": 21
+          },
+          {
+            "video_id": "7625596926242589992",
+            "acc_norm_edit": 0.6584905660377358,
+            "gt_line_recall": 0.9032258064516129,
+            "gt_chars": 390,
+            "pred_chars": 530,
+            "frames": 188
+          },
+          {
+            "video_id": "7625596895951342883",
+            "acc_norm_edit": 0.6556473829201102,
+            "gt_line_recall": 0.9772727272727273,
+            "gt_chars": 240,
+            "pred_chars": 363,
+            "frames": 160
+          },
+          {
+            "video_id": "7623635835480807921",
+            "acc_norm_edit": 0.6226415094339622,
+            "gt_line_recall": 1.0,
+            "gt_chars": 132,
+            "pred_chars": 212,
+            "frames": 92
+          },
+          {
+            "video_id": "7625961573442537642",
+            "acc_norm_edit": 0.8246753246753247,
+            "gt_line_recall": 0.9090909090909091,
+            "gt_chars": 132,
+            "pred_chars": 154,
+            "frames": 95
+          },
+          {
+            "video_id": "7624365144738434356",
+            "acc_norm_edit": 0.8013245033112583,
+            "gt_line_recall": 1.0,
+            "gt_chars": 121,
+            "pred_chars": 151,
+            "frames": 185
+          },
+          {
+            "video_id": "7625577755723809649",
+            "acc_norm_edit": 0.5341176470588236,
+            "gt_line_recall": 0.8125,
+            "gt_chars": 241,
+            "pred_chars": 425,
+            "frames": 216
+          },
+          {
+            "video_id": "7624367685719084323",
+            "acc_norm_edit": 0.6914893617021276,
+            "gt_line_recall": 0.9761904761904762,
+            "gt_chars": 222,
+            "pred_chars": 282,
+            "frames": 217
+          },
+          {
+            "video_id": "7623672029838108314",
+            "acc_norm_edit": 0.6415094339622642,
+            "gt_line_recall": 1.0,
+            "gt_chars": 37,
+            "pred_chars": 53,
+            "frames": 64
+          },
+          {
+            "video_id": "7625525065970724069",
+            "acc_norm_edit": 0.9910313901345291,
+            "gt_line_recall": 0.975,
+            "gt_chars": 223,
+            "pred_chars": 221,
+            "frames": 148
+          },
+          {
+            "video_id": "7625859643503381779",
+            "acc_norm_edit": 0.7599164926931107,
+            "gt_line_recall": 0.8840579710144928,
+            "gt_chars": 382,
+            "pred_chars": 479,
+            "frames": 221
+          },
+          {
+            "video_id": "7623747299428477864",
+            "acc_norm_edit": 0.5901639344262295,
+            "gt_line_recall": 0.8076923076923077,
+            "gt_chars": 166,
+            "pred_chars": 244,
+            "frames": 183
+          },
+          {
+            "video_id": "7625881216968920371",
+            "acc_norm_edit": 0.40816326530612246,
+            "gt_line_recall": 0.6111111111111112,
+            "gt_chars": 116,
+            "pred_chars": 245,
+            "frames": 115
+          }
+        ]
+      }
+    },
+    {
+      "engine": "mmocr",
+      "status": "unavailable",
+      "error": "Model weight download blocked: MMOCR dependencies were installed with compatible mmcv-lite==2.0.1 and mmdet==3.1.0, but the official OpenMMLab DBNet checkpoint download was only about 17KB/s for a 106MB file. No directly usable fast PyTorch .pth mirror was found during this run, so MMOCR was not scored."
+    },
+    {
+      "engine": "vimts",
+      "status": "unavailable",
+      "error": "RuntimeError: VimTS is not deployed in this environment. Official VimTS requires Python 3.8, PyTorch 1.10.0, CUDA 11.3, Detectron2 0.2.1, custom CUDA ops, and an external checkpoint. That stack is not compatible with the current Python 3.12 + RTX 5070 sm_120 + CUDA 13 runtime without porting."
+    }
+  ]
+}

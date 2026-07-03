@@ -1,0 +1,143 @@
+<?xml version="1.0" ?>
+<Frames>
+  <frame ID="1"/>
+  <frame ID="2"/>
+  <frame ID="3">
+    <object ID="3" Transcription="你这辈子都躲不掉">
+      <Point x="551" y="978"/>
+      <Point x="164" y="977"/>
+      <Point x="164" y="925"/>
+      <Point x="551" y="926"/>
+    </object>
+  </frame>
+  <frame ID="4">
+    <object ID="3" Transcription="你这辈子都躲不掉">
+      <Point x="551" y="978"/>
+      <Point x="164" y="977"/>
+      <Point x="165" y="925"/>
+      <Point x="552" y="926"/>
+    </object>
+  </frame>
+  <frame ID="5">
+    <object ID="3" Transcription="你这辈子都躲不掉">
+      <Point x="551" y="977"/>
+      <Point x="164" y="977"/>
+      <Point x="164" y="925"/>
+      <Point x="551" y="926"/>
+    </object>
+  </frame>
+  <frame ID="6">
+    <object ID="3" Transcription="你这辈子都躲不掉">
+      <Point x="560" y="914"/>
+      <Point x="157" y="914"/>
+      <Point x="157" y="859"/>
+      <Point x="560" y="859"/>
+    </object>
+  </frame>
+  <frame ID="7"/>
+  <frame ID="8"/>
+  <frame ID="9">
+    <object ID="3" Transcription="我没有">
+      <Point x="432" y="915"/>
+      <Point x="284" y="914"/>
+      <Point x="284" y="860"/>
+      <Point x="432" y="861"/>
+    </object>
+  </frame>
+  <frame ID="10">
+    <object ID="3" Transcription="我没有">
+      <Point x="433" y="915"/>
+      <Point x="284" y="914"/>
+      <Point x="284" y="860"/>
+      <Point x="433" y="861"/>
+    </object>
+  </frame>
+  <frame ID="11">
+    <object ID="4" Transcription="不准再着别人">
+      <Point x="505" y="978"/>
+      <Point x="213" y="978"/>
+      <Point x="213" y="924"/>
+      <Point x="505" y="925"/>
+    </object>
+  </frame>
+  <frame ID="12">
+    <object ID="4" Transcription="不准再着别人">
+      <Point x="505" y="978"/>
+      <Point x="213" y="978"/>
+      <Point x="213" y="925"/>
+      <Point x="505" y="925"/>
+    </object>
+  </frame>
+  <frame ID="13">
+    <object ID="4" Transcription="不准想着别人">
+      <Point x="505" y="978"/>
+      <Point x="214" y="978"/>
+      <Point x="214" y="924"/>
+      <Point x="505" y="924"/>
+    </object>
+  </frame>
+  <frame ID="14">
+    <object ID="4" Transcription="不准想着别人">
+      <Point x="505" y="978"/>
+      <Point x="214" y="978"/>
+      <Point x="214" y="924"/>
+      <Point x="505" y="924"/>
+    </object>
+  </frame>
+  <frame ID="15">
+    <object ID="4" Transcription="不准想着别人">
+      <Point x="505" y="978"/>
+      <Point x="214" y="978"/>
+      <Point x="214" y="924"/>
+      <Point x="505" y="924"/>
+    </object>
+  </frame>
+  <frame ID="16">
+    <object ID="4" Transcription="你的眼里心里">
+      <Point x="212" y="977"/>
+      <Point x="212" y="925"/>
+      <Point x="505" y="925"/>
+      <Point x="505" y="977"/>
+    </object>
+  </frame>
+  <frame ID="17">
+    <object ID="4" Transcription="你的眼里心里">
+      <Point x="212" y="977"/>
+      <Point x="212" y="925"/>
+      <Point x="505" y="925"/>
+      <Point x="505" y="977"/>
+    </object>
+  </frame>
+  <frame ID="18">
+    <object ID="4" Transcription="你的眼里心里">
+      <Point x="212" y="977"/>
+      <Point x="212" y="926"/>
+      <Point x="505" y="925"/>
+      <Point x="505" y="977"/>
+    </object>
+  </frame>
+  <frame ID="19">
+    <object ID="4" Transcription="只能有我一个人">
+      <Point x="190" y="979"/>
+      <Point x="190" y="924"/>
+      <Point x="530" y="924"/>
+      <Point x="530" y="978"/>
+    </object>
+  </frame>
+  <frame ID="20">
+    <object ID="4" Transcription="只能有我一个人">
+      <Point x="189" y="979"/>
+      <Point x="189" y="924"/>
+      <Point x="529" y="924"/>
+      <Point x="529" y="978"/>
+    </object>
+  </frame>
+  <frame ID="21">
+    <object ID="4" Transcription="只能有我一个人">
+      <Point x="189" y="979"/>
+      <Point x="189" y="924"/>
+      <Point x="529" y="924"/>
+      <Point x="529" y="978"/>
+    </object>
+  </frame>
+</Frames>

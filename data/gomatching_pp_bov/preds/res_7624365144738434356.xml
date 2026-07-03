@@ -1,0 +1,468 @@
+<?xml version="1.0" ?>
+<Frames>
+  <frame ID="1"/>
+  <frame ID="2"/>
+  <frame ID="3">
+    <object ID="3" Transcription="不是">
+      <Point x="410" y="934"/>
+      <Point x="309" y="934"/>
+      <Point x="309" y="883"/>
+      <Point x="410" y="883"/>
+    </object>
+  </frame>
+  <frame ID="4"/>
+  <frame ID="5">
+    <object ID="3" Transcription="你丫到底谁呀">
+      <Point x="207" y="934"/>
+      <Point x="207" y="881"/>
+      <Point x="509" y="881"/>
+      <Point x="509" y="934"/>
+    </object>
+  </frame>
+  <frame ID="6">
+    <object ID="3" Transcription="你丫到底谁呀">
+      <Point x="208" y="934"/>
+      <Point x="208" y="881"/>
+      <Point x="509" y="881"/>
+      <Point x="509" y="934"/>
+    </object>
+  </frame>
+  <frame ID="7"/>
+  <frame ID="8">
+    <object ID="3" Transcription="你到底想干嘛">
+      <Point x="207" y="934"/>
+      <Point x="207" y="881"/>
+      <Point x="510" y="881"/>
+      <Point x="510" y="934"/>
+    </object>
+  </frame>
+  <frame ID="9">
+    <object ID="3" Transcription="你到底想干嘛">
+      <Point x="207" y="935"/>
+      <Point x="207" y="880"/>
+      <Point x="510" y="880"/>
+      <Point x="510" y="935"/>
+    </object>
+  </frame>
+  <frame ID="10"/>
+  <frame ID="11"/>
+  <frame ID="12">
+    <object ID="3" Transcription="我叫陈南">
+      <Point x="460" y="935"/>
+      <Point x="259" y="935"/>
+      <Point x="259" y="881"/>
+      <Point x="460" y="881"/>
+    </object>
+  </frame>
+  <frame ID="13">
+    <object ID="3" Transcription="天元山种地的">
+      <Point x="209" y="935"/>
+      <Point x="209" y="881"/>
+      <Point x="508" y="880"/>
+      <Point x="508" y="934"/>
+    </object>
+  </frame>
+  <frame ID="14">
+    <object ID="3" Transcription="天元山种地的">
+      <Point x="209" y="935"/>
+      <Point x="209" y="881"/>
+      <Point x="509" y="880"/>
+      <Point x="509" y="934"/>
+    </object>
+  </frame>
+  <frame ID="15">
+    <object ID="3" Transcription="天元山种地的">
+      <Point x="208" y="934"/>
+      <Point x="208" y="880"/>
+      <Point x="509" y="880"/>
+      <Point x="509" y="934"/>
+    </object>
+  </frame>
+  <frame ID="16">
+    <object ID="3" Transcription="我就想搭个顺风车">
+      <Point x="159" y="935"/>
+      <Point x="159" y="880"/>
+      <Point x="558" y="880"/>
+      <Point x="558" y="935"/>
+    </object>
+  </frame>
+  <frame ID="17">
+    <object ID="3" Transcription="我就想搭个顺风车">
+      <Point x="159" y="934"/>
+      <Point x="159" y="880"/>
+      <Point x="559" y="880"/>
+      <Point x="559" y="934"/>
+    </object>
+  </frame>
+  <frame ID="18">
+    <object ID="3" Transcription="去江州">
+      <Point x="432" y="933"/>
+      <Point x="284" y="932"/>
+      <Point x="284" y="881"/>
+      <Point x="432" y="882"/>
+    </object>
+  </frame>
+  <frame ID="19">
+    <object ID="3" Transcription="我真没跟你开玩笑">
+      <Point x="561" y="935"/>
+      <Point x="159" y="934"/>
+      <Point x="159" y="880"/>
+      <Point x="561" y="882"/>
+    </object>
+  </frame>
+  <frame ID="20">
+    <object ID="3" Transcription="我真没跟你开玩笑">
+      <Point x="561" y="935"/>
+      <Point x="159" y="934"/>
+      <Point x="159" y="880"/>
+      <Point x="561" y="881"/>
+    </object>
+  </frame>
+  <frame ID="21">
+    <object ID="3" Transcription="我真没跟你开玩笑">
+      <Point x="561" y="934"/>
+      <Point x="159" y="934"/>
+      <Point x="159" y="881"/>
+      <Point x="561" y="881"/>
+    </object>
+  </frame>
+  <frame ID="22">
+    <object ID="3" Transcription="真的有人在追杀我">
+      <Point x="160" y="934"/>
+      <Point x="160" y="880"/>
+      <Point x="561" y="879"/>
+      <Point x="561" y="934"/>
+    </object>
+  </frame>
+  <frame ID="23">
+    <object ID="3" Transcription="真的有人在追杀我">
+      <Point x="160" y="934"/>
+      <Point x="160" y="880"/>
+      <Point x="560" y="880"/>
+      <Point x="560" y="934"/>
+    </object>
+  </frame>
+  <frame ID="24"/>
+  <frame ID="25">
+    <object ID="3" Transcription="你现在下车还来得及">
+      <Point x="133" y="934"/>
+      <Point x="133" y="881"/>
+      <Point x="585" y="881"/>
+      <Point x="585" y="934"/>
+    </object>
+  </frame>
+  <frame ID="26">
+    <object ID="3" Transcription="你现在下车还来得及">
+      <Point x="133" y="934"/>
+      <Point x="133" y="881"/>
+      <Point x="585" y="881"/>
+      <Point x="585" y="934"/>
+    </object>
+  </frame>
+  <frame ID="27">
+    <object ID="3" Transcription="你现在下车还来得及">
+      <Point x="133" y="935"/>
+      <Point x="133" y="881"/>
+      <Point x="585" y="881"/>
+      <Point x="585" y="935"/>
+    </object>
+  </frame>
+  <frame ID="28"/>
+  <frame ID="29"/>
+  <frame ID="30"/>
+  <frame ID="31"/>
+  <frame ID="32"/>
+  <frame ID="33"/>
+  <frame ID="34"/>
+  <frame ID="35"/>
+  <frame ID="36"/>
+  <frame ID="37"/>
+  <frame ID="38"/>
+  <frame ID="39"/>
+  <frame ID="40"/>
+  <frame ID="41"/>
+  <frame ID="42"/>
+  <frame ID="43"/>
+  <frame ID="44"/>
+  <frame ID="45"/>
+  <frame ID="46"/>
+  <frame ID="47"/>
+  <frame ID="48"/>
+  <frame ID="49"/>
+  <frame ID="50"/>
+  <frame ID="51"/>
+  <frame ID="52"/>
+  <frame ID="53"/>
+  <frame ID="54"/>
+  <frame ID="55"/>
+  <frame ID="56"/>
+  <frame ID="57"/>
+  <frame ID="58"/>
+  <frame ID="59"/>
+  <frame ID="60"/>
+  <frame ID="61"/>
+  <frame ID="62"/>
+  <frame ID="63"/>
+  <frame ID="64"/>
+  <frame ID="65"/>
+  <frame ID="66"/>
+  <frame ID="67"/>
+  <frame ID="68"/>
+  <frame ID="69"/>
+  <frame ID="70"/>
+  <frame ID="71"/>
+  <frame ID="72"/>
+  <frame ID="73"/>
+  <frame ID="74"/>
+  <frame ID="75"/>
+  <frame ID="76"/>
+  <frame ID="77"/>
+  <frame ID="78"/>
+  <frame ID="79"/>
+  <frame ID="80"/>
+  <frame ID="81"/>
+  <frame ID="82"/>
+  <frame ID="83"/>
+  <frame ID="84"/>
+  <frame ID="85"/>
+  <frame ID="86"/>
+  <frame ID="87"/>
+  <frame ID="88"/>
+  <frame ID="89"/>
+  <frame ID="90"/>
+  <frame ID="91"/>
+  <frame ID="92"/>
+  <frame ID="93"/>
+  <frame ID="94"/>
+  <frame ID="95"/>
+  <frame ID="96"/>
+  <frame ID="97"/>
+  <frame ID="98"/>
+  <frame ID="99"/>
+  <frame ID="100">
+    <object ID="5" Transcription="海骨">
+      <Point x="78" y="395"/>
+      <Point x="77" y="215"/>
+      <Point x="161" y="214"/>
+      <Point x="163" y="394"/>
+    </object>
+  </frame>
+  <frame ID="101">
+    <object ID="5" Transcription="海哥">
+      <Point x="157" y="410"/>
+      <Point x="68" y="409"/>
+      <Point x="72" y="221"/>
+      <Point x="161" y="223"/>
+    </object>
+  </frame>
+  <frame ID="102">
+    <object ID="5" Transcription="海哥">
+      <Point x="157" y="412"/>
+      <Point x="68" y="410"/>
+      <Point x="72" y="222"/>
+      <Point x="161" y="224"/>
+    </object>
+  </frame>
+  <frame ID="103">
+    <object ID="5" Transcription="海哥">
+      <Point x="158" y="412"/>
+      <Point x="68" y="411"/>
+      <Point x="71" y="222"/>
+      <Point x="162" y="224"/>
+    </object>
+  </frame>
+  <frame ID="104">
+    <object ID="5" Transcription="海哥">
+      <Point x="158" y="412"/>
+      <Point x="70" y="411"/>
+      <Point x="73" y="222"/>
+      <Point x="160" y="223"/>
+    </object>
+  </frame>
+  <frame ID="105"/>
+  <frame ID="106"/>
+  <frame ID="107"/>
+  <frame ID="108"/>
+  <frame ID="109"/>
+  <frame ID="110"/>
+  <frame ID="111"/>
+  <frame ID="112"/>
+  <frame ID="113"/>
+  <frame ID="114"/>
+  <frame ID="115"/>
+  <frame ID="116"/>
+  <frame ID="117"/>
+  <frame ID="118"/>
+  <frame ID="119"/>
+  <frame ID="120"/>
+  <frame ID="121"/>
+  <frame ID="122"/>
+  <frame ID="123"/>
+  <frame ID="124"/>
+  <frame ID="125"/>
+  <frame ID="126"/>
+  <frame ID="127"/>
+  <frame ID="128"/>
+  <frame ID="129"/>
+  <frame ID="130"/>
+  <frame ID="131"/>
+  <frame ID="132"/>
+  <frame ID="133"/>
+  <frame ID="134">
+    <object ID="8" Transcription="你最好在车里老实待着">
+      <Point x="108" y="934"/>
+      <Point x="108" y="881"/>
+      <Point x="606" y="880"/>
+      <Point x="606" y="933"/>
+    </object>
+  </frame>
+  <frame ID="135">
+    <object ID="8" Transcription="你最好在车里老实待着">
+      <Point x="108" y="934"/>
+      <Point x="108" y="881"/>
+      <Point x="606" y="880"/>
+      <Point x="606" y="933"/>
+    </object>
+  </frame>
+  <frame ID="136">
+    <object ID="8" Transcription="你最好在车里老实待着">
+      <Point x="108" y="934"/>
+      <Point x="108" y="881"/>
+      <Point x="606" y="880"/>
+      <Point x="606" y="933"/>
+    </object>
+  </frame>
+  <frame ID="137">
+    <object ID="8" Transcription="这里没你的事">
+      <Point x="208" y="934"/>
+      <Point x="208" y="880"/>
+      <Point x="508" y="880"/>
+      <Point x="508" y="934"/>
+    </object>
+  </frame>
+  <frame ID="138">
+    <object ID="8" Transcription="这里没你的事">
+      <Point x="508" y="934"/>
+      <Point x="208" y="933"/>
+      <Point x="208" y="880"/>
+      <Point x="508" y="880"/>
+    </object>
+  </frame>
+  <frame ID="139"/>
+  <frame ID="140"/>
+  <frame ID="141"/>
+  <frame ID="142"/>
+  <frame ID="143">
+    <object ID="8" Transcription="你最好让她回来">
+      <Point x="534" y="934"/>
+      <Point x="183" y="934"/>
+      <Point x="183" y="880"/>
+      <Point x="535" y="880"/>
+    </object>
+  </frame>
+  <frame ID="144">
+    <object ID="8" Transcription="你最好让她回来">
+      <Point x="534" y="934"/>
+      <Point x="182" y="934"/>
+      <Point x="182" y="880"/>
+      <Point x="534" y="880"/>
+    </object>
+  </frame>
+  <frame ID="145"/>
+  <frame ID="146">
+    <object ID="8" Transcription="她不是这些人的对手">
+      <Point x="581" y="935"/>
+      <Point x="133" y="934"/>
+      <Point x="133" y="878"/>
+      <Point x="581" y="879"/>
+    </object>
+  </frame>
+  <frame ID="147">
+    <object ID="8" Transcription="她不是这些人的对手">
+      <Point x="581" y="935"/>
+      <Point x="133" y="934"/>
+      <Point x="133" y="878"/>
+      <Point x="581" y="879"/>
+    </object>
+  </frame>
+  <frame ID="148">
+    <object ID="8" Transcription="她不是这些人的对手">
+      <Point x="581" y="935"/>
+      <Point x="134" y="934"/>
+      <Point x="134" y="878"/>
+      <Point x="581" y="879"/>
+    </object>
+  </frame>
+  <frame ID="149"/>
+  <frame ID="150"/>
+  <frame ID="151"/>
+  <frame ID="152"/>
+  <frame ID="153"/>
+  <frame ID="154"/>
+  <frame ID="155"/>
+  <frame ID="156"/>
+  <frame ID="157"/>
+  <frame ID="158">
+    <object ID="9" Transcription="小雪可是">
+      <Point x="258" y="935"/>
+      <Point x="258" y="881"/>
+      <Point x="460" y="881"/>
+      <Point x="460" y="935"/>
+    </object>
+  </frame>
+  <frame ID="159">
+    <object ID="9" Transcription="小雪可是">
+      <Point x="258" y="935"/>
+      <Point x="258" y="881"/>
+      <Point x="460" y="881"/>
+      <Point x="460" y="935"/>
+    </object>
+  </frame>
+  <frame ID="160">
+    <object ID="9" Transcription="江州市的武术冠军">
+      <Point x="160" y="935"/>
+      <Point x="160" y="880"/>
+      <Point x="559" y="880"/>
+      <Point x="559" y="935"/>
+    </object>
+  </frame>
+  <frame ID="161">
+    <object ID="9" Transcription="江州市的武术冠军">
+      <Point x="160" y="935"/>
+      <Point x="160" y="880"/>
+      <Point x="559" y="880"/>
+      <Point x="559" y="935"/>
+    </object>
+  </frame>
+  <frame ID="162">
+    <object ID="9" Transcription="江州市的武术冠军">
+      <Point x="160" y="934"/>
+      <Point x="160" y="880"/>
+      <Point x="559" y="880"/>
+      <Point x="559" y="934"/>
+    </object>
+  </frame>
+  <frame ID="163"/>
+  <frame ID="164"/>
+  <frame ID="165"/>
+  <frame ID="166"/>
+  <frame ID="167"/>
+  <frame ID="168"/>
+  <frame ID="169"/>
+  <frame ID="170"/>
+  <frame ID="171"/>
+  <frame ID="172"/>
+  <frame ID="173"/>
+  <frame ID="174"/>
+  <frame ID="175"/>
+  <frame ID="176"/>
+  <frame ID="177"/>
+  <frame ID="178"/>
+  <frame ID="179"/>
+  <frame ID="180"/>
+  <frame ID="181"/>
+  <frame ID="182"/>
+  <frame ID="183"/>
+  <frame ID="184"/>
+  <frame ID="185"/>
+</Frames>

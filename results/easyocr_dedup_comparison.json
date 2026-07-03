@@ -1,0 +1,35 @@
+[
+  {
+    "strategy": "conservative",
+    "cer": 0.8561124468281857,
+    "precision": 0.4624098867147271,
+    "recall": 0.6643240244127983,
+    "f1": 0.5452751423149904,
+    "pred_chars": 7768,
+    "insertions": 2814,
+    "deletions": 453,
+    "substitutions": 1362
+  },
+  {
+    "strategy": "balanced",
+    "cer": 0.7469946365822082,
+    "precision": 0.4991558806978053,
+    "recall": 0.6561864250046237,
+    "f1": 0.5669996004794247,
+    "pred_chars": 7108,
+    "insertions": 2180,
+    "deletions": 479,
+    "substitutions": 1380
+  },
+  {
+    "strategy": "aggressive",
+    "cer": 0.6565563158868134,
+    "precision": 0.5389509621353197,
+    "recall": 0.6423155169225079,
+    "f1": 0.5861108767192642,
+    "pred_chars": 6444,
+    "insertions": 1616,
+    "deletions": 579,
+    "substitutions": 1355
+  }
+]

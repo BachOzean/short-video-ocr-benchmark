@@ -1,0 +1,4 @@
+engine,status,videos,macro_acc_norm_edit,corpus_acc_norm_edit,macro_gt_line_recall,error
+easyocr,complete,25,0.5359101741479703,0.38231956423059466,0.6416306029143667,
+mmocr,unavailable,0,,,,"Model weight download blocked: MMOCR dependencies were installed with compatible mmcv-lite==2.0.1 and mmdet==3.1.0, but the official OpenMMLab DBNet checkpoint download was only about 17KB/s for a 106MB file. No directly usable fast PyTorch .pth mirror was found during this run, so MMOCR was not scored."
+vimts,unavailable,0,,,,"RuntimeError: VimTS is not deployed in this environment. Official VimTS requires Python 3.8, PyTorch 1.10.0, CUDA 11.3, Detectron2 0.2.1, custom CUDA ops, and an external checkpoint. That stack is not compatible with the current Python 3.12 + RTX 5070 sm_120 + CUDA 13 runtime without porting."

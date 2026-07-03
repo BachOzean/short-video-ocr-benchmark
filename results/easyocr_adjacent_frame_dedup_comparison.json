@@ -1,0 +1,44 @@
+[
+  {
+    "mode": "adjacent_exact",
+    "cer": 1.0064730904383208,
+    "precision": 0.42896268401232457,
+    "recall": 0.6952099130756427,
+    "f1": 0.5305575158786169,
+    "frames": 2943,
+    "kept_frames": 1096,
+    "skipped_frames": 760,
+    "pred_chars": 8763,
+    "insertions": 3794,
+    "deletions": 438,
+    "substitutions": 1210
+  },
+  {
+    "mode": "adjacent_sim_090",
+    "cer": 0.9580173848714629,
+    "precision": 0.44202215413622437,
+    "recall": 0.6937303495468836,
+    "f1": 0.5399841646872525,
+    "frames": 2943,
+    "kept_frames": 1059,
+    "skipped_frames": 797,
+    "pred_chars": 8486,
+    "insertions": 3524,
+    "deletions": 445,
+    "substitutions": 1211
+  },
+  {
+    "mode": "adjacent_sim_085",
+    "cer": 0.9134455335675976,
+    "precision": 0.45498783454987834,
+    "recall": 0.69169594969484,
+    "f1": 0.5489102517061716,
+    "frames": 2943,
+    "kept_frames": 1017,
+    "skipped_frames": 839,
+    "pred_chars": 8220,
+    "insertions": 3272,
+    "deletions": 459,
+    "substitutions": 1208
+  }
+]

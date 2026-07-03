@@ -1,0 +1,1006 @@
+<?xml version="1.0" ?>
+<Frames>
+  <frame ID="1">
+    <object ID="1" Transcription="战死北疆的一百二十位兄弟">
+      <Point x="165" y="511"/>
+      <Point x="165" y="449"/>
+      <Point x="808" y="445"/>
+      <Point x="808" y="507"/>
+    </object>
+  </frame>
+  <frame ID="2">
+    <object ID="1" Transcription="战死北疆的一百二十位兄弟">
+      <Point x="163" y="513"/>
+      <Point x="163" y="447"/>
+      <Point x="808" y="443"/>
+      <Point x="808" y="509"/>
+    </object>
+  </frame>
+  <frame ID="3">
+    <object ID="1" Transcription="战死北疆的一百二十位兄弟">
+      <Point x="164" y="509"/>
+      <Point x="164" y="447"/>
+      <Point x="806" y="446"/>
+      <Point x="806" y="507"/>
+    </object>
+  </frame>
+  <frame ID="4">
+    <object ID="1" Transcription="战死北疆的一百二十位兄弟">
+      <Point x="165" y="510"/>
+      <Point x="164" y="447"/>
+      <Point x="806" y="445"/>
+      <Point x="806" y="509"/>
+    </object>
+  </frame>
+  <frame ID="5"/>
+  <frame ID="6"/>
+  <frame ID="7"/>
+  <frame ID="8">
+    <object ID="1" Transcription="愿为龙王赴死">
+      <Point x="649" y="505"/>
+      <Point x="326" y="504"/>
+      <Point x="326" y="449"/>
+      <Point x="650" y="449"/>
+    </object>
+  </frame>
+  <frame ID="9">
+    <object ID="1" Transcription="愿为龙王赴死">
+      <Point x="324" y="504"/>
+      <Point x="324" y="450"/>
+      <Point x="650" y="449"/>
+      <Point x="650" y="503"/>
+    </object>
+  </frame>
+  <frame ID="10">
+    <object ID="1" Transcription="愿为龙王赴死">
+      <Point x="649" y="505"/>
+      <Point x="325" y="504"/>
+      <Point x="325" y="449"/>
+      <Point x="649" y="450"/>
+    </object>
+  </frame>
+  <frame ID="11"/>
+  <frame ID="12">
+    <object ID="1" Transcription="在江省">
+      <Point x="406" y="503"/>
+      <Point x="406" y="449"/>
+      <Point x="564" y="449"/>
+      <Point x="564" y="503"/>
+    </object>
+  </frame>
+  <frame ID="13">
+    <object ID="1" Transcription="在江省">
+      <Point x="564" y="503"/>
+      <Point x="405" y="502"/>
+      <Point x="406" y="449"/>
+      <Point x="564" y="449"/>
+    </object>
+  </frame>
+  <frame ID="14">
+    <object ID="1" Transcription="非到万不得已">
+      <Point x="322" y="506"/>
+      <Point x="322" y="449"/>
+      <Point x="648" y="448"/>
+      <Point x="648" y="506"/>
+    </object>
+  </frame>
+  <frame ID="15">
+    <object ID="1" Transcription="不得暴露我的身份">
+      <Point x="272" y="507"/>
+      <Point x="272" y="449"/>
+      <Point x="705" y="447"/>
+      <Point x="705" y="506"/>
+    </object>
+  </frame>
+  <frame ID="16">
+    <object ID="1" Transcription="不得暴露我的身份">
+      <Point x="272" y="508"/>
+      <Point x="272" y="448"/>
+      <Point x="705" y="446"/>
+      <Point x="705" y="506"/>
+    </object>
+  </frame>
+  <frame ID="17">
+    <object ID="1" Transcription="不得暴露我的身份">
+      <Point x="275" y="507"/>
+      <Point x="274" y="448"/>
+      <Point x="705" y="447"/>
+      <Point x="705" y="506"/>
+    </object>
+  </frame>
+  <frame ID="18"/>
+  <frame ID="19">
+    <object ID="1" Transcription="云家得龙王看重">
+      <Point x="296" y="509"/>
+      <Point x="296" y="447"/>
+      <Point x="677" y="446"/>
+      <Point x="677" y="509"/>
+    </object>
+  </frame>
+  <frame ID="20">
+    <object ID="1" Transcription="云家得龙王看重">
+      <Point x="298" y="507"/>
+      <Point x="298" y="448"/>
+      <Point x="676" y="447"/>
+      <Point x="676" y="507"/>
+    </object>
+  </frame>
+  <frame ID="21">
+    <object ID="1" Transcription="云家得龙王看重">
+      <Point x="298" y="508"/>
+      <Point x="298" y="448"/>
+      <Point x="676" y="447"/>
+      <Point x="676" y="507"/>
+    </object>
+  </frame>
+  <frame ID="22">
+    <object ID="1" Transcription="云老太君寿诞重">
+      <Point x="674" y="509"/>
+      <Point x="300" y="508"/>
+      <Point x="301" y="446"/>
+      <Point x="675" y="447"/>
+    </object>
+  </frame>
+  <frame ID="23">
+    <object ID="1" Transcription="老太君寿诞">
+      <Point x="351" y="506"/>
+      <Point x="351" y="448"/>
+      <Point x="623" y="448"/>
+      <Point x="624" y="506"/>
+    </object>
+  </frame>
+  <frame ID="24">
+    <object ID="1" Transcription="老太君寿诞">
+      <Point x="351" y="508"/>
+      <Point x="350" y="446"/>
+      <Point x="623" y="446"/>
+      <Point x="623" y="508"/>
+    </object>
+  </frame>
+  <frame ID="25">
+    <object ID="1" Transcription="整个江省顶级的大人物">
+      <Point x="216" y="508"/>
+      <Point x="216" y="448"/>
+      <Point x="757" y="445"/>
+      <Point x="757" y="506"/>
+    </object>
+  </frame>
+  <frame ID="26">
+    <object ID="1" Transcription="整个江省顶级的大人物">
+      <Point x="216" y="509"/>
+      <Point x="216" y="447"/>
+      <Point x="757" y="447"/>
+      <Point x="757" y="509"/>
+    </object>
+  </frame>
+  <frame ID="27">
+    <object ID="1" Transcription="整个江省顶级的大人物">
+      <Point x="217" y="509"/>
+      <Point x="217" y="448"/>
+      <Point x="757" y="445"/>
+      <Point x="757" y="506"/>
+    </object>
+  </frame>
+  <frame ID="28">
+    <object ID="1" Transcription="整个江省顶级的大人物">
+      <Point x="218" y="507"/>
+      <Point x="218" y="449"/>
+      <Point x="757" y="447"/>
+      <Point x="757" y="505"/>
+    </object>
+  </frame>
+  <frame ID="29">
+    <object ID="1" Transcription="整都要来给您祝寿人物">
+      <Point x="219" y="508"/>
+      <Point x="219" y="449"/>
+      <Point x="755" y="448"/>
+      <Point x="755" y="508"/>
+    </object>
+  </frame>
+  <frame ID="30">
+    <object ID="1" Transcription="都要来给您祝寿">
+      <Point x="297" y="507"/>
+      <Point x="297" y="449"/>
+      <Point x="676" y="448"/>
+      <Point x="677" y="506"/>
+    </object>
+  </frame>
+  <frame ID="31">
+    <object ID="1" Transcription="都要来给您祝寿">
+      <Point x="297" y="507"/>
+      <Point x="297" y="448"/>
+      <Point x="677" y="448"/>
+      <Point x="677" y="506"/>
+    </object>
+  </frame>
+  <frame ID="32">
+    <object ID="1" Transcription="都要来给您祝寿">
+      <Point x="294" y="507"/>
+      <Point x="294" y="446"/>
+      <Point x="676" y="446"/>
+      <Point x="676" y="507"/>
+    </object>
+  </frame>
+  <frame ID="33"/>
+  <frame ID="34">
+    <object ID="1" Transcription="承龙王不弃">
+      <Point x="352" y="506"/>
+      <Point x="352" y="449"/>
+      <Point x="621" y="448"/>
+      <Point x="621" y="506"/>
+    </object>
+  </frame>
+  <frame ID="35">
+    <object ID="1" Transcription="承龙王不弃">
+      <Point x="351" y="506"/>
+      <Point x="351" y="447"/>
+      <Point x="623" y="447"/>
+      <Point x="623" y="506"/>
+    </object>
+  </frame>
+  <frame ID="36"/>
+  <frame ID="37"/>
+  <frame ID="38">
+    <object ID="1" Transcription="江省总普到">
+      <Point x="620" y="506"/>
+      <Point x="351" y="505"/>
+      <Point x="351" y="447"/>
+      <Point x="621" y="447"/>
+    </object>
+  </frame>
+  <frame ID="39">
+    <object ID="1" Transcription="江省总普到">
+      <Point x="624" y="505"/>
+      <Point x="352" y="505"/>
+      <Point x="352" y="447"/>
+      <Point x="624" y="447"/>
+    </object>
+  </frame>
+  <frame ID="40">
+    <object ID="1" Transcription="江省总普到">
+      <Point x="620" y="506"/>
+      <Point x="351" y="504"/>
+      <Point x="351" y="446"/>
+      <Point x="621" y="448"/>
+    </object>
+  </frame>
+  <frame ID="41">
+    <object ID="1" Transcription="总智大人">
+      <Point x="593" y="506"/>
+      <Point x="379" y="505"/>
+      <Point x="379" y="446"/>
+      <Point x="593" y="447"/>
+    </object>
+  </frame>
+  <frame ID="42">
+    <object ID="1" Transcription="总智大人">
+      <Point x="596" y="506"/>
+      <Point x="380" y="505"/>
+      <Point x="380" y="446"/>
+      <Point x="597" y="447"/>
+    </object>
+  </frame>
+  <frame ID="43"/>
+  <frame ID="44"/>
+  <frame ID="45">
+    <object ID="1" Transcription="没眼色的东西">
+      <Point x="325" y="505"/>
+      <Point x="325" y="447"/>
+      <Point x="648" y="447"/>
+      <Point x="648" y="504"/>
+    </object>
+  </frame>
+  <frame ID="46">
+    <object ID="1" Transcription="没眼色的东西">
+      <Point x="326" y="504"/>
+      <Point x="326" y="448"/>
+      <Point x="647" y="448"/>
+      <Point x="647" y="504"/>
+    </object>
+  </frame>
+  <frame ID="47">
+    <object ID="1" Transcription="还不出去迎客">
+      <Point x="325" y="509"/>
+      <Point x="325" y="450"/>
+      <Point x="650" y="447"/>
+      <Point x="650" y="506"/>
+    </object>
+  </frame>
+  <frame ID="48">
+    <object ID="1" Transcription="还不出去迎客">
+      <Point x="324" y="509"/>
+      <Point x="324" y="448"/>
+      <Point x="651" y="446"/>
+      <Point x="651" y="507"/>
+    </object>
+  </frame>
+  <frame ID="49"/>
+  <frame ID="50"/>
+  <frame ID="51"/>
+  <frame ID="52"/>
+  <frame ID="53"/>
+  <frame ID="54">
+    <object ID="4" Transcription="恭迎总普">
+      <Point x="380" y="505"/>
+      <Point x="379" y="448"/>
+      <Point x="596" y="447"/>
+      <Point x="596" y="503"/>
+    </object>
+  </frame>
+  <frame ID="55"/>
+  <frame ID="56">
+    <object ID="4" Transcription="保密">
+      <Point x="431" y="503"/>
+      <Point x="430" y="449"/>
+      <Point x="541" y="449"/>
+      <Point x="541" y="503"/>
+    </object>
+  </frame>
+  <frame ID="57">
+    <object ID="4" Transcription="保密">
+      <Point x="431" y="505"/>
+      <Point x="430" y="450"/>
+      <Point x="541" y="448"/>
+      <Point x="542" y="503"/>
+    </object>
+  </frame>
+  <frame ID="58"/>
+  <frame ID="59">
+    <object ID="4" Transcription="上礼">
+      <Point x="433" y="504"/>
+      <Point x="433" y="450"/>
+      <Point x="540" y="450"/>
+      <Point x="540" y="503"/>
+    </object>
+  </frame>
+  <frame ID="60">
+    <object ID="4" Transcription="祝老太君寿比南山">
+      <Point x="272" y="507"/>
+      <Point x="272" y="449"/>
+      <Point x="697" y="447"/>
+      <Point x="698" y="505"/>
+    </object>
+  </frame>
+  <frame ID="61">
+    <object ID="4" Transcription="祝老太君寿比南山">
+      <Point x="272" y="507"/>
+      <Point x="272" y="448"/>
+      <Point x="697" y="447"/>
+      <Point x="697" y="506"/>
+    </object>
+  </frame>
+  <frame ID="62">
+    <object ID="4" Transcription="祝老太君寿比南山">
+      <Point x="273" y="506"/>
+      <Point x="273" y="448"/>
+      <Point x="698" y="448"/>
+      <Point x="698" y="505"/>
+    </object>
+  </frame>
+  <frame ID="63">
+    <object ID="4" Transcription="千年人参">
+      <Point x="596" y="506"/>
+      <Point x="377" y="505"/>
+      <Point x="377" y="447"/>
+      <Point x="596" y="448"/>
+    </object>
+  </frame>
+  <frame ID="64">
+    <object ID="4" Transcription="千年人参">
+      <Point x="594" y="507"/>
+      <Point x="376" y="506"/>
+      <Point x="376" y="446"/>
+      <Point x="594" y="447"/>
+    </object>
+  </frame>
+  <frame ID="65">
+    <object ID="4" Transcription="价值连城">
+      <Point x="597" y="506"/>
+      <Point x="379" y="505"/>
+      <Point x="379" y="447"/>
+      <Point x="597" y="448"/>
+    </object>
+  </frame>
+  <frame ID="66">
+    <object ID="4" Transcription="价值连城">
+      <Point x="597" y="506"/>
+      <Point x="376" y="506"/>
+      <Point x="376" y="446"/>
+      <Point x="597" y="446"/>
+    </object>
+  </frame>
+  <frame ID="67"/>
+  <frame ID="68"/>
+  <frame ID="69">
+    <object ID="4" Transcription="总普客气">
+      <Point x="380" y="508"/>
+      <Point x="380" y="444"/>
+      <Point x="598" y="444"/>
+      <Point x="598" y="508"/>
+    </object>
+  </frame>
+  <frame ID="70">
+    <object ID="4" Transcription="总普客气">
+      <Point x="597" y="509"/>
+      <Point x="379" y="508"/>
+      <Point x="380" y="442"/>
+      <Point x="598" y="444"/>
+    </object>
+  </frame>
+  <frame ID="71">
+    <object ID="4" Transcription="总普客气">
+      <Point x="382" y="506"/>
+      <Point x="382" y="447"/>
+      <Point x="597" y="447"/>
+      <Point x="597" y="506"/>
+    </object>
+  </frame>
+  <frame ID="72">
+    <object ID="4" Transcription="龙王使到">
+      <Point x="593" y="504"/>
+      <Point x="380" y="503"/>
+      <Point x="380" y="449"/>
+      <Point x="594" y="449"/>
+    </object>
+  </frame>
+  <frame ID="73">
+    <object ID="4" Transcription="龙王使到">
+      <Point x="595" y="505"/>
+      <Point x="378" y="504"/>
+      <Point x="378" y="448"/>
+      <Point x="595" y="449"/>
+    </object>
+  </frame>
+  <frame ID="74">
+    <object ID="4" Transcription="龙王使到">
+      <Point x="596" y="506"/>
+      <Point x="377" y="505"/>
+      <Point x="377" y="448"/>
+      <Point x="596" y="448"/>
+    </object>
+  </frame>
+  <frame ID="75"/>
+  <frame ID="76"/>
+  <frame ID="77"/>
+  <frame ID="78"/>
+  <frame ID="79">
+    <object ID="4" Transcription="龙王使">
+      <Point x="406" y="504"/>
+      <Point x="406" y="447"/>
+      <Point x="570" y="447"/>
+      <Point x="570" y="504"/>
+    </object>
+  </frame>
+  <frame ID="80">
+    <object ID="4" Transcription="龙王使">
+      <Point x="406" y="504"/>
+      <Point x="405" y="448"/>
+      <Point x="570" y="447"/>
+      <Point x="570" y="504"/>
+    </object>
+  </frame>
+  <frame ID="81"/>
+  <frame ID="82"/>
+  <frame ID="83">
+    <object ID="4" Transcription="龙王命我送来">
+      <Point x="327" y="506"/>
+      <Point x="326" y="448"/>
+      <Point x="647" y="446"/>
+      <Point x="648" y="503"/>
+    </object>
+  </frame>
+  <frame ID="84">
+    <object ID="4" Transcription="龙王命我送来">
+      <Point x="326" y="506"/>
+      <Point x="326" y="448"/>
+      <Point x="649" y="446"/>
+      <Point x="649" y="504"/>
+    </object>
+  </frame>
+  <frame ID="85">
+    <object ID="4" Transcription="百亿订单为老太君贺寿">
+      <Point x="219" y="507"/>
+      <Point x="219" y="448"/>
+      <Point x="756" y="447"/>
+      <Point x="756" y="506"/>
+    </object>
+  </frame>
+  <frame ID="86">
+    <object ID="4" Transcription="百亿订单为老太君贺寿">
+      <Point x="219" y="507"/>
+      <Point x="219" y="448"/>
+      <Point x="756" y="448"/>
+      <Point x="756" y="506"/>
+    </object>
+  </frame>
+  <frame ID="87">
+    <object ID="4" Transcription="百亿订单为老太君贺寿">
+      <Point x="756" y="506"/>
+      <Point x="218" y="506"/>
+      <Point x="218" y="448"/>
+      <Point x="757" y="448"/>
+    </object>
+  </frame>
+  <frame ID="88">
+    <object ID="4" Transcription="百亿订单为老太君贺寿">
+      <Point x="218" y="507"/>
+      <Point x="218" y="447"/>
+      <Point x="758" y="446"/>
+      <Point x="758" y="506"/>
+    </object>
+  </frame>
+  <frame ID="89">
+    <object ID="4" Transcription="百亿订单为老太君贺寿">
+      <Point x="219" y="507"/>
+      <Point x="219" y="447"/>
+      <Point x="757" y="446"/>
+      <Point x="757" y="505"/>
+    </object>
+  </frame>
+  <frame ID="90">
+    <object ID="4" Transcription="百亿订单">
+      <Point x="595" y="506"/>
+      <Point x="380" y="506"/>
+      <Point x="380" y="448"/>
+      <Point x="595" y="448"/>
+    </object>
+  </frame>
+  <frame ID="91">
+    <object ID="4" Transcription="我云家必将晋升世家">
+      <Point x="731" y="508"/>
+      <Point x="245" y="508"/>
+      <Point x="245" y="447"/>
+      <Point x="731" y="447"/>
+    </object>
+  </frame>
+  <frame ID="92">
+    <object ID="4" Transcription="我云家必将晋升世家">
+      <Point x="244" y="508"/>
+      <Point x="244" y="447"/>
+      <Point x="730" y="447"/>
+      <Point x="731" y="508"/>
+    </object>
+  </frame>
+  <frame ID="93">
+    <object ID="4" Transcription="我云家必将晋升世家">
+      <Point x="243" y="508"/>
+      <Point x="243" y="448"/>
+      <Point x="731" y="448"/>
+      <Point x="731" y="508"/>
+    </object>
+  </frame>
+  <frame ID="94">
+    <object ID="4" Transcription="我云家必将晋升世家">
+      <Point x="730" y="509"/>
+      <Point x="243" y="509"/>
+      <Point x="243" y="448"/>
+      <Point x="730" y="448"/>
+    </object>
+  </frame>
+  <frame ID="95">
+    <object ID="4" Transcription="我云家必将晋升世家">
+      <Point x="244" y="509"/>
+      <Point x="244" y="449"/>
+      <Point x="730" y="447"/>
+      <Point x="730" y="507"/>
+    </object>
+  </frame>
+  <frame ID="96">
+    <object ID="4" Transcription="苏泽">
+      <Point x="433" y="506"/>
+      <Point x="433" y="449"/>
+      <Point x="542" y="449"/>
+      <Point x="542" y="505"/>
+    </object>
+  </frame>
+  <frame ID="97">
+    <object ID="4" Transcription="即日起逐出云家">
+      <Point x="676" y="505"/>
+      <Point x="300" y="504"/>
+      <Point x="300" y="448"/>
+      <Point x="676" y="449"/>
+    </object>
+  </frame>
+  <frame ID="98">
+    <object ID="4" Transcription="即日起逐出云家">
+      <Point x="300" y="506"/>
+      <Point x="300" y="449"/>
+      <Point x="676" y="448"/>
+      <Point x="676" y="505"/>
+    </object>
+  </frame>
+  <frame ID="99">
+    <object ID="4" Transcription="即日起还出云家">
+      <Point x="677" y="505"/>
+      <Point x="299" y="505"/>
+      <Point x="299" y="448"/>
+      <Point x="677" y="448"/>
+    </object>
+  </frame>
+  <frame ID="100">
+    <object ID="4" Transcription="即日起逐出云家">
+      <Point x="677" y="505"/>
+      <Point x="300" y="504"/>
+      <Point x="300" y="448"/>
+      <Point x="677" y="449"/>
+    </object>
+  </frame>
+  <frame ID="101">
+    <object ID="4" Transcription="即日为继么云家">
+      <Point x="674" y="504"/>
+      <Point x="301" y="503"/>
+      <Point x="301" y="449"/>
+      <Point x="675" y="450"/>
+    </object>
+  </frame>
+  <frame ID="102">
+    <object ID="4" Transcription="为什么">
+      <Point x="408" y="507"/>
+      <Point x="408" y="447"/>
+      <Point x="565" y="447"/>
+      <Point x="565" y="506"/>
+    </object>
+  </frame>
+  <frame ID="103">
+    <object ID="4" Transcription="消失六年">
+      <Point x="379" y="507"/>
+      <Point x="379" y="448"/>
+      <Point x="597" y="447"/>
+      <Point x="597" y="506"/>
+    </object>
+  </frame>
+  <frame ID="104">
+    <object ID="4" Transcription="消失六年">
+      <Point x="378" y="507"/>
+      <Point x="377" y="447"/>
+      <Point x="596" y="446"/>
+      <Point x="596" y="506"/>
+    </object>
+  </frame>
+  <frame ID="105">
+    <object ID="4" Transcription="回来还是个废物">
+      <Point x="299" y="506"/>
+      <Point x="298" y="447"/>
+      <Point x="676" y="447"/>
+      <Point x="676" y="506"/>
+    </object>
+  </frame>
+  <frame ID="106">
+    <object ID="4" Transcription="回来还是个废物">
+      <Point x="299" y="506"/>
+      <Point x="299" y="448"/>
+      <Point x="675" y="447"/>
+      <Point x="675" y="506"/>
+    </object>
+  </frame>
+  <frame ID="107"/>
+  <frame ID="108">
+    <object ID="4" Transcription="现在的云家">
+      <Point x="623" y="505"/>
+      <Point x="353" y="504"/>
+      <Point x="353" y="449"/>
+      <Point x="623" y="449"/>
+    </object>
+  </frame>
+  <frame ID="109">
+    <object ID="4" Transcription="做赞媚你都不配">
+      <Point x="298" y="506"/>
+      <Point x="298" y="449"/>
+      <Point x="675" y="448"/>
+      <Point x="675" y="505"/>
+    </object>
+  </frame>
+  <frame ID="110">
+    <object ID="4" Transcription="做整媚你都不配">
+      <Point x="298" y="506"/>
+      <Point x="298" y="448"/>
+      <Point x="674" y="448"/>
+      <Point x="674" y="505"/>
+    </object>
+  </frame>
+  <frame ID="111">
+    <object ID="4" Transcription="做赞媚你都不配">
+      <Point x="297" y="506"/>
+      <Point x="297" y="448"/>
+      <Point x="676" y="448"/>
+      <Point x="677" y="505"/>
+    </object>
+  </frame>
+  <frame ID="112">
+    <object ID="4" Transcription="云张联姻">
+      <Point x="378" y="505"/>
+      <Point x="378" y="449"/>
+      <Point x="594" y="449"/>
+      <Point x="594" y="504"/>
+    </object>
+  </frame>
+  <frame ID="113">
+    <object ID="4" Transcription="云张联姻">
+      <Point x="378" y="505"/>
+      <Point x="378" y="450"/>
+      <Point x="595" y="449"/>
+      <Point x="595" y="504"/>
+    </object>
+  </frame>
+  <frame ID="114">
+    <object ID="4" Transcription="才是强强联合">
+      <Point x="324" y="506"/>
+      <Point x="324" y="450"/>
+      <Point x="651" y="448"/>
+      <Point x="651" y="505"/>
+    </object>
+  </frame>
+  <frame ID="115">
+    <object ID="4" Transcription="才是强强联合">
+      <Point x="325" y="505"/>
+      <Point x="324" y="450"/>
+      <Point x="651" y="449"/>
+      <Point x="651" y="505"/>
+    </object>
+  </frame>
+  <frame ID="116">
+    <object ID="4" Transcription="才是强强联合">
+      <Point x="649" y="504"/>
+      <Point x="327" y="504"/>
+      <Point x="327" y="449"/>
+      <Point x="649" y="449"/>
+    </object>
+  </frame>
+  <frame ID="117">
+    <object ID="4" Transcription="才是强强联合">
+      <Point x="327" y="505"/>
+      <Point x="327" y="450"/>
+      <Point x="648" y="449"/>
+      <Point x="648" y="504"/>
+    </object>
+  </frame>
+  <frame ID="118">
+    <object ID="4" Transcription="签字">
+      <Point x="429" y="508"/>
+      <Point x="428" y="447"/>
+      <Point x="542" y="445"/>
+      <Point x="542" y="507"/>
+    </object>
+  </frame>
+  <frame ID="119">
+    <object ID="4" Transcription="滚">
+      <Point x="461" y="501"/>
+      <Point x="460" y="449"/>
+      <Point x="515" y="448"/>
+      <Point x="516" y="500"/>
+    </object>
+  </frame>
+  <frame ID="120">
+    <object ID="4" Transcription="滚">
+      <Point x="462" y="503"/>
+      <Point x="460" y="452"/>
+      <Point x="513" y="449"/>
+      <Point x="516" y="500"/>
+    </object>
+  </frame>
+  <frame ID="121">
+    <object ID="4" Transcription="别后">
+      <Point x="407" y="508"/>
+      <Point x="407" y="445"/>
+      <Point x="571" y="445"/>
+      <Point x="571" y="508"/>
+    </object>
+  </frame>
+  <frame ID="122"/>
+  <frame ID="123">
+    <object ID="4" Transcription="有眼无珠">
+      <Point x="595" y="506"/>
+      <Point x="379" y="506"/>
+      <Point x="379" y="448"/>
+      <Point x="595" y="449"/>
+    </object>
+  </frame>
+  <frame ID="124">
+    <object ID="4" Transcription="有眼无珠">
+      <Point x="380" y="506"/>
+      <Point x="380" y="449"/>
+      <Point x="596" y="449"/>
+      <Point x="596" y="506"/>
+    </object>
+  </frame>
+  <frame ID="125">
+    <object ID="4" Transcription="这参不如喂狗">
+      <Point x="324" y="506"/>
+      <Point x="324" y="447"/>
+      <Point x="646" y="447"/>
+      <Point x="646" y="506"/>
+    </object>
+  </frame>
+  <frame ID="126">
+    <object ID="4" Transcription="这参不如喂狗">
+      <Point x="324" y="508"/>
+      <Point x="324" y="448"/>
+      <Point x="648" y="448"/>
+      <Point x="648" y="508"/>
+    </object>
+  </frame>
+  <frame ID="127">
+    <object ID="4" Transcription="这参不如喂狗">
+      <Point x="324" y="506"/>
+      <Point x="324" y="448"/>
+      <Point x="647" y="448"/>
+      <Point x="647" y="506"/>
+    </object>
+  </frame>
+  <frame ID="128"/>
+  <frame ID="129"/>
+  <frame ID="130"/>
+  <frame ID="131">
+    <object ID="4" Transcription="羞龙王">
+      <Point x="379" y="506"/>
+      <Point x="379" y="447"/>
+      <Point x="596" y="446"/>
+      <Point x="596" y="506"/>
+    </object>
+  </frame>
+  <frame ID="132">
+    <object ID="4" Transcription="羞龙王">
+      <Point x="379" y="506"/>
+      <Point x="379" y="448"/>
+      <Point x="593" y="447"/>
+      <Point x="593" y="505"/>
+    </object>
+  </frame>
+  <frame ID="133">
+    <object ID="4" Transcription="合约作废">
+      <Point x="593" y="506"/>
+      <Point x="379" y="504"/>
+      <Point x="379" y="446"/>
+      <Point x="593" y="449"/>
+    </object>
+  </frame>
+  <frame ID="134">
+    <object ID="4" Transcription="合约作废">
+      <Point x="593" y="504"/>
+      <Point x="379" y="504"/>
+      <Point x="380" y="448"/>
+      <Point x="593" y="449"/>
+    </object>
+  </frame>
+  <frame ID="135">
+    <object ID="4" Transcription="合约作废">
+      <Point x="377" y="506"/>
+      <Point x="377" y="446"/>
+      <Point x="595" y="446"/>
+      <Point x="595" y="505"/>
+    </object>
+  </frame>
+  <frame ID="136">
+    <object ID="4" Transcription="你们怕是弄错了">
+      <Point x="673" y="506"/>
+      <Point x="295" y="506"/>
+      <Point x="295" y="447"/>
+      <Point x="673" y="447"/>
+    </object>
+  </frame>
+  <frame ID="137">
+    <object ID="4" Transcription="你们怕是弄错了">
+      <Point x="295" y="507"/>
+      <Point x="295" y="448"/>
+      <Point x="673" y="447"/>
+      <Point x="673" y="507"/>
+    </object>
+  </frame>
+  <frame ID="138">
+    <object ID="4" Transcription="苏泽只是我云家的">
+      <Point x="271" y="511"/>
+      <Point x="271" y="448"/>
+      <Point x="703" y="447"/>
+      <Point x="703" y="511"/>
+    </object>
+  </frame>
+  <frame ID="139">
+    <object ID="4" Transcription="苏泽只是我云家的">
+      <Point x="272" y="511"/>
+      <Point x="272" y="447"/>
+      <Point x="703" y="446"/>
+      <Point x="703" y="511"/>
+    </object>
+  </frame>
+  <frame ID="140">
+    <object ID="4" Transcription="苏泽只是我云家的">
+      <Point x="273" y="511"/>
+      <Point x="272" y="447"/>
+      <Point x="703" y="446"/>
+      <Point x="703" y="510"/>
+    </object>
+  </frame>
+  <frame ID="141">
+    <object ID="4" Transcription="苏泽只是我云家的">
+      <Point x="271" y="512"/>
+      <Point x="271" y="447"/>
+      <Point x="703" y="446"/>
+      <Point x="704" y="511"/>
+    </object>
+  </frame>
+  <frame ID="142">
+    <object ID="4" Transcription="废物女媚啊">
+      <Point x="354" y="506"/>
+      <Point x="354" y="450"/>
+      <Point x="621" y="448"/>
+      <Point x="621" y="505"/>
+    </object>
+  </frame>
+  <frame ID="143"/>
+  <frame ID="144"/>
+  <frame ID="145"/>
+  <frame ID="146">
+    <object ID="4" Transcription="云张两家">
+      <Point x="379" y="506"/>
+      <Point x="379" y="449"/>
+      <Point x="597" y="449"/>
+      <Point x="597" y="506"/>
+    </object>
+  </frame>
+  <frame ID="147">
+    <object ID="4" Transcription="云张两家">
+      <Point x="379" y="504"/>
+      <Point x="379" y="451"/>
+      <Point x="596" y="450"/>
+      <Point x="596" y="504"/>
+    </object>
+  </frame>
+  <frame ID="148">
+    <object ID="4" Transcription="羞龙王">
+      <Point x="379" y="507"/>
+      <Point x="378" y="447"/>
+      <Point x="595" y="446"/>
+      <Point x="595" y="505"/>
+    </object>
+  </frame>
+  <frame ID="149">
+    <object ID="4" Transcription="如何处置">
+      <Point x="596" y="505"/>
+      <Point x="377" y="504"/>
+      <Point x="377" y="445"/>
+      <Point x="596" y="446"/>
+    </object>
+  </frame>
+  <frame ID="150">
+    <object ID="4" Transcription="如何处置">
+      <Point x="594" y="505"/>
+      <Point x="376" y="503"/>
+      <Point x="377" y="447"/>
+      <Point x="594" y="448"/>
+    </object>
+  </frame>
+  <frame ID="151">
+    <object ID="4" Transcription="请龙王呀附">
+      <Point x="350" y="508"/>
+      <Point x="350" y="446"/>
+      <Point x="622" y="446"/>
+      <Point x="623" y="507"/>
+    </object>
+  </frame>
+  <frame ID="152">
+    <object ID="4" Transcription="请龙王呀附">
+      <Point x="350" y="508"/>
+      <Point x="350" y="446"/>
+      <Point x="622" y="445"/>
+      <Point x="622" y="507"/>
+    </object>
+  </frame>
+  <frame ID="153">
+    <object ID="4" Transcription="你竟然是龙王">
+      <Point x="324" y="505"/>
+      <Point x="323" y="448"/>
+      <Point x="647" y="447"/>
+      <Point x="647" y="505"/>
+    </object>
+  </frame>
+  <frame ID="154">
+    <object ID="4" Transcription="你竟然是龙王">
+      <Point x="323" y="505"/>
+      <Point x="323" y="447"/>
+      <Point x="648" y="447"/>
+      <Point x="648" y="505"/>
+    </object>
+  </frame>
+  <frame ID="155"/>
+  <frame ID="156"/>
+</Frames>

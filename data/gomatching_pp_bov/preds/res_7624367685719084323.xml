@@ -1,0 +1,957 @@
+<?xml version="1.0" ?>
+<Frames>
+  <frame ID="1"/>
+  <frame ID="2">
+    <object ID="2" Transcription="我是任民集团总裁">
+      <Point x="165" y="956"/>
+      <Point x="165" y="903"/>
+      <Point x="554" y="902"/>
+      <Point x="554" y="955"/>
+    </object>
+  </frame>
+  <frame ID="3">
+    <object ID="2" Transcription="我是任民集团总裁">
+      <Point x="165" y="956"/>
+      <Point x="165" y="902"/>
+      <Point x="554" y="901"/>
+      <Point x="554" y="955"/>
+    </object>
+  </frame>
+  <frame ID="4">
+    <object ID="2" Transcription="我是任民集团总裁">
+      <Point x="165" y="957"/>
+      <Point x="165" y="902"/>
+      <Point x="554" y="902"/>
+      <Point x="554" y="957"/>
+    </object>
+  </frame>
+  <frame ID="5"/>
+  <frame ID="6">
+    <object ID="2" Transcription="她是赵民继承人">
+      <Point x="527" y="956"/>
+      <Point x="188" y="955"/>
+      <Point x="188" y="902"/>
+      <Point x="527" y="903"/>
+    </object>
+  </frame>
+  <frame ID="7">
+    <object ID="2" Transcription="她是赵民继承人">
+      <Point x="188" y="956"/>
+      <Point x="188" y="902"/>
+      <Point x="528" y="902"/>
+      <Point x="528" y="956"/>
+    </object>
+  </frame>
+  <frame ID="8">
+    <object ID="2" Transcription="她是赵民继承人">
+      <Point x="527" y="957"/>
+      <Point x="188" y="956"/>
+      <Point x="188" y="903"/>
+      <Point x="527" y="903"/>
+    </object>
+  </frame>
+  <frame ID="9"/>
+  <frame ID="10"/>
+  <frame ID="11">
+    <object ID="2" Transcription="两家联姻">
+      <Point x="261" y="956"/>
+      <Point x="261" y="903"/>
+      <Point x="457" y="903"/>
+      <Point x="457" y="956"/>
+    </object>
+  </frame>
+  <frame ID="12">
+    <object ID="2" Transcription="两家联姻">
+      <Point x="261" y="956"/>
+      <Point x="261" y="903"/>
+      <Point x="457" y="903"/>
+      <Point x="457" y="956"/>
+    </object>
+  </frame>
+  <frame ID="13">
+    <object ID="2" Transcription="联的不仅仅是婚姻">
+      <Point x="553" y="955"/>
+      <Point x="162" y="955"/>
+      <Point x="162" y="903"/>
+      <Point x="553" y="903"/>
+    </object>
+  </frame>
+  <frame ID="14">
+    <object ID="2" Transcription="联的不仅仅是婚姻">
+      <Point x="162" y="956"/>
+      <Point x="162" y="902"/>
+      <Point x="554" y="902"/>
+      <Point x="554" y="956"/>
+    </object>
+  </frame>
+  <frame ID="15">
+    <object ID="2" Transcription="联的不仅仅是婚姻">
+      <Point x="162" y="955"/>
+      <Point x="162" y="902"/>
+      <Point x="554" y="902"/>
+      <Point x="554" y="955"/>
+    </object>
+  </frame>
+  <frame ID="16">
+    <object ID="2" Transcription="联的不仅仅是婚姻">
+      <Point x="162" y="955"/>
+      <Point x="162" y="903"/>
+      <Point x="553" y="903"/>
+      <Point x="553" y="955"/>
+    </object>
+  </frame>
+  <frame ID="17">
+    <object ID="2" Transcription="更是两个商业帝国的">
+      <Point x="141" y="956"/>
+      <Point x="140" y="903"/>
+      <Point x="576" y="902"/>
+      <Point x="576" y="955"/>
+    </object>
+  </frame>
+  <frame ID="18">
+    <object ID="2" Transcription="更是两个商业帝国的">
+      <Point x="141" y="956"/>
+      <Point x="141" y="903"/>
+      <Point x="577" y="902"/>
+      <Point x="577" y="955"/>
+    </object>
+  </frame>
+  <frame ID="19">
+    <object ID="2" Transcription="更是两个商业帝国的">
+      <Point x="140" y="955"/>
+      <Point x="140" y="903"/>
+      <Point x="577" y="903"/>
+      <Point x="577" y="955"/>
+    </object>
+  </frame>
+  <frame ID="20">
+    <object ID="2" Transcription="强强联合">
+      <Point x="457" y="955"/>
+      <Point x="263" y="955"/>
+      <Point x="263" y="902"/>
+      <Point x="457" y="903"/>
+    </object>
+  </frame>
+  <frame ID="21">
+    <object ID="2" Transcription="强强联合">
+      <Point x="458" y="955"/>
+      <Point x="262" y="955"/>
+      <Point x="262" y="902"/>
+      <Point x="458" y="903"/>
+    </object>
+  </frame>
+  <frame ID="22">
+    <object ID="2" Transcription="任总">
+      <Point x="310" y="956"/>
+      <Point x="310" y="902"/>
+      <Point x="406" y="901"/>
+      <Point x="406" y="955"/>
+    </object>
+  </frame>
+  <frame ID="23"/>
+  <frame ID="24">
+    <object ID="2" Transcription="赵小姐来公司找您">
+      <Point x="164" y="956"/>
+      <Point x="164" y="902"/>
+      <Point x="553" y="902"/>
+      <Point x="553" y="956"/>
+    </object>
+  </frame>
+  <frame ID="25">
+    <object ID="2" Transcription="赵小姐来公司找您">
+      <Point x="163" y="955"/>
+      <Point x="163" y="902"/>
+      <Point x="554" y="902"/>
+      <Point x="554" y="955"/>
+    </object>
+  </frame>
+  <frame ID="26">
+    <object ID="2" Transcription="赵小姐来公司找您">
+      <Point x="163" y="956"/>
+      <Point x="163" y="902"/>
+      <Point x="554" y="902"/>
+      <Point x="554" y="956"/>
+    </object>
+  </frame>
+  <frame ID="27">
+    <object ID="2" Transcription="她说她今天">
+      <Point x="483" y="956"/>
+      <Point x="236" y="956"/>
+      <Point x="236" y="902"/>
+      <Point x="483" y="902"/>
+    </object>
+  </frame>
+  <frame ID="28">
+    <object ID="2" Transcription="她说她今天">
+      <Point x="236" y="956"/>
+      <Point x="236" y="902"/>
+      <Point x="483" y="902"/>
+      <Point x="483" y="956"/>
+    </object>
+  </frame>
+  <frame ID="29">
+    <object ID="2" Transcription="必须要见到您">
+      <Point x="211" y="957"/>
+      <Point x="211" y="902"/>
+      <Point x="506" y="902"/>
+      <Point x="506" y="957"/>
+    </object>
+  </frame>
+  <frame ID="30">
+    <object ID="2" Transcription="必须要见到您">
+      <Point x="212" y="957"/>
+      <Point x="212" y="902"/>
+      <Point x="505" y="902"/>
+      <Point x="505" y="957"/>
+    </object>
+  </frame>
+  <frame ID="31">
+    <object ID="2" Transcription="把话说清楚">
+      <Point x="236" y="955"/>
+      <Point x="236" y="902"/>
+      <Point x="481" y="902"/>
+      <Point x="481" y="955"/>
+    </object>
+  </frame>
+  <frame ID="32">
+    <object ID="2" Transcription="把话说清楚">
+      <Point x="236" y="955"/>
+      <Point x="236" y="902"/>
+      <Point x="481" y="902"/>
+      <Point x="481" y="955"/>
+    </object>
+  </frame>
+  <frame ID="33"/>
+  <frame ID="34">
+    <object ID="2" Transcription="这婚">
+      <Point x="310" y="955"/>
+      <Point x="310" y="902"/>
+      <Point x="408" y="902"/>
+      <Point x="408" y="955"/>
+    </object>
+  </frame>
+  <frame ID="35">
+    <object ID="2" Transcription="这婚">
+      <Point x="310" y="955"/>
+      <Point x="310" y="902"/>
+      <Point x="408" y="902"/>
+      <Point x="408" y="955"/>
+    </object>
+  </frame>
+  <frame ID="36"/>
+  <frame ID="37"/>
+  <frame ID="38">
+    <object ID="2" Transcription="她不跟您结了">
+      <Point x="211" y="956"/>
+      <Point x="211" y="903"/>
+      <Point x="504" y="903"/>
+      <Point x="504" y="956"/>
+    </object>
+  </frame>
+  <frame ID="39">
+    <object ID="2" Transcription="她不跟您结了">
+      <Point x="211" y="956"/>
+      <Point x="211" y="903"/>
+      <Point x="504" y="903"/>
+      <Point x="504" y="956"/>
+    </object>
+  </frame>
+  <frame ID="40"/>
+  <frame ID="41"/>
+  <frame ID="42"/>
+  <frame ID="43"/>
+  <frame ID="44"/>
+  <frame ID="45">
+    <object ID="3" Transcription="好的">
+      <Point x="309" y="956"/>
+      <Point x="309" y="903"/>
+      <Point x="406" y="903"/>
+      <Point x="406" y="956"/>
+    </object>
+  </frame>
+  <frame ID="46">
+    <object ID="3" Transcription="好的">
+      <Point x="309" y="956"/>
+      <Point x="309" y="903"/>
+      <Point x="406" y="903"/>
+      <Point x="406" y="956"/>
+    </object>
+  </frame>
+  <frame ID="47">
+    <object ID="3" Transcription="知道了">
+      <Point x="285" y="955"/>
+      <Point x="285" y="902"/>
+      <Point x="430" y="902"/>
+      <Point x="430" y="955"/>
+    </object>
+  </frame>
+  <frame ID="48"/>
+  <frame ID="49"/>
+  <frame ID="50">
+    <object ID="3" Transcription="让她等我">
+      <Point x="457" y="956"/>
+      <Point x="262" y="955"/>
+      <Point x="262" y="902"/>
+      <Point x="457" y="903"/>
+    </object>
+  </frame>
+  <frame ID="51"/>
+  <frame ID="52"/>
+  <frame ID="53">
+    <object ID="3" Transcription="然而">
+      <Point x="310" y="955"/>
+      <Point x="310" y="902"/>
+      <Point x="406" y="902"/>
+      <Point x="406" y="955"/>
+    </object>
+  </frame>
+  <frame ID="54">
+    <object ID="3" Transcription="然而">
+      <Point x="310" y="955"/>
+      <Point x="310" y="902"/>
+      <Point x="406" y="902"/>
+      <Point x="406" y="955"/>
+    </object>
+  </frame>
+  <frame ID="55"/>
+  <frame ID="56">
+    <object ID="3" Transcription="她却选在">
+      <Point x="261" y="956"/>
+      <Point x="261" y="903"/>
+      <Point x="458" y="902"/>
+      <Point x="458" y="955"/>
+    </object>
+  </frame>
+  <frame ID="57">
+    <object ID="3" Transcription="她却选在">
+      <Point x="261" y="956"/>
+      <Point x="261" y="903"/>
+      <Point x="457" y="902"/>
+      <Point x="457" y="955"/>
+    </object>
+  </frame>
+  <frame ID="58">
+    <object ID="3" Transcription="我签并购协议的时候">
+      <Point x="140" y="955"/>
+      <Point x="140" y="903"/>
+      <Point x="580" y="903"/>
+      <Point x="580" y="955"/>
+    </object>
+  </frame>
+  <frame ID="59">
+    <object ID="3" Transcription="我签并购协议的时候">
+      <Point x="140" y="955"/>
+      <Point x="140" y="903"/>
+      <Point x="580" y="903"/>
+      <Point x="580" y="955"/>
+    </object>
+  </frame>
+  <frame ID="60">
+    <object ID="3" Transcription="我签并购协议的时候">
+      <Point x="579" y="955"/>
+      <Point x="140" y="955"/>
+      <Point x="140" y="903"/>
+      <Point x="579" y="903"/>
+    </object>
+  </frame>
+  <frame ID="61">
+    <object ID="3" Transcription="我签并购协议的时候">
+      <Point x="579" y="955"/>
+      <Point x="140" y="955"/>
+      <Point x="140" y="903"/>
+      <Point x="579" y="903"/>
+    </object>
+  </frame>
+  <frame ID="62">
+    <object ID="3" Transcription="说她爱上了别人">
+      <Point x="188" y="955"/>
+      <Point x="188" y="903"/>
+      <Point x="529" y="903"/>
+      <Point x="529" y="955"/>
+    </object>
+    <object ID="4" Transcription="0">
+      <Point x="615" y="511"/>
+      <Point x="591" y="510"/>
+      <Point x="592" y="481"/>
+      <Point x="616" y="482"/>
+    </object>
+    <object ID="5" Transcription="to">
+      <Point x="610" y="594"/>
+      <Point x="607" y="564"/>
+      <Point x="646" y="560"/>
+      <Point x="649" y="591"/>
+    </object>
+  </frame>
+  <frame ID="63">
+    <object ID="3" Transcription="说她爱上了别人">
+      <Point x="188" y="956"/>
+      <Point x="188" y="903"/>
+      <Point x="527" y="903"/>
+      <Point x="527" y="956"/>
+    </object>
+    <object ID="4" Transcription="0">
+      <Point x="602" y="508"/>
+      <Point x="601" y="475"/>
+      <Point x="626" y="474"/>
+      <Point x="627" y="507"/>
+    </object>
+    <object ID="5" Transcription="to">
+      <Point x="619" y="593"/>
+      <Point x="616" y="561"/>
+      <Point x="658" y="558"/>
+      <Point x="660" y="590"/>
+    </object>
+  </frame>
+  <frame ID="64">
+    <object ID="3" Transcription="说她爱上了别人">
+      <Point x="188" y="956"/>
+      <Point x="188" y="902"/>
+      <Point x="527" y="902"/>
+      <Point x="527" y="956"/>
+    </object>
+    <object ID="4" Transcription="0">
+      <Point x="612" y="504"/>
+      <Point x="611" y="469"/>
+      <Point x="637" y="468"/>
+      <Point x="637" y="503"/>
+    </object>
+  </frame>
+  <frame ID="65">
+    <object ID="3" Transcription="提出婚">
+      <Point x="262" y="955"/>
+      <Point x="262" y="904"/>
+      <Point x="457" y="904"/>
+      <Point x="457" y="955"/>
+    </object>
+    <object ID="4" Transcription="0">
+      <Point x="623" y="500"/>
+      <Point x="622" y="463"/>
+      <Point x="648" y="463"/>
+      <Point x="648" y="499"/>
+    </object>
+    <object ID="5" Transcription="o">
+      <Point x="640" y="592"/>
+      <Point x="639" y="558"/>
+      <Point x="683" y="556"/>
+      <Point x="685" y="590"/>
+    </object>
+  </frame>
+  <frame ID="66">
+    <object ID="3" Transcription="提出婚">
+      <Point x="458" y="955"/>
+      <Point x="262" y="954"/>
+      <Point x="262" y="903"/>
+      <Point x="458" y="904"/>
+    </object>
+    <object ID="4" Transcription="0">
+      <Point x="661" y="497"/>
+      <Point x="636" y="497"/>
+      <Point x="636" y="459"/>
+      <Point x="662" y="459"/>
+    </object>
+    <object ID="5" Transcription="to">
+      <Point x="655" y="593"/>
+      <Point x="654" y="559"/>
+      <Point x="699" y="557"/>
+      <Point x="701" y="591"/>
+    </object>
+  </frame>
+  <frame ID="67">
+    <object ID="3" Transcription="提出婚">
+      <Point x="263" y="955"/>
+      <Point x="263" y="903"/>
+      <Point x="457" y="903"/>
+      <Point x="457" y="954"/>
+    </object>
+    <object ID="4" Transcription="0">
+      <Point x="673" y="489"/>
+      <Point x="649" y="489"/>
+      <Point x="649" y="452"/>
+      <Point x="673" y="452"/>
+    </object>
+    <object ID="5" Transcription="to">
+      <Point x="665" y="591"/>
+      <Point x="664" y="555"/>
+      <Point x="714" y="553"/>
+      <Point x="716" y="588"/>
+    </object>
+  </frame>
+  <frame ID="68"/>
+  <frame ID="69"/>
+  <frame ID="70"/>
+  <frame ID="71"/>
+  <frame ID="72"/>
+  <frame ID="73"/>
+  <frame ID="74"/>
+  <frame ID="75"/>
+  <frame ID="76"/>
+  <frame ID="77"/>
+  <frame ID="78">
+    <object ID="9" Transcription="她以为毁掉的">
+      <Point x="505" y="955"/>
+      <Point x="212" y="954"/>
+      <Point x="212" y="903"/>
+      <Point x="505" y="903"/>
+    </object>
+  </frame>
+  <frame ID="79">
+    <object ID="9" Transcription="她以为毁掉的">
+      <Point x="212" y="955"/>
+      <Point x="212" y="903"/>
+      <Point x="505" y="903"/>
+      <Point x="505" y="955"/>
+    </object>
+  </frame>
+  <frame ID="80">
+    <object ID="9" Transcription="只是一极婚事">
+      <Point x="213" y="955"/>
+      <Point x="212" y="903"/>
+      <Point x="506" y="902"/>
+      <Point x="506" y="954"/>
+    </object>
+  </frame>
+  <frame ID="81">
+    <object ID="9" Transcription="只是一脏婚事">
+      <Point x="212" y="955"/>
+      <Point x="212" y="903"/>
+      <Point x="506" y="902"/>
+      <Point x="506" y="954"/>
+    </object>
+  </frame>
+  <frame ID="82">
+    <object ID="9" Transcription="只是一被婚事">
+      <Point x="212" y="955"/>
+      <Point x="212" y="903"/>
+      <Point x="506" y="902"/>
+      <Point x="506" y="954"/>
+    </object>
+  </frame>
+  <frame ID="83"/>
+  <frame ID="84">
+    <object ID="9" Transcription="实际上">
+      <Point x="433" y="955"/>
+      <Point x="285" y="955"/>
+      <Point x="285" y="903"/>
+      <Point x="433" y="903"/>
+    </object>
+  </frame>
+  <frame ID="85">
+    <object ID="9" Transcription="实际上">
+      <Point x="434" y="955"/>
+      <Point x="285" y="955"/>
+      <Point x="285" y="902"/>
+      <Point x="434" y="903"/>
+    </object>
+  </frame>
+  <frame ID="86"/>
+  <frame ID="87"/>
+  <frame ID="88">
+    <object ID="9" Transcription="她是毁掉了">
+      <Point x="236" y="955"/>
+      <Point x="236" y="903"/>
+      <Point x="478" y="903"/>
+      <Point x="478" y="955"/>
+    </object>
+  </frame>
+  <frame ID="89">
+    <object ID="9" Transcription="整个赵民集团">
+      <Point x="211" y="956"/>
+      <Point x="211" y="902"/>
+      <Point x="504" y="902"/>
+      <Point x="504" y="956"/>
+    </object>
+  </frame>
+  <frame ID="90">
+    <object ID="9" Transcription="整个赵民集团">
+      <Point x="505" y="956"/>
+      <Point x="211" y="956"/>
+      <Point x="211" y="901"/>
+      <Point x="505" y="902"/>
+    </object>
+  </frame>
+  <frame ID="91">
+    <object ID="9" Transcription="整个赵民集团">
+      <Point x="505" y="956"/>
+      <Point x="212" y="956"/>
+      <Point x="212" y="902"/>
+      <Point x="505" y="902"/>
+    </object>
+  </frame>
+  <frame ID="92"/>
+  <frame ID="93"/>
+  <frame ID="94"/>
+  <frame ID="95"/>
+  <frame ID="96"/>
+  <frame ID="97"/>
+  <frame ID="98"/>
+  <frame ID="99"/>
+  <frame ID="100"/>
+  <frame ID="101"/>
+  <frame ID="102"/>
+  <frame ID="103"/>
+  <frame ID="104"/>
+  <frame ID="105"/>
+  <frame ID="106"/>
+  <frame ID="107"/>
+  <frame ID="108"/>
+  <frame ID="109"/>
+  <frame ID="110"/>
+  <frame ID="111"/>
+  <frame ID="112"/>
+  <frame ID="113"/>
+  <frame ID="114"/>
+  <frame ID="115"/>
+  <frame ID="116">
+    <object ID="15" Transcription="任总">
+      <Point x="405" y="956"/>
+      <Point x="310" y="956"/>
+      <Point x="310" y="902"/>
+      <Point x="405" y="902"/>
+    </object>
+  </frame>
+  <frame ID="117">
+    <object ID="15" Transcription="任总">
+      <Point x="405" y="956"/>
+      <Point x="309" y="956"/>
+      <Point x="309" y="902"/>
+      <Point x="405" y="902"/>
+    </object>
+  </frame>
+  <frame ID="118"/>
+  <frame ID="119"/>
+  <frame ID="120"/>
+  <frame ID="121">
+    <object ID="15" Transcription="去通知赵晨欣">
+      <Point x="506" y="956"/>
+      <Point x="213" y="955"/>
+      <Point x="213" y="902"/>
+      <Point x="506" y="903"/>
+    </object>
+  </frame>
+  <frame ID="122">
+    <object ID="15" Transcription="去通知赵晨欣">
+      <Point x="505" y="956"/>
+      <Point x="213" y="955"/>
+      <Point x="213" y="902"/>
+      <Point x="505" y="903"/>
+    </object>
+  </frame>
+  <frame ID="123">
+    <object ID="15" Transcription="去通知赵晨欣">
+      <Point x="506" y="956"/>
+      <Point x="212" y="955"/>
+      <Point x="213" y="902"/>
+      <Point x="506" y="903"/>
+    </object>
+  </frame>
+  <frame ID="124">
+    <object ID="15" Transcription="来我办公室见我">
+      <Point x="189" y="955"/>
+      <Point x="189" y="903"/>
+      <Point x="530" y="903"/>
+      <Point x="530" y="955"/>
+    </object>
+  </frame>
+  <frame ID="125">
+    <object ID="15" Transcription="来我办公室见我">
+      <Point x="189" y="955"/>
+      <Point x="189" y="903"/>
+      <Point x="530" y="903"/>
+      <Point x="530" y="955"/>
+    </object>
+  </frame>
+  <frame ID="126"/>
+  <frame ID="127">
+    <object ID="15" Transcription="好的">
+      <Point x="309" y="955"/>
+      <Point x="309" y="903"/>
+      <Point x="406" y="903"/>
+      <Point x="406" y="955"/>
+    </object>
+  </frame>
+  <frame ID="128">
+    <object ID="15" Transcription="我会通知她的">
+      <Point x="213" y="954"/>
+      <Point x="213" y="903"/>
+      <Point x="505" y="902"/>
+      <Point x="505" y="953"/>
+    </object>
+  </frame>
+  <frame ID="129"/>
+  <frame ID="130">
+    <object ID="15" Transcription="那给赵民投资的事">
+      <Point x="164" y="957"/>
+      <Point x="164" y="903"/>
+      <Point x="555" y="902"/>
+      <Point x="555" y="956"/>
+    </object>
+  </frame>
+  <frame ID="131">
+    <object ID="15" Transcription="那给赵民投资的事">
+      <Point x="164" y="957"/>
+      <Point x="164" y="903"/>
+      <Point x="555" y="902"/>
+      <Point x="555" y="956"/>
+    </object>
+  </frame>
+  <frame ID="132">
+    <object ID="15" Transcription="那给赵民投资的事">
+      <Point x="164" y="957"/>
+      <Point x="164" y="902"/>
+      <Point x="554" y="902"/>
+      <Point x="554" y="957"/>
+    </object>
+  </frame>
+  <frame ID="133">
+    <object ID="15" Transcription="那给赵民投资的事">
+      <Point x="164" y="957"/>
+      <Point x="164" y="902"/>
+      <Point x="554" y="902"/>
+      <Point x="555" y="956"/>
+    </object>
+  </frame>
+  <frame ID="134"/>
+  <frame ID="135"/>
+  <frame ID="136">
+    <object ID="15" Transcription="暂时置">
+      <Point x="262" y="957"/>
+      <Point x="262" y="902"/>
+      <Point x="456" y="902"/>
+      <Point x="456" y="957"/>
+    </object>
+  </frame>
+  <frame ID="137">
+    <object ID="15" Transcription="暂时置">
+      <Point x="262" y="957"/>
+      <Point x="262" y="902"/>
+      <Point x="456" y="902"/>
+      <Point x="456" y="957"/>
+    </object>
+  </frame>
+  <frame ID="138">
+    <object ID="15" Transcription="重新做风险评估">
+      <Point x="188" y="956"/>
+      <Point x="188" y="902"/>
+      <Point x="528" y="902"/>
+      <Point x="528" y="955"/>
+    </object>
+  </frame>
+  <frame ID="139">
+    <object ID="15" Transcription="重新做风险评估">
+      <Point x="188" y="956"/>
+      <Point x="188" y="902"/>
+      <Point x="528" y="902"/>
+      <Point x="528" y="956"/>
+    </object>
+  </frame>
+  <frame ID="140">
+    <object ID="15" Transcription="重新做风险评估">
+      <Point x="188" y="955"/>
+      <Point x="188" y="902"/>
+      <Point x="529" y="902"/>
+      <Point x="529" y="955"/>
+    </object>
+  </frame>
+  <frame ID="141"/>
+  <frame ID="142">
+    <object ID="15" Transcription="可是这样一来">
+      <Point x="214" y="955"/>
+      <Point x="214" y="903"/>
+      <Point x="506" y="903"/>
+      <Point x="506" y="955"/>
+    </object>
+  </frame>
+  <frame ID="143">
+    <object ID="15" Transcription="可是这样一来">
+      <Point x="506" y="955"/>
+      <Point x="213" y="955"/>
+      <Point x="213" y="903"/>
+      <Point x="506" y="903"/>
+    </object>
+  </frame>
+  <frame ID="144">
+    <object ID="15" Transcription="赵民的资金链即将断裂">
+      <Point x="115" y="956"/>
+      <Point x="115" y="902"/>
+      <Point x="602" y="901"/>
+      <Point x="602" y="955"/>
+    </object>
+  </frame>
+  <frame ID="145">
+    <object ID="15" Transcription="赵民的资金链即将断裂">
+      <Point x="115" y="956"/>
+      <Point x="115" y="902"/>
+      <Point x="601" y="901"/>
+      <Point x="602" y="955"/>
+    </object>
+  </frame>
+  <frame ID="146">
+    <object ID="15" Transcription="赵民的资金链即将断裂">
+      <Point x="115" y="956"/>
+      <Point x="115" y="902"/>
+      <Point x="600" y="901"/>
+      <Point x="601" y="955"/>
+    </object>
+  </frame>
+  <frame ID="147">
+    <object ID="15" Transcription="赵民的资金链即将断裂">
+      <Point x="115" y="956"/>
+      <Point x="115" y="902"/>
+      <Point x="601" y="901"/>
+      <Point x="601" y="955"/>
+    </object>
+  </frame>
+  <frame ID="148">
+    <object ID="15" Transcription="整个赵民企业">
+      <Point x="504" y="956"/>
+      <Point x="211" y="956"/>
+      <Point x="211" y="900"/>
+      <Point x="505" y="901"/>
+    </object>
+  </frame>
+  <frame ID="149">
+    <object ID="15" Transcription="整个赵民企业">
+      <Point x="212" y="956"/>
+      <Point x="212" y="900"/>
+      <Point x="504" y="900"/>
+      <Point x="504" y="956"/>
+    </object>
+  </frame>
+  <frame ID="150">
+    <object ID="15" Transcription="整个赵民企业">
+      <Point x="212" y="956"/>
+      <Point x="212" y="900"/>
+      <Point x="503" y="900"/>
+      <Point x="503" y="956"/>
+    </object>
+  </frame>
+  <frame ID="151">
+    <object ID="15" Transcription="将面临破产">
+      <Point x="483" y="958"/>
+      <Point x="236" y="957"/>
+      <Point x="236" y="900"/>
+      <Point x="483" y="900"/>
+    </object>
+  </frame>
+  <frame ID="152">
+    <object ID="15" Transcription="将面临破产">
+      <Point x="483" y="958"/>
+      <Point x="236" y="957"/>
+      <Point x="236" y="900"/>
+      <Point x="483" y="901"/>
+    </object>
+  </frame>
+  <frame ID="153"/>
+  <frame ID="154"/>
+  <frame ID="155"/>
+  <frame ID="156">
+    <object ID="15" Transcription="暂时置">
+      <Point x="262" y="956"/>
+      <Point x="262" y="902"/>
+      <Point x="457" y="902"/>
+      <Point x="457" y="956"/>
+    </object>
+  </frame>
+  <frame ID="157">
+    <object ID="15" Transcription="暂时置">
+      <Point x="262" y="956"/>
+      <Point x="262" y="903"/>
+      <Point x="456" y="903"/>
+      <Point x="456" y="956"/>
+    </object>
+  </frame>
+  <frame ID="158">
+    <object ID="15" Transcription="暂时置">
+      <Point x="262" y="956"/>
+      <Point x="262" y="903"/>
+      <Point x="457" y="903"/>
+      <Point x="457" y="956"/>
+    </object>
+  </frame>
+  <frame ID="159">
+    <object ID="15" Transcription="重新做风险评估">
+      <Point x="187" y="956"/>
+      <Point x="187" y="902"/>
+      <Point x="529" y="902"/>
+      <Point x="530" y="955"/>
+    </object>
+  </frame>
+  <frame ID="160">
+    <object ID="15" Transcription="重新做风险评估">
+      <Point x="187" y="956"/>
+      <Point x="187" y="902"/>
+      <Point x="529" y="902"/>
+      <Point x="530" y="955"/>
+    </object>
+  </frame>
+  <frame ID="161">
+    <object ID="15" Transcription="重新做风险评估">
+      <Point x="187" y="956"/>
+      <Point x="187" y="902"/>
+      <Point x="530" y="902"/>
+      <Point x="530" y="956"/>
+    </object>
+  </frame>
+  <frame ID="162"/>
+  <frame ID="163"/>
+  <frame ID="164">
+    <object ID="15" Transcription="知道了">
+      <Point x="284" y="956"/>
+      <Point x="284" y="902"/>
+      <Point x="432" y="901"/>
+      <Point x="432" y="956"/>
+    </object>
+  </frame>
+  <frame ID="165">
+    <object ID="15" Transcription="知道了">
+      <Point x="285" y="956"/>
+      <Point x="284" y="902"/>
+      <Point x="431" y="902"/>
+      <Point x="431" y="956"/>
+    </object>
+  </frame>
+  <frame ID="166"/>
+  <frame ID="167"/>
+  <frame ID="168"/>
+  <frame ID="169"/>
+  <frame ID="170"/>
+  <frame ID="171"/>
+  <frame ID="172"/>
+  <frame ID="173"/>
+  <frame ID="174"/>
+  <frame ID="175"/>
+  <frame ID="176"/>
+  <frame ID="177"/>
+  <frame ID="178"/>
+  <frame ID="179"/>
+  <frame ID="180"/>
+  <frame ID="181"/>
+  <frame ID="182"/>
+  <frame ID="183"/>
+  <frame ID="184"/>
+  <frame ID="185"/>
+  <frame ID="186"/>
+  <frame ID="187"/>
+  <frame ID="188"/>
+  <frame ID="189"/>
+  <frame ID="190"/>
+  <frame ID="191"/>
+  <frame ID="192"/>
+  <frame ID="193"/>
+  <frame ID="194"/>
+  <frame ID="195"/>
+  <frame ID="196"/>
+  <frame ID="197"/>
+  <frame ID="198"/>
+  <frame ID="199"/>
+  <frame ID="200"/>
+  <frame ID="201"/>
+  <frame ID="202"/>
+  <frame ID="203"/>
+  <frame ID="204"/>
+  <frame ID="205"/>
+  <frame ID="206"/>
+  <frame ID="207"/>
+  <frame ID="208"/>
+  <frame ID="209"/>
+</Frames>

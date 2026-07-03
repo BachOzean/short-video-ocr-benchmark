@@ -1,0 +1,855 @@
+<?xml version="1.0" ?>
+<Frames>
+  <frame ID="1"/>
+  <frame ID="2">
+    <object ID="2" Transcription="一黎厌集团董事长">
+      <Point x="148" y="579"/>
+      <Point x="147" y="554"/>
+      <Point x="328" y="554"/>
+      <Point x="328" y="578"/>
+    </object>
+    <object ID="3" Transcription="凌镜尘">
+      <Point x="130" y="562"/>
+      <Point x="130" y="480"/>
+      <Point x="338" y="480"/>
+      <Point x="339" y="561"/>
+    </object>
+  </frame>
+  <frame ID="3">
+    <object ID="2" Transcription="一凌氏团董事长">
+      <Point x="149" y="579"/>
+      <Point x="149" y="555"/>
+      <Point x="327" y="554"/>
+      <Point x="327" y="578"/>
+    </object>
+    <object ID="3" Transcription="凌镜尘">
+      <Point x="147" y="555"/>
+      <Point x="146" y="487"/>
+      <Point x="328" y="486"/>
+      <Point x="329" y="554"/>
+    </object>
+  </frame>
+  <frame ID="4">
+    <object ID="2" Transcription="凌氏团董事长">
+      <Point x="149" y="579"/>
+      <Point x="149" y="555"/>
+      <Point x="327" y="554"/>
+      <Point x="327" y="578"/>
+    </object>
+    <object ID="3" Transcription="凌镜尘">
+      <Point x="146" y="556"/>
+      <Point x="145" y="486"/>
+      <Point x="329" y="484"/>
+      <Point x="329" y="554"/>
+    </object>
+  </frame>
+  <frame ID="5">
+    <object ID="2" Transcription="一凌氏集团董事长">
+      <Point x="152" y="579"/>
+      <Point x="151" y="556"/>
+      <Point x="325" y="554"/>
+      <Point x="325" y="577"/>
+    </object>
+    <object ID="3" Transcription="凌镜尘">
+      <Point x="145" y="555"/>
+      <Point x="145" y="485"/>
+      <Point x="328" y="485"/>
+      <Point x="328" y="555"/>
+    </object>
+  </frame>
+  <frame ID="6">
+    <object ID="2" Transcription="一庆团董事长">
+      <Point x="146" y="578"/>
+      <Point x="146" y="554"/>
+      <Point x="325" y="553"/>
+      <Point x="325" y="578"/>
+    </object>
+    <object ID="3" Transcription="凌镜尘">
+      <Point x="328" y="555"/>
+      <Point x="146" y="555"/>
+      <Point x="146" y="487"/>
+      <Point x="328" y="487"/>
+    </object>
+  </frame>
+  <frame ID="7">
+    <object ID="2" Transcription="一爱氏集团董事长">
+      <Point x="147" y="579"/>
+      <Point x="147" y="555"/>
+      <Point x="326" y="553"/>
+      <Point x="327" y="577"/>
+    </object>
+    <object ID="3" Transcription="凌镜尘">
+      <Point x="146" y="555"/>
+      <Point x="146" y="486"/>
+      <Point x="328" y="486"/>
+      <Point x="328" y="555"/>
+    </object>
+  </frame>
+  <frame ID="8">
+    <object ID="5" Transcription="这是颜小姐和傅斯年的资料">
+      <Point x="862" y="694"/>
+      <Point x="416" y="694"/>
+      <Point x="416" y="650"/>
+      <Point x="862" y="651"/>
+    </object>
+    <object ID="2" Transcription="爱庆团董事长">
+      <Point x="153" y="579"/>
+      <Point x="153" y="556"/>
+      <Point x="325" y="555"/>
+      <Point x="326" y="577"/>
+    </object>
+    <object ID="3" Transcription="凌镜尘">
+      <Point x="147" y="555"/>
+      <Point x="147" y="487"/>
+      <Point x="329" y="487"/>
+      <Point x="329" y="554"/>
+    </object>
+  </frame>
+  <frame ID="9">
+    <object ID="5" Transcription="这是颜小姐和傅斯年的资料">
+      <Point x="861" y="694"/>
+      <Point x="416" y="693"/>
+      <Point x="416" y="650"/>
+      <Point x="861" y="651"/>
+    </object>
+    <object ID="2" Transcription="凌氏团董事长">
+      <Point x="151" y="579"/>
+      <Point x="151" y="556"/>
+      <Point x="327" y="555"/>
+      <Point x="327" y="577"/>
+    </object>
+    <object ID="3" Transcription="凌镜尘">
+      <Point x="327" y="554"/>
+      <Point x="147" y="554"/>
+      <Point x="147" y="487"/>
+      <Point x="327" y="487"/>
+    </object>
+  </frame>
+  <frame ID="10">
+    <object ID="5" Transcription="这是颜小姐和傅斯年的资料">
+      <Point x="860" y="694"/>
+      <Point x="416" y="693"/>
+      <Point x="417" y="650"/>
+      <Point x="860" y="651"/>
+    </object>
+    <object ID="2" Transcription="凌氏团董事长">
+      <Point x="151" y="578"/>
+      <Point x="151" y="556"/>
+      <Point x="327" y="555"/>
+      <Point x="327" y="577"/>
+    </object>
+    <object ID="3" Transcription="凌镜尘">
+      <Point x="146" y="555"/>
+      <Point x="146" y="486"/>
+      <Point x="329" y="486"/>
+      <Point x="329" y="555"/>
+    </object>
+  </frame>
+  <frame ID="11">
+    <object ID="5" Transcription="这是颜小姐和傅斯年的资料">
+      <Point x="859" y="693"/>
+      <Point x="416" y="693"/>
+      <Point x="416" y="650"/>
+      <Point x="859" y="651"/>
+    </object>
+    <object ID="2" Transcription="凌氏团董事长">
+      <Point x="151" y="579"/>
+      <Point x="151" y="555"/>
+      <Point x="327" y="554"/>
+      <Point x="327" y="577"/>
+    </object>
+    <object ID="3" Transcription="凌镜尘">
+      <Point x="329" y="554"/>
+      <Point x="146" y="554"/>
+      <Point x="146" y="487"/>
+      <Point x="329" y="487"/>
+    </object>
+  </frame>
+  <frame ID="12">
+    <object ID="5" Transcription="这是颜小姐和傅斯年的资料">
+      <Point x="860" y="694"/>
+      <Point x="416" y="693"/>
+      <Point x="416" y="650"/>
+      <Point x="860" y="651"/>
+    </object>
+    <object ID="2" Transcription="凌庆团董事长">
+      <Point x="150" y="579"/>
+      <Point x="150" y="556"/>
+      <Point x="326" y="555"/>
+      <Point x="327" y="577"/>
+    </object>
+    <object ID="3" Transcription="凌镜尘">
+      <Point x="148" y="555"/>
+      <Point x="148" y="487"/>
+      <Point x="328" y="486"/>
+      <Point x="329" y="555"/>
+    </object>
+  </frame>
+  <frame ID="13"/>
+  <frame ID="14">
+    <object ID="5" Transcription="颜小姐接近你">
+      <Point x="525" y="695"/>
+      <Point x="525" y="650"/>
+      <Point x="750" y="650"/>
+      <Point x="750" y="695"/>
+    </object>
+  </frame>
+  <frame ID="15">
+    <object ID="5" Transcription="颜小姐接近你">
+      <Point x="525" y="695"/>
+      <Point x="525" y="650"/>
+      <Point x="750" y="650"/>
+      <Point x="750" y="695"/>
+    </object>
+  </frame>
+  <frame ID="16">
+    <object ID="5" Transcription="本就带着目的">
+      <Point x="526" y="693"/>
+      <Point x="526" y="651"/>
+      <Point x="749" y="650"/>
+      <Point x="749" y="693"/>
+    </object>
+  </frame>
+  <frame ID="17">
+    <object ID="5" Transcription="本就带着目的">
+      <Point x="526" y="693"/>
+      <Point x="526" y="651"/>
+      <Point x="749" y="650"/>
+      <Point x="749" y="692"/>
+    </object>
+  </frame>
+  <frame ID="18"/>
+  <frame ID="19">
+    <object ID="5" Transcription="你务必当心">
+      <Point x="543" y="693"/>
+      <Point x="543" y="651"/>
+      <Point x="731" y="650"/>
+      <Point x="731" y="692"/>
+    </object>
+  </frame>
+  <frame ID="20">
+    <object ID="5" Transcription="你务必当心">
+      <Point x="543" y="693"/>
+      <Point x="542" y="651"/>
+      <Point x="730" y="651"/>
+      <Point x="731" y="692"/>
+    </object>
+  </frame>
+  <frame ID="21"/>
+  <frame ID="22"/>
+  <frame ID="23"/>
+  <frame ID="24"/>
+  <frame ID="25"/>
+  <frame ID="26"/>
+  <frame ID="27"/>
+  <frame ID="28"/>
+  <frame ID="29"/>
+  <frame ID="30"/>
+  <frame ID="31"/>
+  <frame ID="32"/>
+  <frame ID="33"/>
+  <frame ID="34"/>
+  <frame ID="35"/>
+  <frame ID="36"/>
+  <frame ID="37"/>
+  <frame ID="38"/>
+  <frame ID="39"/>
+  <frame ID="40"/>
+  <frame ID="41"/>
+  <frame ID="42"/>
+  <frame ID="43"/>
+  <frame ID="44"/>
+  <frame ID="45"/>
+  <frame ID="46"/>
+  <frame ID="47"/>
+  <frame ID="48"/>
+  <frame ID="49"/>
+  <frame ID="50"/>
+  <frame ID="51"/>
+  <frame ID="52"/>
+  <frame ID="53"/>
+  <frame ID="54"/>
+  <frame ID="55"/>
+  <frame ID="56"/>
+  <frame ID="57"/>
+  <frame ID="58">
+    <object ID="6" Transcription="颜见璃">
+      <Point x="978" y="582"/>
+      <Point x="978" y="480"/>
+      <Point x="1221" y="480"/>
+      <Point x="1221" y="582"/>
+    </object>
+  </frame>
+  <frame ID="59">
+    <object ID="6" Transcription="颜见璃">
+      <Point x="1009" y="570"/>
+      <Point x="1009" y="492"/>
+      <Point x="1195" y="491"/>
+      <Point x="1195" y="570"/>
+    </object>
+  </frame>
+  <frame ID="60">
+    <object ID="6" Transcription="颜见璃">
+      <Point x="1011" y="568"/>
+      <Point x="1011" y="493"/>
+      <Point x="1192" y="493"/>
+      <Point x="1192" y="568"/>
+    </object>
+  </frame>
+  <frame ID="61">
+    <object ID="6" Transcription="颜见璃">
+      <Point x="1010" y="568"/>
+      <Point x="1010" y="493"/>
+      <Point x="1192" y="493"/>
+      <Point x="1192" y="568"/>
+    </object>
+  </frame>
+  <frame ID="62">
+    <object ID="7" Transcription="颜见璃">
+      <Point x="579" y="695"/>
+      <Point x="579" y="652"/>
+      <Point x="696" y="651"/>
+      <Point x="696" y="695"/>
+    </object>
+    <object ID="6" Transcription="颜见璃">
+      <Point x="1010" y="568"/>
+      <Point x="1010" y="493"/>
+      <Point x="1192" y="493"/>
+      <Point x="1193" y="567"/>
+    </object>
+  </frame>
+  <frame ID="63">
+    <object ID="6" Transcription="颜见璃">
+      <Point x="1010" y="568"/>
+      <Point x="1010" y="493"/>
+      <Point x="1191" y="492"/>
+      <Point x="1192" y="567"/>
+    </object>
+  </frame>
+  <frame ID="64">
+    <object ID="6" Transcription="颜见璃">
+      <Point x="1010" y="568"/>
+      <Point x="1010" y="493"/>
+      <Point x="1191" y="492"/>
+      <Point x="1192" y="567"/>
+    </object>
+  </frame>
+  <frame ID="65">
+    <object ID="6" Transcription="颜见璃">
+      <Point x="1010" y="568"/>
+      <Point x="1009" y="493"/>
+      <Point x="1193" y="493"/>
+      <Point x="1193" y="567"/>
+    </object>
+  </frame>
+  <frame ID="66">
+    <object ID="6" Transcription="颜见璃">
+      <Point x="1010" y="568"/>
+      <Point x="1009" y="493"/>
+      <Point x="1193" y="492"/>
+      <Point x="1194" y="567"/>
+    </object>
+  </frame>
+  <frame ID="67">
+    <object ID="7" Transcription="别想着逃">
+      <Point x="562" y="695"/>
+      <Point x="562" y="650"/>
+      <Point x="715" y="649"/>
+      <Point x="715" y="694"/>
+    </object>
+  </frame>
+  <frame ID="68">
+    <object ID="7" Transcription="别想着逃">
+      <Point x="561" y="695"/>
+      <Point x="561" y="649"/>
+      <Point x="716" y="649"/>
+      <Point x="716" y="694"/>
+    </object>
+  </frame>
+  <frame ID="69"/>
+  <frame ID="70">
+    <object ID="7" Transcription="不管你心里藏着什么事">
+      <Point x="452" y="694"/>
+      <Point x="452" y="651"/>
+      <Point x="824" y="650"/>
+      <Point x="824" y="693"/>
+    </object>
+  </frame>
+  <frame ID="71">
+    <object ID="7" Transcription="不管你心里藏着什么事">
+      <Point x="452" y="694"/>
+      <Point x="452" y="650"/>
+      <Point x="824" y="649"/>
+      <Point x="824" y="693"/>
+    </object>
+  </frame>
+  <frame ID="72">
+    <object ID="7" Transcription="不管你心里藏着什么事">
+      <Point x="452" y="694"/>
+      <Point x="452" y="650"/>
+      <Point x="824" y="649"/>
+      <Point x="824" y="693"/>
+    </object>
+  </frame>
+  <frame ID="73">
+    <object ID="7" Transcription="不管你心里藏着什么事">
+      <Point x="452" y="694"/>
+      <Point x="452" y="651"/>
+      <Point x="823" y="649"/>
+      <Point x="823" y="693"/>
+    </object>
+  </frame>
+  <frame ID="74"/>
+  <frame ID="75">
+    <object ID="7" Transcription="你是人是鬼">
+      <Point x="543" y="693"/>
+      <Point x="543" y="651"/>
+      <Point x="733" y="650"/>
+      <Point x="734" y="693"/>
+    </object>
+  </frame>
+  <frame ID="76">
+    <object ID="7" Transcription="你是人是鬼">
+      <Point x="543" y="693"/>
+      <Point x="543" y="651"/>
+      <Point x="734" y="650"/>
+      <Point x="734" y="693"/>
+    </object>
+  </frame>
+  <frame ID="77">
+    <object ID="7" Transcription="你是人是鬼">
+      <Point x="543" y="693"/>
+      <Point x="543" y="651"/>
+      <Point x="734" y="650"/>
+      <Point x="734" y="692"/>
+    </object>
+  </frame>
+  <frame ID="78"/>
+  <frame ID="79"/>
+  <frame ID="80">
+    <object ID="7" Transcription="都别想能离开我">
+      <Point x="508" y="698"/>
+      <Point x="508" y="650"/>
+      <Point x="768" y="649"/>
+      <Point x="768" y="697"/>
+    </object>
+  </frame>
+  <frame ID="81">
+    <object ID="7" Transcription="都别想能离开我">
+      <Point x="507" y="698"/>
+      <Point x="507" y="650"/>
+      <Point x="768" y="649"/>
+      <Point x="768" y="697"/>
+    </object>
+  </frame>
+  <frame ID="82">
+    <object ID="7" Transcription="都别想能离开我">
+      <Point x="507" y="698"/>
+      <Point x="507" y="650"/>
+      <Point x="768" y="649"/>
+      <Point x="768" y="697"/>
+    </object>
+  </frame>
+  <frame ID="83">
+    <object ID="7" Transcription="都别想能离开我">
+      <Point x="507" y="698"/>
+      <Point x="507" y="649"/>
+      <Point x="768" y="649"/>
+      <Point x="768" y="697"/>
+    </object>
+  </frame>
+  <frame ID="84"/>
+  <frame ID="85"/>
+  <frame ID="86"/>
+  <frame ID="87"/>
+  <frame ID="88">
+    <object ID="8" Transcription="半个月前">
+      <Point x="63" y="665"/>
+      <Point x="63" y="611"/>
+      <Point x="262" y="611"/>
+      <Point x="262" y="665"/>
+    </object>
+  </frame>
+  <frame ID="89">
+    <object ID="8" Transcription="半个月前">
+      <Point x="63" y="664"/>
+      <Point x="63" y="612"/>
+      <Point x="262" y="612"/>
+      <Point x="262" y="664"/>
+    </object>
+  </frame>
+  <frame ID="90">
+    <object ID="8" Transcription="半个月前">
+      <Point x="63" y="664"/>
+      <Point x="63" y="612"/>
+      <Point x="262" y="612"/>
+      <Point x="262" y="664"/>
+    </object>
+  </frame>
+  <frame ID="91">
+    <object ID="8" Transcription="半个月前">
+      <Point x="63" y="664"/>
+      <Point x="63" y="612"/>
+      <Point x="262" y="612"/>
+      <Point x="262" y="664"/>
+    </object>
+  </frame>
+  <frame ID="92">
+    <object ID="8" Transcription="半个月前">
+      <Point x="64" y="664"/>
+      <Point x="64" y="612"/>
+      <Point x="262" y="611"/>
+      <Point x="263" y="664"/>
+    </object>
+  </frame>
+  <frame ID="93">
+    <object ID="8" Transcription="半个月前">
+      <Point x="260" y="663"/>
+      <Point x="65" y="663"/>
+      <Point x="65" y="612"/>
+      <Point x="260" y="612"/>
+    </object>
+  </frame>
+  <frame ID="94"/>
+  <frame ID="95"/>
+  <frame ID="96"/>
+  <frame ID="97"/>
+  <frame ID="98"/>
+  <frame ID="99"/>
+  <frame ID="100"/>
+  <frame ID="101"/>
+  <frame ID="102"/>
+  <frame ID="103"/>
+  <frame ID="104"/>
+  <frame ID="105"/>
+  <frame ID="106"/>
+  <frame ID="107"/>
+  <frame ID="108"/>
+  <frame ID="109"/>
+  <frame ID="110"/>
+  <frame ID="111"/>
+  <frame ID="112"/>
+  <frame ID="113"/>
+  <frame ID="114"/>
+  <frame ID="115"/>
+  <frame ID="116"/>
+  <frame ID="117"/>
+  <frame ID="118"/>
+  <frame ID="119"/>
+  <frame ID="120"/>
+  <frame ID="121">
+    <object ID="15" Transcription="我找了十几年">
+      <Point x="527" y="696"/>
+      <Point x="526" y="649"/>
+      <Point x="752" y="649"/>
+      <Point x="752" y="695"/>
+    </object>
+  </frame>
+  <frame ID="122">
+    <object ID="15" Transcription="我找了十几年">
+      <Point x="526" y="695"/>
+      <Point x="526" y="649"/>
+      <Point x="751" y="649"/>
+      <Point x="751" y="694"/>
+    </object>
+  </frame>
+  <frame ID="123"/>
+  <frame ID="124"/>
+  <frame ID="125">
+    <object ID="15" Transcription="终于找到你了">
+      <Point x="526" y="695"/>
+      <Point x="526" y="650"/>
+      <Point x="747" y="650"/>
+      <Point x="747" y="695"/>
+    </object>
+  </frame>
+  <frame ID="126">
+    <object ID="15" Transcription="终于找到你了">
+      <Point x="526" y="695"/>
+      <Point x="526" y="651"/>
+      <Point x="746" y="650"/>
+      <Point x="746" y="694"/>
+    </object>
+  </frame>
+  <frame ID="127">
+    <object ID="15" Transcription="终于找到你了">
+      <Point x="526" y="695"/>
+      <Point x="526" y="651"/>
+      <Point x="746" y="650"/>
+      <Point x="747" y="694"/>
+    </object>
+  </frame>
+  <frame ID="128"/>
+  <frame ID="129">
+    <object ID="15" Transcription="这一次就算绑">
+      <Point x="527" y="694"/>
+      <Point x="526" y="651"/>
+      <Point x="749" y="651"/>
+      <Point x="749" y="693"/>
+    </object>
+  </frame>
+  <frame ID="130">
+    <object ID="15" Transcription="这一次就算绑">
+      <Point x="527" y="694"/>
+      <Point x="526" y="651"/>
+      <Point x="749" y="650"/>
+      <Point x="749" y="693"/>
+    </object>
+  </frame>
+  <frame ID="131">
+    <object ID="15" Transcription="这一次就算绑">
+      <Point x="527" y="693"/>
+      <Point x="527" y="651"/>
+      <Point x="748" y="650"/>
+      <Point x="748" y="693"/>
+    </object>
+  </frame>
+  <frame ID="132">
+    <object ID="15" Transcription="这一次就算绑">
+      <Point x="527" y="693"/>
+      <Point x="527" y="651"/>
+      <Point x="750" y="651"/>
+      <Point x="750" y="693"/>
+    </object>
+  </frame>
+  <frame ID="133">
+    <object ID="15" Transcription="这一次就算绑">
+      <Point x="526" y="694"/>
+      <Point x="526" y="651"/>
+      <Point x="750" y="650"/>
+      <Point x="750" y="693"/>
+    </object>
+  </frame>
+  <frame ID="134">
+    <object ID="15" Transcription="这一次就算绑">
+      <Point x="526" y="694"/>
+      <Point x="526" y="651"/>
+      <Point x="750" y="651"/>
+      <Point x="750" y="694"/>
+    </object>
+  </frame>
+  <frame ID="135">
+    <object ID="15" Transcription="我也不会再让你消失">
+      <Point x="471" y="694"/>
+      <Point x="471" y="652"/>
+      <Point x="805" y="651"/>
+      <Point x="805" y="693"/>
+    </object>
+  </frame>
+  <frame ID="136">
+    <object ID="15" Transcription="我也不会再让你消失">
+      <Point x="471" y="694"/>
+      <Point x="471" y="651"/>
+      <Point x="805" y="651"/>
+      <Point x="805" y="693"/>
+    </object>
+  </frame>
+  <frame ID="137">
+    <object ID="15" Transcription="我也不会再让你消失">
+      <Point x="472" y="693"/>
+      <Point x="472" y="651"/>
+      <Point x="805" y="651"/>
+      <Point x="805" y="693"/>
+    </object>
+  </frame>
+  <frame ID="138">
+    <object ID="15" Transcription="我也不会再让你消失">
+      <Point x="471" y="693"/>
+      <Point x="471" y="651"/>
+      <Point x="804" y="651"/>
+      <Point x="805" y="693"/>
+    </object>
+  </frame>
+  <frame ID="139"/>
+  <frame ID="140"/>
+  <frame ID="141"/>
+  <frame ID="142"/>
+  <frame ID="143"/>
+  <frame ID="144"/>
+  <frame ID="145"/>
+  <frame ID="146"/>
+  <frame ID="147"/>
+  <frame ID="148"/>
+  <frame ID="149"/>
+  <frame ID="150">
+    <object ID="16" Transcription="乖乖待着">
+      <Point x="563" y="693"/>
+      <Point x="563" y="652"/>
+      <Point x="713" y="651"/>
+      <Point x="713" y="692"/>
+    </object>
+  </frame>
+  <frame ID="151">
+    <object ID="16" Transcription="乖乖待着">
+      <Point x="563" y="693"/>
+      <Point x="563" y="652"/>
+      <Point x="713" y="651"/>
+      <Point x="713" y="693"/>
+    </object>
+  </frame>
+  <frame ID="152"/>
+  <frame ID="153">
+    <object ID="16" Transcription="这里很安全">
+      <Point x="546" y="693"/>
+      <Point x="546" y="649"/>
+      <Point x="732" y="649"/>
+      <Point x="732" y="692"/>
+    </object>
+  </frame>
+  <frame ID="154">
+    <object ID="16" Transcription="这里很安全">
+      <Point x="546" y="693"/>
+      <Point x="545" y="649"/>
+      <Point x="732" y="649"/>
+      <Point x="732" y="692"/>
+    </object>
+  </frame>
+  <frame ID="155"/>
+  <frame ID="156">
+    <object ID="16" Transcription="没人能伤你">
+      <Point x="544" y="693"/>
+      <Point x="544" y="649"/>
+      <Point x="731" y="649"/>
+      <Point x="731" y="693"/>
+    </object>
+  </frame>
+  <frame ID="157">
+    <object ID="16" Transcription="没人能伤你">
+      <Point x="544" y="693"/>
+      <Point x="544" y="649"/>
+      <Point x="731" y="649"/>
+      <Point x="731" y="693"/>
+    </object>
+  </frame>
+  <frame ID="158"/>
+  <frame ID="159"/>
+  <frame ID="160"/>
+  <frame ID="161"/>
+  <frame ID="162">
+    <object ID="16" Transcription="凌镜尘">
+      <Point x="584" y="691"/>
+      <Point x="584" y="653"/>
+      <Point x="693" y="652"/>
+      <Point x="693" y="691"/>
+    </object>
+  </frame>
+  <frame ID="163">
+    <object ID="16" Transcription="凌镜尘">
+      <Point x="694" y="691"/>
+      <Point x="584" y="690"/>
+      <Point x="584" y="652"/>
+      <Point x="694" y="652"/>
+    </object>
+  </frame>
+  <frame ID="164"/>
+  <frame ID="165">
+    <object ID="16" Transcription="你对我的好">
+      <Point x="733" y="694"/>
+      <Point x="542" y="693"/>
+      <Point x="543" y="651"/>
+      <Point x="733" y="652"/>
+    </object>
+  </frame>
+  <frame ID="166">
+    <object ID="16" Transcription="你对我的好">
+      <Point x="733" y="693"/>
+      <Point x="543" y="692"/>
+      <Point x="543" y="650"/>
+      <Point x="734" y="651"/>
+    </object>
+  </frame>
+  <frame ID="167"/>
+  <frame ID="168">
+    <object ID="16" Transcription="我不敢要">
+      <Point x="716" y="695"/>
+      <Point x="564" y="692"/>
+      <Point x="564" y="650"/>
+      <Point x="716" y="652"/>
+    </object>
+  </frame>
+  <frame ID="169">
+    <object ID="16" Transcription="我不敢要">
+      <Point x="716" y="695"/>
+      <Point x="564" y="693"/>
+      <Point x="564" y="651"/>
+      <Point x="716" y="652"/>
+    </object>
+  </frame>
+  <frame ID="170">
+    <object ID="16" Transcription="也不能要">
+      <Point x="564" y="694"/>
+      <Point x="564" y="652"/>
+      <Point x="716" y="652"/>
+      <Point x="716" y="694"/>
+    </object>
+  </frame>
+  <frame ID="171">
+    <object ID="16" Transcription="也不能要">
+      <Point x="564" y="694"/>
+      <Point x="564" y="652"/>
+      <Point x="716" y="652"/>
+      <Point x="716" y="694"/>
+    </object>
+  </frame>
+  <frame ID="172">
+    <object ID="16" Transcription="你我之间">
+      <Point x="562" y="694"/>
+      <Point x="561" y="651"/>
+      <Point x="714" y="650"/>
+      <Point x="714" y="694"/>
+    </object>
+  </frame>
+  <frame ID="173">
+    <object ID="16" Transcription="你我之间">
+      <Point x="562" y="694"/>
+      <Point x="561" y="651"/>
+      <Point x="714" y="650"/>
+      <Point x="714" y="694"/>
+    </object>
+  </frame>
+  <frame ID="174">
+    <object ID="16" Transcription="你我之间">
+      <Point x="561" y="694"/>
+      <Point x="561" y="651"/>
+      <Point x="714" y="650"/>
+      <Point x="714" y="694"/>
+    </object>
+  </frame>
+  <frame ID="175"/>
+  <frame ID="176">
+    <object ID="16" Transcription="从一开始就势不两立">
+      <Point x="470" y="696"/>
+      <Point x="470" y="651"/>
+      <Point x="806" y="650"/>
+      <Point x="806" y="695"/>
+    </object>
+  </frame>
+  <frame ID="177">
+    <object ID="16" Transcription="从一开始就势不两立">
+      <Point x="470" y="696"/>
+      <Point x="470" y="650"/>
+      <Point x="806" y="650"/>
+      <Point x="806" y="695"/>
+    </object>
+  </frame>
+  <frame ID="178">
+    <object ID="16" Transcription="从一开始就势不两立">
+      <Point x="470" y="696"/>
+      <Point x="470" y="651"/>
+      <Point x="806" y="650"/>
+      <Point x="806" y="695"/>
+    </object>
+  </frame>
+  <frame ID="179">
+    <object ID="16" Transcription="从一开始就势不两立">
+      <Point x="470" y="696"/>
+      <Point x="470" y="651"/>
+      <Point x="806" y="650"/>
+      <Point x="806" y="696"/>
+    </object>
+  </frame>
+  <frame ID="180"/>
+  <frame ID="181"/>
+  <frame ID="182"/>
+  <frame ID="183"/>
+</Frames>

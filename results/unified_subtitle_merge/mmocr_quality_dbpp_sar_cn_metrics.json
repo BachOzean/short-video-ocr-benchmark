@@ -1,0 +1,37 @@
+{
+  "method": "mmocr_quality_dbpp_sar_cn",
+  "status": "ok",
+  "source": "/home/derbach/code/ocr_eval/results/mmocr_quality_dbpp_sar_cn_predictions.jsonl",
+  "merge": {
+    "type": "adjacent_conservative_fuzzy",
+    "sim_threshold": 0.88,
+    "short_threshold": 0.94,
+    "frame_interval": 0.5,
+    "max_blank_gap": 1.0
+  },
+  "videos": 25,
+  "micro": {
+    "cer": 25.31588681339005,
+    "precision": 0.02306676658459123,
+    "recall": 0.5977436656186425,
+    "f1": 0.04441940050301672,
+    "substitutions": 2175,
+    "deletions": 0,
+    "insertions": 134708,
+    "errors": 136883,
+    "correct": 3232,
+    "gt_chars": 5407,
+    "pred_chars": 140115
+  },
+  "macro": {
+    "cer": 35.682331977810925,
+    "precision": 0.022818536576410774,
+    "recall": 0.666269516805909,
+    "f1": 0.04362428151613325
+  },
+  "files": {
+    "merged_predictions": "/home/derbach/code/ocr_eval/results/unified_subtitle_merge/mmocr_quality_dbpp_sar_cn_merged_predictions.jsonl",
+    "per_video": "/home/derbach/code/ocr_eval/results/unified_subtitle_merge/mmocr_quality_dbpp_sar_cn_per_video.csv",
+    "metrics": "/home/derbach/code/ocr_eval/results/unified_subtitle_merge/mmocr_quality_dbpp_sar_cn_metrics.json"
+  }
+}

@@ -1,0 +1,96 @@
+<?xml version="1.0" ?>
+<Frames>
+  <frame ID="1"/>
+  <frame ID="2"/>
+  <frame ID="3"/>
+  <frame ID="4"/>
+  <frame ID="5"/>
+  <frame ID="6"/>
+  <frame ID="7"/>
+  <frame ID="8"/>
+  <frame ID="9"/>
+  <frame ID="10"/>
+  <frame ID="11"/>
+  <frame ID="12"/>
+  <frame ID="13"/>
+  <frame ID="14"/>
+  <frame ID="15"/>
+  <frame ID="16"/>
+  <frame ID="17"/>
+  <frame ID="18">
+    <object ID="5" Transcription="到底要不要和我在一起">
+      <Point x="136" y="929"/>
+      <Point x="136" y="879"/>
+      <Point x="583" y="879"/>
+      <Point x="583" y="929"/>
+    </object>
+  </frame>
+  <frame ID="19">
+    <object ID="5" Transcription="到底要不要和我在一起">
+      <Point x="583" y="929"/>
+      <Point x="136" y="929"/>
+      <Point x="136" y="879"/>
+      <Point x="583" y="880"/>
+    </object>
+  </frame>
+  <frame ID="20">
+    <object ID="5" Transcription="到底要不要和我在一起">
+      <Point x="135" y="929"/>
+      <Point x="135" y="880"/>
+      <Point x="583" y="879"/>
+      <Point x="583" y="929"/>
+    </object>
+  </frame>
+  <frame ID="21"/>
+  <frame ID="22">
+    <object ID="5" Transcription="那让闻外那个走">
+      <Point x="515" y="929"/>
+      <Point x="200" y="928"/>
+      <Point x="201" y="880"/>
+      <Point x="515" y="881"/>
+    </object>
+  </frame>
+  <frame ID="23">
+    <object ID="5" Transcription="那让闻外那个走">
+      <Point x="514" y="929"/>
+      <Point x="201" y="928"/>
+      <Point x="201" y="880"/>
+      <Point x="514" y="881"/>
+    </object>
+  </frame>
+  <frame ID="24"/>
+  <frame ID="25"/>
+  <frame ID="26">
+    <object ID="5" Transcription="安安你没事吧">
+      <Point x="200" y="958"/>
+      <Point x="200" y="902"/>
+      <Point x="518" y="902"/>
+      <Point x="518" y="958"/>
+    </object>
+  </frame>
+  <frame ID="27">
+    <object ID="5" Transcription="安安你没事吧">
+      <Point x="200" y="958"/>
+      <Point x="200" y="902"/>
+      <Point x="518" y="902"/>
+      <Point x="518" y="958"/>
+    </object>
+  </frame>
+  <frame ID="28">
+    <object ID="5" Transcription="安安你没事吧">
+      <Point x="199" y="958"/>
+      <Point x="199" y="901"/>
+      <Point x="518" y="901"/>
+      <Point x="518" y="958"/>
+    </object>
+  </frame>
+  <frame ID="29">
+    <object ID="5" Transcription="安安你没事吧">
+      <Point x="200" y="958"/>
+      <Point x="200" y="901"/>
+      <Point x="519" y="901"/>
+      <Point x="519" y="958"/>
+    </object>
+  </frame>
+  <frame ID="30"/>
+</Frames>

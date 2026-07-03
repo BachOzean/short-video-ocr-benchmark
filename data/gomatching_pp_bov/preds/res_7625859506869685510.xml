@@ -1,0 +1,138 @@
+<?xml version="1.0" ?>
+<Frames>
+  <frame ID="1"/>
+  <frame ID="2"/>
+  <frame ID="3"/>
+  <frame ID="4"/>
+  <frame ID="5"/>
+  <frame ID="6"/>
+  <frame ID="7"/>
+  <frame ID="8"/>
+  <frame ID="9"/>
+  <frame ID="10"/>
+  <frame ID="11">
+    <object ID="4" Transcription="你干什么">
+      <Point x="474" y="870"/>
+      <Point x="241" y="869"/>
+      <Point x="242" y="808"/>
+      <Point x="474" y="809"/>
+    </object>
+  </frame>
+  <frame ID="12"/>
+  <frame ID="13">
+    <object ID="4" Transcription="一百块">
+      <Point x="272" y="868"/>
+      <Point x="272" y="808"/>
+      <Point x="450" y="808"/>
+      <Point x="450" y="868"/>
+    </object>
+  </frame>
+  <frame ID="14">
+    <object ID="4" Transcription="师傅">
+      <Point x="417" y="869"/>
+      <Point x="299" y="868"/>
+      <Point x="299" y="807"/>
+      <Point x="417" y="808"/>
+    </object>
+  </frame>
+  <frame ID="15">
+    <object ID="4" Transcription="马上送我回家">
+      <Point x="186" y="869"/>
+      <Point x="186" y="808"/>
+      <Point x="535" y="808"/>
+      <Point x="535" y="869"/>
+    </object>
+  </frame>
+  <frame ID="16">
+    <object ID="4" Transcription="马上送我回家">
+      <Point x="534" y="869"/>
+      <Point x="186" y="869"/>
+      <Point x="186" y="808"/>
+      <Point x="534" y="808"/>
+    </object>
+  </frame>
+  <frame ID="17"/>
+  <frame ID="18">
+    <object ID="4" Transcription="我不是跑出租的">
+      <Point x="155" y="869"/>
+      <Point x="155" y="808"/>
+      <Point x="563" y="808"/>
+      <Point x="563" y="869"/>
+    </object>
+  </frame>
+  <frame ID="19">
+    <object ID="4" Transcription="我不是跑出租的">
+      <Point x="563" y="868"/>
+      <Point x="156" y="868"/>
+      <Point x="156" y="807"/>
+      <Point x="563" y="808"/>
+    </object>
+  </frame>
+  <frame ID="20">
+    <object ID="4" Transcription="我不是跑出租的">
+      <Point x="562" y="869"/>
+      <Point x="155" y="869"/>
+      <Point x="155" y="808"/>
+      <Point x="562" y="808"/>
+    </object>
+  </frame>
+  <frame ID="21">
+    <object ID="4" Transcription="我老公出轨了">
+      <Point x="184" y="868"/>
+      <Point x="184" y="809"/>
+      <Point x="529" y="808"/>
+      <Point x="529" y="868"/>
+    </object>
+  </frame>
+  <frame ID="22">
+    <object ID="4" Transcription="我老公出轨了">
+      <Point x="184" y="868"/>
+      <Point x="183" y="808"/>
+      <Point x="529" y="808"/>
+      <Point x="529" y="868"/>
+    </object>
+  </frame>
+  <frame ID="23">
+    <object ID="4" Transcription="我着急回家捉奸">
+      <Point x="564" y="869"/>
+      <Point x="155" y="869"/>
+      <Point x="155" y="808"/>
+      <Point x="564" y="808"/>
+    </object>
+  </frame>
+  <frame ID="24">
+    <object ID="4" Transcription="我着急回家捉奸">
+      <Point x="155" y="870"/>
+      <Point x="155" y="807"/>
+      <Point x="565" y="807"/>
+      <Point x="565" y="869"/>
+    </object>
+  </frame>
+  <frame ID="25">
+    <object ID="4" Transcription="我着急回家提奸">
+      <Point x="155" y="869"/>
+      <Point x="155" y="807"/>
+      <Point x="564" y="807"/>
+      <Point x="564" y="869"/>
+    </object>
+  </frame>
+  <frame ID="26"/>
+  <frame ID="27">
+    <object ID="4" Transcription="坐好">
+      <Point x="303" y="870"/>
+      <Point x="303" y="808"/>
+      <Point x="417" y="808"/>
+      <Point x="417" y="870"/>
+    </object>
+  </frame>
+  <frame ID="28"/>
+  <frame ID="29"/>
+  <frame ID="30"/>
+  <frame ID="31"/>
+  <frame ID="32"/>
+  <frame ID="33"/>
+  <frame ID="34"/>
+  <frame ID="35"/>
+  <frame ID="36"/>
+  <frame ID="37"/>
+</Frames>
