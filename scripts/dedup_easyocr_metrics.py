@@ -5,8 +5,8 @@ import re
 from collections import Counter, defaultdict
 from pathlib import Path
 
-PRED = Path('/home/derbach/code/ocr_eval/results/easyocr_predictions.jsonl')
-OUT_DIR = Path('/home/derbach/code/ocr_eval/results')
+PRED = Path('results/easyocr_predictions.jsonl')
+OUT_DIR = Path('results')
 
 STRATEGIES = {
     'conservative': {

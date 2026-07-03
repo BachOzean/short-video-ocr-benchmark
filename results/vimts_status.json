@@ -2,7 +2,7 @@
   "status": "unavailable",
   "requested": "VimTS original configuration",
   "environment": {
-    "venv": "/home/derbach/code/ocr_eval_venv",
+    "venv": "<LOCAL_OCR_EVAL_VENV>",
     "python": "3.12",
     "gpu": "NVIDIA GeForce RTX 5070 / CUDA 13 stack"
   },

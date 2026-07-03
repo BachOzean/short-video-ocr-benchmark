@@ -3,8 +3,8 @@ import csv
 import json
 from pathlib import Path
 
-PRED = Path('/home/derbach/code/ocr_eval/results/easyocr_predictions.jsonl')
-OUT_DIR = Path('/home/derbach/code/ocr_eval/results')
+PRED = Path('results/easyocr_predictions.jsonl')
+OUT_DIR = Path('results')
 
 MODES = {
     'adjacent_exact': {'mode': 'exact'},

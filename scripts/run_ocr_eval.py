@@ -329,8 +329,8 @@ def write_summary(out_dir: Path, statuses: List[dict]) -> None:
 
 def main() -> int:
     parser = argparse.ArgumentParser()
-    parser.add_argument("--dataset", default="/home/derbach/code/douyin_ocr_formal_testset")
-    parser.add_argument("--out", default="/home/derbach/code/ocr_eval/results")
+    parser.add_argument("--dataset", default="data/formal_testset")
+    parser.add_argument("--out", default="results")
     parser.add_argument("--engine", choices=["easyocr", "mmocr", "vimts", "all"], default="all")
     parser.add_argument("--interval", type=float, default=0.5)
     parser.add_argument("--device", default="cuda:0")

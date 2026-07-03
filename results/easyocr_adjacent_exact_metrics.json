@@ -26,8 +26,8 @@
     "macro_recall": 0.8036617246206729,
     "macro_f1": 0.6582378751693865
   },
-  "prediction_file": "/home/derbach/code/ocr_eval/results/easyocr_adjacent_exact_predictions.jsonl",
-  "per_video_csv": "/home/derbach/code/ocr_eval/results/easyocr_adjacent_exact_per_video.csv",
+  "prediction_file": "results/easyocr_adjacent_exact_predictions.jsonl",
+  "per_video_csv": "results/easyocr_adjacent_exact_per_video.csv",
   "per_video": [
     {
       "video_id": "7624633114488433990",

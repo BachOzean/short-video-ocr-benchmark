@@ -2,7 +2,7 @@
   {
     "method": "easyocr",
     "status": "ok",
-    "source": "/home/derbach/code/ocr_eval/results/easyocr_predictions.jsonl",
+    "source": "results/easyocr_predictions.jsonl",
     "merge": {
       "type": "adjacent_conservative_fuzzy",
       "sim_threshold": 0.88,
@@ -31,15 +31,15 @@
       "f1": 0.6811480550984463
     },
     "files": {
-      "merged_predictions": "/home/derbach/code/ocr_eval/results/unified_subtitle_merge/easyocr_merged_predictions.jsonl",
-      "per_video": "/home/derbach/code/ocr_eval/results/unified_subtitle_merge/easyocr_per_video.csv",
-      "metrics": "/home/derbach/code/ocr_eval/results/unified_subtitle_merge/easyocr_metrics.json"
+      "merged_predictions": "results/unified_subtitle_merge/easyocr_merged_predictions.jsonl",
+      "per_video": "results/unified_subtitle_merge/easyocr_per_video.csv",
+      "metrics": "results/unified_subtitle_merge/easyocr_metrics.json"
     }
   },
   {
     "method": "gomatching_pp",
     "status": "ok",
-    "source": "/home/derbach/code/gomatching_work/output/gomatching_pp_bov/preds",
+    "source": "data/gomatching_pp_bov/preds",
     "merge": {
       "type": "adjacent_conservative_fuzzy",
       "sim_threshold": 0.88,
@@ -68,15 +68,15 @@
       "f1": 0.7291978305922164
     },
     "files": {
-      "merged_predictions": "/home/derbach/code/ocr_eval/results/unified_subtitle_merge/gomatching_pp_merged_predictions.jsonl",
-      "per_video": "/home/derbach/code/ocr_eval/results/unified_subtitle_merge/gomatching_pp_per_video.csv",
-      "metrics": "/home/derbach/code/ocr_eval/results/unified_subtitle_merge/gomatching_pp_metrics.json"
+      "merged_predictions": "results/unified_subtitle_merge/gomatching_pp_merged_predictions.jsonl",
+      "per_video": "results/unified_subtitle_merge/gomatching_pp_per_video.csv",
+      "metrics": "results/unified_subtitle_merge/gomatching_pp_metrics.json"
     }
   },
   {
     "method": "rapidocr",
     "status": "ok",
-    "source": "/home/derbach/code/frame_predictions_rapidocr(1).csv",
+    "source": "data/frame_predictions/frame_predictions_rapidocr.csv",
     "merge": {
       "type": "adjacent_conservative_fuzzy",
       "sim_threshold": 0.88,
@@ -105,15 +105,15 @@
       "f1": 0.7653538972124327
     },
     "files": {
-      "merged_predictions": "/home/derbach/code/ocr_eval/results/unified_subtitle_merge/rapidocr_merged_predictions.jsonl",
-      "per_video": "/home/derbach/code/ocr_eval/results/unified_subtitle_merge/rapidocr_per_video.csv",
-      "metrics": "/home/derbach/code/ocr_eval/results/unified_subtitle_merge/rapidocr_metrics.json"
+      "merged_predictions": "results/unified_subtitle_merge/rapidocr_merged_predictions.jsonl",
+      "per_video": "results/unified_subtitle_merge/rapidocr_per_video.csv",
+      "metrics": "results/unified_subtitle_merge/rapidocr_metrics.json"
     }
   },
   {
     "method": "paddle_vl15",
     "status": "ok",
-    "source": "/home/derbach/code/frame_predictions_ppocr(1).csv",
+    "source": "data/frame_predictions/frame_predictions_ppocr.csv",
     "merge": {
       "type": "adjacent_conservative_fuzzy",
       "sim_threshold": 0.88,
@@ -142,15 +142,15 @@
       "f1": 0.6451146867849781
     },
     "files": {
-      "merged_predictions": "/home/derbach/code/ocr_eval/results/unified_subtitle_merge/paddle_vl15_merged_predictions.jsonl",
-      "per_video": "/home/derbach/code/ocr_eval/results/unified_subtitle_merge/paddle_vl15_per_video.csv",
-      "metrics": "/home/derbach/code/ocr_eval/results/unified_subtitle_merge/paddle_vl15_metrics.json"
+      "merged_predictions": "results/unified_subtitle_merge/paddle_vl15_merged_predictions.jsonl",
+      "per_video": "results/unified_subtitle_merge/paddle_vl15_per_video.csv",
+      "metrics": "results/unified_subtitle_merge/paddle_vl15_metrics.json"
     }
   },
   {
     "method": "glm_ocr",
     "status": "ok",
-    "source": "/home/derbach/code/frame_predictions_glmocr_clean(1).csv",
+    "source": "data/frame_predictions/frame_predictions_glmocr_clean.csv",
     "merge": {
       "type": "adjacent_conservative_fuzzy",
       "sim_threshold": 0.88,
@@ -179,15 +179,15 @@
       "f1": 0.759024942935067
     },
     "files": {
-      "merged_predictions": "/home/derbach/code/ocr_eval/results/unified_subtitle_merge/glm_ocr_merged_predictions.jsonl",
-      "per_video": "/home/derbach/code/ocr_eval/results/unified_subtitle_merge/glm_ocr_per_video.csv",
-      "metrics": "/home/derbach/code/ocr_eval/results/unified_subtitle_merge/glm_ocr_metrics.json"
+      "merged_predictions": "results/unified_subtitle_merge/glm_ocr_merged_predictions.jsonl",
+      "per_video": "results/unified_subtitle_merge/glm_ocr_per_video.csv",
+      "metrics": "results/unified_subtitle_merge/glm_ocr_metrics.json"
     }
   },
   {
     "method": "ppocr_v4",
     "status": "ok",
-    "source": "/home/derbach/code/ocr_eval/results/ppocr_v4_predictions.jsonl",
+    "source": "results/ppocr_v4_predictions.jsonl",
     "merge": {
       "type": "adjacent_conservative_fuzzy",
       "sim_threshold": 0.88,
@@ -216,15 +216,15 @@
       "f1": 0.6606474299729972
     },
     "files": {
-      "merged_predictions": "/home/derbach/code/ocr_eval/results/unified_subtitle_merge/ppocr_v4_merged_predictions.jsonl",
-      "per_video": "/home/derbach/code/ocr_eval/results/unified_subtitle_merge/ppocr_v4_per_video.csv",
-      "metrics": "/home/derbach/code/ocr_eval/results/unified_subtitle_merge/ppocr_v4_metrics.json"
+      "merged_predictions": "results/unified_subtitle_merge/ppocr_v4_merged_predictions.jsonl",
+      "per_video": "results/unified_subtitle_merge/ppocr_v4_per_video.csv",
+      "metrics": "results/unified_subtitle_merge/ppocr_v4_metrics.json"
     }
   },
   {
     "method": "ppocr_v5",
     "status": "ok",
-    "source": "/home/derbach/code/ocr_eval/results/ppocr_v5_predictions.jsonl",
+    "source": "results/ppocr_v5_predictions.jsonl",
     "merge": {
       "type": "adjacent_conservative_fuzzy",
       "sim_threshold": 0.88,
@@ -253,15 +253,15 @@
       "f1": 0.6857350716277706
     },
     "files": {
-      "merged_predictions": "/home/derbach/code/ocr_eval/results/unified_subtitle_merge/ppocr_v5_merged_predictions.jsonl",
-      "per_video": "/home/derbach/code/ocr_eval/results/unified_subtitle_merge/ppocr_v5_per_video.csv",
-      "metrics": "/home/derbach/code/ocr_eval/results/unified_subtitle_merge/ppocr_v5_metrics.json"
+      "merged_predictions": "results/unified_subtitle_merge/ppocr_v5_merged_predictions.jsonl",
+      "per_video": "results/unified_subtitle_merge/ppocr_v5_per_video.csv",
+      "metrics": "results/unified_subtitle_merge/ppocr_v5_metrics.json"
     }
   },
   {
     "method": "ppocr_v6",
     "status": "ok",
-    "source": "/home/derbach/code/ocr_eval/results/ppocr_v6_predictions.jsonl",
+    "source": "results/ppocr_v6_predictions.jsonl",
     "merge": {
       "type": "adjacent_conservative_fuzzy",
       "sim_threshold": 0.88,
@@ -290,15 +290,15 @@
       "f1": 0.6451146867849781
     },
     "files": {
-      "merged_predictions": "/home/derbach/code/ocr_eval/results/unified_subtitle_merge/ppocr_v6_merged_predictions.jsonl",
-      "per_video": "/home/derbach/code/ocr_eval/results/unified_subtitle_merge/ppocr_v6_per_video.csv",
-      "metrics": "/home/derbach/code/ocr_eval/results/unified_subtitle_merge/ppocr_v6_metrics.json"
+      "merged_predictions": "results/unified_subtitle_merge/ppocr_v6_merged_predictions.jsonl",
+      "per_video": "results/unified_subtitle_merge/ppocr_v6_per_video.csv",
+      "metrics": "results/unified_subtitle_merge/ppocr_v6_metrics.json"
     }
   },
   {
     "method": "mmocr_quality_dbpp_sar_cn",
     "status": "ok",
-    "source": "/home/derbach/code/ocr_eval/results/mmocr_quality_dbpp_sar_cn_predictions.jsonl",
+    "source": "results/mmocr_quality_dbpp_sar_cn_predictions.jsonl",
     "merge": {
       "type": "adjacent_conservative_fuzzy",
       "sim_threshold": 0.88,
@@ -327,15 +327,15 @@
       "f1": 0.04362428151613325
     },
     "files": {
-      "merged_predictions": "/home/derbach/code/ocr_eval/results/unified_subtitle_merge/mmocr_quality_dbpp_sar_cn_merged_predictions.jsonl",
-      "per_video": "/home/derbach/code/ocr_eval/results/unified_subtitle_merge/mmocr_quality_dbpp_sar_cn_per_video.csv",
-      "metrics": "/home/derbach/code/ocr_eval/results/unified_subtitle_merge/mmocr_quality_dbpp_sar_cn_metrics.json"
+      "merged_predictions": "results/unified_subtitle_merge/mmocr_quality_dbpp_sar_cn_merged_predictions.jsonl",
+      "per_video": "results/unified_subtitle_merge/mmocr_quality_dbpp_sar_cn_per_video.csv",
+      "metrics": "results/unified_subtitle_merge/mmocr_quality_dbpp_sar_cn_metrics.json"
     }
   },
   {
     "method": "mmocr_engineering_panet_sar_cn",
     "status": "ok",
-    "source": "/home/derbach/code/ocr_eval/results/mmocr_engineering_panet_sar_cn_predictions.jsonl",
+    "source": "results/mmocr_engineering_panet_sar_cn_predictions.jsonl",
     "merge": {
       "type": "adjacent_conservative_fuzzy",
       "sim_threshold": 0.88,
@@ -364,15 +364,15 @@
       "f1": 0.06583183591488517
     },
     "files": {
-      "merged_predictions": "/home/derbach/code/ocr_eval/results/unified_subtitle_merge/mmocr_engineering_panet_sar_cn_merged_predictions.jsonl",
-      "per_video": "/home/derbach/code/ocr_eval/results/unified_subtitle_merge/mmocr_engineering_panet_sar_cn_per_video.csv",
-      "metrics": "/home/derbach/code/ocr_eval/results/unified_subtitle_merge/mmocr_engineering_panet_sar_cn_metrics.json"
+      "merged_predictions": "results/unified_subtitle_merge/mmocr_engineering_panet_sar_cn_merged_predictions.jsonl",
+      "per_video": "results/unified_subtitle_merge/mmocr_engineering_panet_sar_cn_per_video.csv",
+      "metrics": "results/unified_subtitle_merge/mmocr_engineering_panet_sar_cn_metrics.json"
     }
   },
   {
     "method": "vimts_original",
     "status": "missing",
-    "path": "/home/derbach/code/ocr_eval/results/vimts_original_predictions.jsonl",
+    "path": "results/vimts_original_predictions.jsonl",
     "optional": true
   }
 ]

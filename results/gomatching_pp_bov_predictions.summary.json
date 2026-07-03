@@ -1,7 +1,7 @@
 {
-  "metadata": "/home/derbach/code/douyin_ocr_formal_testset/metadata.csv",
-  "preds_dir": "/home/derbach/code/gomatching_work/output/gomatching_pp_bov/preds",
-  "output": "/home/derbach/code/ocr_eval/results/gomatching_pp_bov_predictions.jsonl",
+  "metadata": "data/formal_testset/metadata.csv",
+  "preds_dir": "data/gomatching_pp_bov/preds",
+  "output": "results/gomatching_pp_bov_predictions.jsonl",
   "method": "gomatching_pp_bov",
   "fuzzy": "conservative",
   "video_count": 25,

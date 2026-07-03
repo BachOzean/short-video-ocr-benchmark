@@ -5,9 +5,9 @@ import json
 import re
 from pathlib import Path
 
-PRED = Path('/home/derbach/code/ocr_eval/results/easyocr_predictions.jsonl')
-OUT_JSON = Path('/home/derbach/code/ocr_eval/results/easyocr_doc_metrics.json')
-OUT_CSV = Path('/home/derbach/code/ocr_eval/results/easyocr_doc_metrics_per_video.csv')
+PRED = Path('results/easyocr_predictions.jsonl')
+OUT_JSON = Path('results/easyocr_doc_metrics.json')
+OUT_CSV = Path('results/easyocr_doc_metrics_per_video.csv')
 
 # 文档口径核心是按字符统计。这里保留汉字、英文字母、数字；去掉空白、标点、符号，避免标点格式差异主导结果。
 # 如果你希望标点也计入字符，可以把 normalize_text 改成只去空白。

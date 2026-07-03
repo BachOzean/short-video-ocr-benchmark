@@ -10,10 +10,10 @@
     "Added per-frame fallback for PANet empty-crop OpenCV resize failures. Failed frames are emitted as empty OCR results instead of aborting the whole run."
   ],
   "outputs": {
-    "quality_raw": "/home/derbach/code/ocr_eval/results/mmocr_quality_dbpp_sar_cn_predictions.jsonl",
-    "engineering_raw": "/home/derbach/code/ocr_eval/results/mmocr_engineering_panet_sar_cn_predictions.jsonl",
-    "quality_metrics": "/home/derbach/code/ocr_eval/results/unified_subtitle_merge/mmocr_quality_dbpp_sar_cn_metrics.json",
-    "engineering_metrics": "/home/derbach/code/ocr_eval/results/unified_subtitle_merge/mmocr_engineering_panet_sar_cn_metrics.json"
+    "quality_raw": "results/mmocr_quality_dbpp_sar_cn_predictions.jsonl",
+    "engineering_raw": "results/mmocr_engineering_panet_sar_cn_predictions.jsonl",
+    "quality_metrics": "results/unified_subtitle_merge/mmocr_quality_dbpp_sar_cn_metrics.json",
+    "engineering_metrics": "results/unified_subtitle_merge/mmocr_engineering_panet_sar_cn_metrics.json"
   },
   "micro_metrics": {
     "mmocr_quality_dbpp_sar_cn": {

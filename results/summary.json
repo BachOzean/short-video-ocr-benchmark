@@ -3,7 +3,7 @@
     {
       "engine": "easyocr",
       "status": "complete",
-      "prediction_file": "/home/derbach/code/ocr_eval/results/easyocr_predictions.jsonl",
+      "prediction_file": "results/easyocr_predictions.jsonl",
       "elapsed_seconds": 157.828,
       "metrics": {
         "macro_acc_norm_edit": 0.5359101741479703,

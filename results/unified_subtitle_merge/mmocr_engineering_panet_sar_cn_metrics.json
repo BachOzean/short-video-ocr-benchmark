@@ -1,7 +1,7 @@
 {
   "method": "mmocr_engineering_panet_sar_cn",
   "status": "ok",
-  "source": "/home/derbach/code/ocr_eval/results/mmocr_engineering_panet_sar_cn_predictions.jsonl",
+  "source": "results/mmocr_engineering_panet_sar_cn_predictions.jsonl",
   "merge": {
     "type": "adjacent_conservative_fuzzy",
     "sim_threshold": 0.88,
@@ -30,8 +30,8 @@
     "f1": 0.06583183591488517
   },
   "files": {
-    "merged_predictions": "/home/derbach/code/ocr_eval/results/unified_subtitle_merge/mmocr_engineering_panet_sar_cn_merged_predictions.jsonl",
-    "per_video": "/home/derbach/code/ocr_eval/results/unified_subtitle_merge/mmocr_engineering_panet_sar_cn_per_video.csv",
-    "metrics": "/home/derbach/code/ocr_eval/results/unified_subtitle_merge/mmocr_engineering_panet_sar_cn_metrics.json"
+    "merged_predictions": "results/unified_subtitle_merge/mmocr_engineering_panet_sar_cn_merged_predictions.jsonl",
+    "per_video": "results/unified_subtitle_merge/mmocr_engineering_panet_sar_cn_per_video.csv",
+    "metrics": "results/unified_subtitle_merge/mmocr_engineering_panet_sar_cn_metrics.json"
   }
 }

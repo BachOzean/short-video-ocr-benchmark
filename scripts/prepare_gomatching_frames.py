@@ -26,9 +26,9 @@ from typing import Dict, Iterable, List, Optional
 import cv2
 
 
-DEFAULT_METADATA = Path("/home/derbach/code/douyin_ocr_formal_testset/metadata.csv")
-DEFAULT_VIDEOS_DIR = Path("/home/derbach/code/douyin_ocr_formal_testset/videos")
-DEFAULT_OUT_DIR = Path("/home/derbach/code/gomatching_work/douyin_frames_0.5s")
+DEFAULT_METADATA = Path("data/formal_testset/metadata.csv")
+DEFAULT_VIDEOS_DIR = Path("data/formal_testset/videos")
+DEFAULT_OUT_DIR = Path("frames_0.5s")
 
 
 def parse_args() -> argparse.Namespace:

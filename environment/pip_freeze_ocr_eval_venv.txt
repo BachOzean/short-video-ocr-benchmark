@@ -1,7 +1,7 @@
 absl-py==2.4.0
 addict==2.4.0
 # Editable install with no version control (AdelaiDet==0.2.0)
--e /home/derbach/code/gomatching_work/GoMatching/third_party
+-e <LOCAL_GOMATCHING_THIRD_PARTY>
 aliyun-python-sdk-core==2.16.0
 aliyun-python-sdk-kms==2.16.5
 antlr4-python3-runtime==4.9.3
@@ -45,7 +45,7 @@ markdown-it-py==4.2.0
 MarkupSafe==3.0.3
 matplotlib==3.11.0
 mdurl==0.1.2
-mmcv @ file:///home/derbach/code/ocr_eval/mmocr_sar_cn/mmcv_build/mmcv-2.0.1
+mmcv @ file://<LOCAL_MMCV_BUILD>
 mmdet==3.1.0
 mmengine==0.10.7
 mmocr==1.0.1

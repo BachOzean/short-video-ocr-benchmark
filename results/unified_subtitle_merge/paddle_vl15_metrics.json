@@ -1,7 +1,7 @@
 {
   "method": "paddle_vl15",
   "status": "ok",
-  "source": "/home/derbach/code/frame_predictions_ppocr(1).csv",
+  "source": "data/frame_predictions/frame_predictions_ppocr.csv",
   "merge": {
     "type": "adjacent_conservative_fuzzy",
     "sim_threshold": 0.88,
@@ -30,8 +30,8 @@
     "f1": 0.6451146867849781
   },
   "files": {
-    "merged_predictions": "/home/derbach/code/ocr_eval/results/unified_subtitle_merge/paddle_vl15_merged_predictions.jsonl",
-    "per_video": "/home/derbach/code/ocr_eval/results/unified_subtitle_merge/paddle_vl15_per_video.csv",
-    "metrics": "/home/derbach/code/ocr_eval/results/unified_subtitle_merge/paddle_vl15_metrics.json"
+    "merged_predictions": "results/unified_subtitle_merge/paddle_vl15_merged_predictions.jsonl",
+    "per_video": "results/unified_subtitle_merge/paddle_vl15_per_video.csv",
+    "metrics": "results/unified_subtitle_merge/paddle_vl15_metrics.json"
   }
 }

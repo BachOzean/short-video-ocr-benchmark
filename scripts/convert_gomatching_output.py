@@ -23,9 +23,9 @@ from pathlib import Path
 from typing import Dict, Iterable, List, Optional
 
 
-DEFAULT_METADATA = Path("/home/derbach/code/douyin_ocr_formal_testset/metadata.csv")
-DEFAULT_PREDS_DIR = Path("/home/derbach/code/gomatching_work/output/gomatching_pp_bov/preds")
-DEFAULT_OUTPUT = Path("/home/derbach/code/ocr_eval/results/gomatching_pp_predictions.jsonl")
+DEFAULT_METADATA = Path("data/formal_testset/metadata.csv")
+DEFAULT_PREDS_DIR = Path("data/gomatching_pp_bov/preds")
+DEFAULT_OUTPUT = Path("results/gomatching_pp_predictions.jsonl")
 
 
 def parse_args() -> argparse.Namespace:

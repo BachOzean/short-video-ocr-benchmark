@@ -1,7 +1,7 @@
 {
   "method": "gomatching_pp",
   "status": "ok",
-  "source": "/home/derbach/code/gomatching_work/output/gomatching_pp_bov/preds",
+  "source": "data/gomatching_pp_bov/preds",
   "merge": {
     "type": "adjacent_conservative_fuzzy",
     "sim_threshold": 0.88,
@@ -30,8 +30,8 @@
     "f1": 0.7291978305922164
   },
   "files": {
-    "merged_predictions": "/home/derbach/code/ocr_eval/results/unified_subtitle_merge/gomatching_pp_merged_predictions.jsonl",
-    "per_video": "/home/derbach/code/ocr_eval/results/unified_subtitle_merge/gomatching_pp_per_video.csv",
-    "metrics": "/home/derbach/code/ocr_eval/results/unified_subtitle_merge/gomatching_pp_metrics.json"
+    "merged_predictions": "results/unified_subtitle_merge/gomatching_pp_merged_predictions.jsonl",
+    "per_video": "results/unified_subtitle_merge/gomatching_pp_per_video.csv",
+    "metrics": "results/unified_subtitle_merge/gomatching_pp_metrics.json"
   }
 }
